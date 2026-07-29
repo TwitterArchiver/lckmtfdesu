@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-29T12:33:45",
+  "last_updated": "2026-07-29T12:34:53",
   "html": {
     "https://web.archive.org/web/20260419125924if_/https://twitter.com/lckmtfdesu/status/2045849749102932017": {
       "status": "done",
@@ -13161,9 +13161,9 @@
       "referenced_by": [
         "20260603134355_twitter_com_lckmtfdesu_status_2062168403436277967.json"
       ],
-      "last_updated": "2026-07-29T09:49:26",
+      "last_updated": "2026-07-29T12:34:47",
       "last_reason": "HTTPError: 403 Client Error: Forbidden for url: https://web.archive.org/web/20260629215840/https://video.twimg.com/ext_tw_video/2062130518146375680/pu/vid/avc1/720x1210/hx8LYPKNuSdnixUv.mp4?tag=12",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/ext_tw_video/2063482090113622016/pu/vid/avc1/720x1280/OEPSEl8gn1bdRWSK.mp4": {
       "status": "done",
@@ -13178,9 +13178,9 @@
         "20260704143441_twitter_com_lckmtfdesu_status_2073415202184532391.json",
         "20260704143447_twitter_com_lckmtfdesu_status_2073415229099360272.json"
       ],
-      "last_updated": "2026-07-29T09:49:20",
+      "last_updated": "2026-07-29T12:34:53",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260704143441/https://video.twimg.com/tweet_video/HMYiC3Gb0AAkFNt.mp4",
-      "miss_count": 2
+      "miss_count": 3
     }
   },
   "avatars": {
