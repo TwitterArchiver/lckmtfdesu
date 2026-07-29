@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "conversation_id": "2046182098906833033",
+    "created_at": "2026-04-20T12:18:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T13:18:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046201852946169894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1976995735532138496",
+          "start": 0,
+          "username": "JanboMikan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046201852946169894",
+    "in_reply_to_user_id": "1976995735532138496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046182098906833033",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JanboMikan 肌肉記憶（？）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3793,
+        "media_key": "3_2043669441242861568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFySh2uaEAAAV6N.jpg",
+        "width": 3056
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2046182098906833033",
+        "created_at": "2026-04-20T12:18:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T13:18:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046201852946169894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046201852946169894",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046182098906833033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 肌肉記憶（？）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043669441242861568"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "2046182098906833033",
+        "created_at": "2026-04-20T11:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T12:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046182098906833033"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DZAcHOBwcT",
+              "end": 170,
+              "expanded_url": "https://x.com/JanboMikan/status/2046182098906833033/photo/1",
+              "media_key": "3_2043669441242861568",
+              "start": 147,
+              "url": "https://t.co/DZAcHOBwcT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046182098906833033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 903,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "在4S店看车，销售小哥拉开后备箱一顿夸：「你看这纵深，平时出门带宠物，放个最大号的狗笼都没问题。」\n我下意识脑补了一下尺寸。\n这长宽...如果是戴着◯球双手反绑的话，只能勉强蜷缩着趴在里面。\n低头一看，才发现自己已经不知何时并拢双膝，对着后备箱跪进去了......\n销售小哥看我的眼神都傻了。 https://t.co/DZAcHOBwcT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Oberwart, Burgenland, Austria",
+              "geo": {
+                "coordinates": [
+                  16.20595,
+                  47.28971
+                ],
+                "type": "Point"
+              },
+              "locality": "Oberwart",
+              "region": "Burgenland",
+              "sub_region": "Politischer Bezirk Oberwart"
+            }
+          ]
+        },
+        "description": "mtf/GAHT2026.3.26/半家长党/出柜2026.4.14/双相II/重度焦虑强迫抑郁/精分/INFP-T/od割手友善/鉴证退避/福瑞控/arc phi 冰与火/ 社恐/同类回fo/可疑直接b",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aurelia16775",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aurelia16775",
+                "start": 0,
+                "url": "https://t.co/D5Dh6Ua5zJ"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "location": "上海",
+        "name": "丛雨丛雨丛？🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032774748237869062/3VRs-T0m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 881,
+          "like_count": 3574,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1003
+        },
+        "url": "https://t.co/D5Dh6Ua5zJ",
+        "username": "lckmtfdesu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11273,
+          "following_count": 458,
+          "like_count": 15789,
+          "listed_count": 41,
+          "media_count": 230,
+          "tweet_count": 8009
+        },
+        "username": "JanboMikan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "conversation_id": "2078446662113202334",
+    "created_at": "2026-07-19T16:22:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T17:22:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078878100621082918"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2048720366236041216",
+          "start": 0,
+          "username": "mu_musen30336"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078878100621082918",
+    "in_reply_to_user_id": "2048720366236041216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078877011251024297",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mu_musen30336 w\n我是靠超强攻击性当上家长党的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2078446662113202334",
+        "created_at": "2026-07-19T16:22:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T17:22:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078878100621082918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2048720366236041216",
+              "start": 0,
+              "username": "mu_musen30336"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078878100621082918",
+        "in_reply_to_user_id": "2048720366236041216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078877011251024297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mu_musen30336 w\n我是靠超强攻击性当上家长党的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048720366236041216",
+        "conversation_id": "2078446662113202334",
+        "created_at": "2026-07-19T16:17:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T17:17:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078877011251024297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1827958813603102720",
+              "start": 0,
+              "username": "lckmtfdesu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078877011251024297",
+        "in_reply_to_user_id": "1827958813603102720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078446662113202334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lckmtfdesu 父母很开明耶，我家长收过好几次药，每天都在为了这些事发脾气"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "mtf/hrt2026.3.26/半家长党/福瑞控/arc phi 冰与火 战雷/ 见证退避/查成分回fo\n好姐姐@ogsa1687497",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 57,
+                "username": "ogsa1687497"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/profile.php?id…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/profile.php?id=61590025657067&mibextid=ZbWKwL",
+                "start": 0,
+                "url": "https://t.co/y1Iah85nsp"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "location": "上海",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2078437621102252181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056692984549433344/ErO8uC8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1386,
+          "following_count": 1425,
+          "like_count": 6978,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 2606
+        },
+        "url": "https://t.co/y1Iah85nsp",
+        "username": "lckmtfdesu",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-27T11:06:47.000Z",
+        "description": "孤独/抑郁患者喵/17岁  55kg/mtf  目前无证含糖中/理想是做一个可可爱爱的女孩子/目前是苦命高三生一只/不扩列，x上刷到会互关，只想过好自己的生活喵",
+        "id": "2048720366236041216",
+        "location": "東京 港区",
+        "name": "Vestar_xyxyx🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071438922379644928/2RrO7Imt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 49,
+          "like_count": 168,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 31
+        },
+        "url": "",
+        "username": "mu_musen30336",
+        "verified": false
+      }
+    ]
+  }
+}

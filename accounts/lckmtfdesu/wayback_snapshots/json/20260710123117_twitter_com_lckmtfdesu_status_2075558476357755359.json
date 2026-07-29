@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "conversation_id": "2075225732540957152",
+    "created_at": "2026-07-10T12:31:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T13:31:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075558476357755359"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1841306675674075136",
+          "start": 0,
+          "username": "suishoucrystal"
+        },
+        {
+          "end": 26,
+          "id": "1913140320986144768",
+          "start": 16,
+          "username": "Foxtea267"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075558476357755359",
+    "in_reply_to_user_id": "1841306675674075136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075225732540957152",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@suishoucrystal @Foxtea267 压力马斯内（赞赏）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1386,
+        "media_key": "3_2075225718427136000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMyuy7-asAAqsg3.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2075225732540957152",
+        "created_at": "2026-07-10T12:31:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T13:31:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075558476357755359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1841306675674075136",
+              "start": 0,
+              "username": "suishoucrystal"
+            },
+            {
+              "end": 26,
+              "id": "1913140320986144768",
+              "start": 16,
+              "username": "Foxtea267"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075558476357755359",
+        "in_reply_to_user_id": "1841306675674075136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075225732540957152",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suishoucrystal @Foxtea267 压力马斯内（赞赏）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075225718427136000"
+          ]
+        },
+        "author_id": "1841306675674075136",
+        "conversation_id": "2075225732540957152",
+        "created_at": "2026-07-09T14:29:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T15:29:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075225732540957152"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xIscjmYvPF",
+              "end": 47,
+              "expanded_url": "https://x.com/suishoucrystal/status/2075225732540957152/photo/1",
+              "media_key": "3_2075225718427136000",
+              "start": 24,
+              "url": "https://t.co/xIscjmYvPF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075225732540957152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 891,
+          "impression_count": 855476,
+          "like_count": 8537,
+          "quote_count": 132,
+          "reply_count": 676,
+          "retweet_count": 614
+        },
+        "reply_settings": "everyone",
+        "text": "从小到大因为长相自卑了好久，有人能夸我一下吗？ https://t.co/xIscjmYvPF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "mtf/transbian/hrt2026.3.26/半家长党/伪音学习中/居家修仙/地雷女/福瑞控/arc phi 冰与火 战雷/ 社恐/超级缺爱/查成分回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/profile.php?id…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/profile.php?id=61590025657067&mibextid=ZbWKwL",
+                "start": 0,
+                "url": "https://t.co/y1Iah85nsp"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "location": "上海",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2070114836760117561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056692984549433344/ErO8uC8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1327,
+          "following_count": 1395,
+          "like_count": 6834,
+          "listed_count": 3,
+          "media_count": 71,
+          "tweet_count": 2503
+        },
+        "url": "https://t.co/y1Iah85nsp",
+        "username": "lckmtfdesu",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-02T02:38:35.000Z",
+        "description": "日本語+データサイエンス専攻 JPOP夢中 ミセス一番好き🍏📰日本人向けの中国速報🌗友跨🍥中推圈锐评家，独立时评人🌗钻研 数码科技/经济社会/跨境支付与理财 跨境引路人:@bailyLU 我出色的老乡:@realNyarime 中文区头部数码推主:@jlxc2001 X引路人:@aoim33",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 85,
+                "username": "bailyLU"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "realNyarime"
+              },
+              {
+                "end": 133,
+                "start": 124,
+                "username": "jlxc2001"
+              },
+              {
+                "end": 146,
+                "start": 139,
+                "username": "aoim33"
+              }
+            ]
+          }
+        },
+        "id": "1841306675674075136",
+        "location": "金門縣",
+        "name": "水晶クリスタル | Bird🕊️",
+        "pinned_tweet_id": "2075225732540957152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031032589721767938/0nMI0xGj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1416,
+          "following_count": 1580,
+          "like_count": 3238,
+          "listed_count": 3,
+          "media_count": 576,
+          "tweet_count": 5313
+        },
+        "url": "",
+        "username": "suishoucrystal",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-18T07:59:39.000Z",
+        "description": "🇨🇳🇹🇼🇭🇰🇯🇵🇰🇷🇲🇾🇸🇬🇻🇳🇺🇸🇬🇧🇪🇺🇦🇺🇳🇿🇺🇦🇷🇺\nfoxtea267@gmail.com or me@foxtea.fun\nBuy me a coffee: https://t.co/elYDck1x5N / https://t.co/1koMGd4Zp7\nLang: EN🇺🇸🇬🇧/ZH🇨🇳🇹🇼\n蓝v互fo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "donate.foxtea.fun",
+                "end": 108,
+                "expanded_url": "http://donate.foxtea.fun",
+                "start": 85,
+                "url": "https://t.co/elYDck1x5N"
+              },
+              {
+                "display_url": "donate.oeo.ee",
+                "end": 134,
+                "expanded_url": "http://donate.oeo.ee",
+                "start": 111,
+                "url": "https://t.co/1koMGd4Zp7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "foxtea.fun",
+                "end": 23,
+                "expanded_url": "https://foxtea.fun/",
+                "start": 0,
+                "url": "https://t.co/WmjN5pPhE6"
+              }
+            ]
+          }
+        },
+        "id": "1913140320986144768",
+        "location": "Kyoto, Japan",
+        "name": "Foxtea",
+        "pinned_tweet_id": "2063586842558263617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063535054811430913/KBhTQHYr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 1998,
+          "like_count": 779,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 1426
+        },
+        "url": "https://t.co/WmjN5pPhE6",
+        "username": "Foxtea267",
+        "verified": true
+      }
+    ]
+  }
+}

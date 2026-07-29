@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "conversation_id": "2079797389641261201",
+    "created_at": "2026-07-22T14:36:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T15:36:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079938689317118361"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1699985068721082368",
+          "start": 0,
+          "username": "RX_Xron28390"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079938689317118361",
+    "in_reply_to_user_id": "1699985068721082368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079797389641261201",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RX_Xron28390 可是彗殒用倒装句和航弹港赛真的很涩啊（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2079797389641261201",
+        "created_at": "2026-07-22T14:36:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T15:36:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079938689317118361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1699985068721082368",
+              "start": 0,
+              "username": "RX_Xron28390"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079938689317118361",
+        "in_reply_to_user_id": "1699985068721082368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079797389641261201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RX_Xron28390 可是彗殒用倒装句和航弹港赛真的很涩啊（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699985068721082368",
+        "conversation_id": "2079797389641261201",
+        "created_at": "2026-07-22T05:15:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T06:15:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079797389641261201"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "-, 视频播放量 5667、弹幕量 2、点赞数 681、投硬币枚数 2、收藏人数 123、转发人数 89, 视频作者 雪松KEDR, 作者简介 ，相关视频：太好了，是2S38我们有救了，雷劈们最团结的一次，队友开日本飞机直接让他尸骨无存。，pov：当你觉得回机场很费时间，什么？手雷英空发导弹机了？，原视频放这了，战争雷霆入坑现状：，停下载具以测试主动防御系统。。。，红箭9玩家的晚年是孤独的，手雷牢九门—奋进",
+              "display_url": "b23.tv/ZMVbEDa",
+              "end": 158,
+              "expanded_url": "https://b23.tv/ZMVbEDa",
+              "start": 135,
+              "status": 200,
+              "title": "航班取消，视频我来发_哔哩哔哩_bilibili",
+              "unwound_url": "https://www.bilibili.com/video/BV1T1Ka6WE8W/?-Arouter=story&buvid=Y94A3991870F7A284582B89750A364799054&from_spmid=tm.recommend.0.0&is_story_h5=true&mid=mFs%2BI31zSfn3DRsIgtMr0A%3D%3D&p=1&plat_id=163&share_from=ugc&share_medium=iphone&share_plat=ios&share_session_id=42902722-CE17-41B2-825B-19486975E4CF&share_source=COPY&share_tag=s_i&spmid=main.ugc-video-detail-vertical.0.0&timestamp=1784697046&unique_k=ZMVbEDa&up_id=3546935736666304",
+              "url": "https://t.co/RqnPMQic18"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079797389641261201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 498,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不是哪个煞笔给慧陨视频搬皇篇网站里了，byd打了一天战雷打开神秘小网站准备美美起飞，看见一个沈凤翎封面的直接点进去，开幕给我来了一句“平静的后厨养不出哈气的基米，这里是慧陨，带你品鉴577”\nbyd对面aa压机场了说是，不让起飞了😡\n【航班取消，视频我来发-哔哩哔哩】 https://t.co/RqnPMQic18"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "好姐（杂）姐（鱼）@ogsa1687497\nmtf/hrt2026.3.26/半家长党/福瑞控/arc phi 冰与火 战雷/ 见证退避/查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "ogsa1687497"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/profile.php?id…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/profile.php?id=61590025657067&mibextid=ZbWKwL",
+                "start": 0,
+                "url": "https://t.co/y1Iah85nsp"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "location": "上海",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2078437621102252181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056692984549433344/ErO8uC8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1427,
+          "following_count": 1450,
+          "like_count": 7228,
+          "listed_count": 3,
+          "media_count": 87,
+          "tweet_count": 2728
+        },
+        "url": "https://t.co/y1Iah85nsp",
+        "username": "lckmtfdesu",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-08T03:16:52.000Z",
+        "description": "17岁在美宾洲男高/前世为德皇战死凡尔登转世的bf轮椅人/德拉无疑是美味的😋/正在战雷为elb🇷🇺服役，apex/kards/崩/舟/洲/BF/卡丘 玩家 \n鉴证打咩",
+        "id": "1699985068721082368",
+        "location": "凡爾登，378號高地陣地，1916",
+        "name": "𝑇𝑦𝑟 𝑉𝑜𝑛 𝑊𝑒𝑙𝑡",
+        "pinned_tweet_id": "2079723647326167378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061669969558147072/IWw1uzlk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 361,
+          "like_count": 11158,
+          "listed_count": 2,
+          "media_count": 1274,
+          "tweet_count": 8294
+        },
+        "url": "",
+        "username": "RX_Xron28390",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079385058872545281"
+      ]
+    },
+    "author_id": "1827958813603102720",
+    "conversation_id": "2079184703555506579",
+    "created_at": "2026-07-21T01:56:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T02:56:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079385066493641165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1880194893685092354",
+          "start": 0,
+          "username": "Aelrainyx"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Your browser is outdated and may not display this website correctly. Please use a newer version of your browser or operating system. 主述：大意即厌恶男性体征，渴望变成女性 现病史：就是按顺序记录前面的询问病史 既往史：一般为“无特殊” 过敏史：无药物和食物过敏史^ 辅助检查：关于上面量表结果的主观判断 初步诊断：易性症？^^ 处置 检查：略 意见：门诊随访，或者可能有心理咨询 ^^^ ^ 不需要报告医生，仅作占位 ^^ 如表示自己开证是为了近期获得正规HRT医疗建议，希望不要带问号，就可以开不带问号的病历。任正伽表示医院系统还没有修改，暂时无法开出ICD11“性别不一致”的诊断结果。 MtF.wiki 的内容仅供参考，可能存在过时或不准确的信息，请谨慎甄别。",
+          "display_url": "mtf.wiki/zh-cn/docs/psy…",
+          "end": 42,
+          "expanded_url": "https://mtf.wiki/zh-cn/docs/psyco/chongqing/ren-zhengjia",
+          "start": 19,
+          "status": 200,
+          "title": "重庆｜任正伽",
+          "unwound_url": "https://mtf.wiki/zh-cn/docs/psyco/chongqing/ren-zhengjia",
+          "url": "https://t.co/5SQHgo3FkU"
+        },
+        {
+          "display_url": "pic.x.com/cBAjE7xpnQ",
+          "end": 66,
+          "expanded_url": "https://x.com/lckmtfdesu/status/2079385066493641165/photo/1",
+          "media_key": "3_2079385058872545281",
+          "start": 43,
+          "url": "https://t.co/cBAjE7xpnQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079385066493641165",
+    "in_reply_to_user_id": "1827958813603102720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079216553321791792",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aelrainyx 这个是证明\n来源https://t.co/5SQHgo3FkU https://t.co/cBAjE7xpnQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 964,
+        "media_key": "3_2079385058872545281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNt1salaUAE1L8s.jpg",
+        "width": 1114
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079385058872545281"
+          ]
+        },
+        "author_id": "1827958813603102720",
+        "conversation_id": "2079184703555506579",
+        "created_at": "2026-07-21T01:56:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T02:56:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079385066493641165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1880194893685092354",
+              "start": 0,
+              "username": "Aelrainyx"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Your browser is outdated and may not display this website correctly. Please use a newer version of your browser or operating system. 主述：大意即厌恶男性体征，渴望变成女性 现病史：就是按顺序记录前面的询问病史 既往史：一般为“无特殊” 过敏史：无药物和食物过敏史^ 辅助检查：关于上面量表结果的主观判断 初步诊断：易性症？^^ 处置 检查：略 意见：门诊随访，或者可能有心理咨询 ^^^ ^ 不需要报告医生，仅作占位 ^^ 如表示自己开证是为了近期获得正规HRT医疗建议，希望不要带问号，就可以开不带问号的病历。任正伽表示医院系统还没有修改，暂时无法开出ICD11“性别不一致”的诊断结果。 MtF.wiki 的内容仅供参考，可能存在过时或不准确的信息，请谨慎甄别。",
+              "display_url": "mtf.wiki/zh-cn/docs/psy…",
+              "end": 42,
+              "expanded_url": "https://mtf.wiki/zh-cn/docs/psyco/chongqing/ren-zhengjia",
+              "start": 19,
+              "status": 200,
+              "title": "重庆｜任正伽",
+              "unwound_url": "https://mtf.wiki/zh-cn/docs/psyco/chongqing/ren-zhengjia",
+              "url": "https://t.co/5SQHgo3FkU"
+            },
+            {
+              "display_url": "pic.x.com/cBAjE7xpnQ",
+              "end": 66,
+              "expanded_url": "https://x.com/lckmtfdesu/status/2079385066493641165/photo/1",
+              "media_key": "3_2079385058872545281",
+              "start": 43,
+              "url": "https://t.co/cBAjE7xpnQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079385066493641165",
+        "in_reply_to_user_id": "1827958813603102720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079216553321791792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aelrainyx 这个是证明\n来源https://t.co/5SQHgo3FkU https://t.co/cBAjE7xpnQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2079184703555506579",
+        "created_at": "2026-07-20T14:47:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T15:47:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079216553321791792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1880194893685092354",
+              "start": 0,
+              "username": "Aelrainyx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "mtf.wiki",
+              "end": 53,
+              "expanded_url": "http://mtf.wiki",
+              "start": 30,
+              "status": 200,
+              "title": "MtF.wiki",
+              "unwound_url": "https://mtf.wiki/",
+              "url": "https://t.co/96LRvWOJXe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079216553321791792",
+        "in_reply_to_user_id": "1880194893685092354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 407,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079184703555506579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aelrainyx 是病历\n诊断证明应该是另外的\n不确定去https://t.co/96LRvWOJXe看\n有范本的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "好姐（杂）姐（鱼）@ogsa1687497\nmtf/hrt2026.3.26/半家长党/福瑞控/arc phi 冰与火 战雷/ 见证退避/查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "ogsa1687497"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/profile.php?id…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/profile.php?id=61590025657067&mibextid=ZbWKwL",
+                "start": 0,
+                "url": "https://t.co/y1Iah85nsp"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "location": "上海",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2078437621102252181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056692984549433344/ErO8uC8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1419,
+          "following_count": 1442,
+          "like_count": 7165,
+          "listed_count": 3,
+          "media_count": 85,
+          "tweet_count": 2687
+        },
+        "url": "https://t.co/y1Iah85nsp",
+        "username": "lckmtfdesu",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-17T10:06:21.000Z",
+        "description": "MTF🏳️‍⚧️|Hrt🍥05.30.2026|无证含糖|断糖07.12.2026😭|半家长党|生产日期08.20.2011|163cm 48kg|不od|已炸柜\nhttps://t.co/KJ3353Umn5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aelrainyx",
+                "end": 105,
+                "expanded_url": "https://ngl.link/aelrainyx",
+                "start": 82,
+                "url": "https://t.co/KJ3353Umn5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "aelrainyx.dpdns.org",
+                "end": 23,
+                "expanded_url": "http://aelrainyx.dpdns.org",
+                "start": 0,
+                "url": "https://t.co/o7vSgpbEJC"
+              }
+            ]
+          }
+        },
+        "id": "1880194893685092354",
+        "name": "Aelrainyx🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060694584364343296/PUQotpl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 266,
+          "like_count": 68,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 34
+        },
+        "url": "https://t.co/o7vSgpbEJC",
+        "username": "Aelrainyx",
+        "verified": true
+      }
+    ]
+  }
+}

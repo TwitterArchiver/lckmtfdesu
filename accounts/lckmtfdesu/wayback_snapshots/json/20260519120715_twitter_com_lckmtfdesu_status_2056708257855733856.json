@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "conversation_id": "2051575598674550798",
+    "created_at": "2026-05-19T12:07:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T13:07:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056708257855733856"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1557036804578377730",
+          "start": 0,
+          "username": "PM2_53"
+        },
+        {
+          "end": 24,
+          "id": "1900202897738252288",
+          "start": 8,
+          "username": "HGangmakot97631"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056708257855733856",
+    "in_reply_to_user_id": "1557036804578377730",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052187824263454987",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PM2_53 @HGangmakot97631 如果活着要承受的东西太多 去死反倒可能是更好的选择\n不到彻底看不到希望的地步 你很难体会到这种感受到"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2051575598674550798",
+        "created_at": "2026-05-19T12:07:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T13:07:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056708257855733856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1557036804578377730",
+              "start": 0,
+              "username": "PM2_53"
+            },
+            {
+              "end": 24,
+              "id": "1900202897738252288",
+              "start": 8,
+              "username": "HGangmakot97631"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056708257855733856",
+        "in_reply_to_user_id": "1557036804578377730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052187824263454987",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PM2_53 @HGangmakot97631 如果活着要承受的东西太多 去死反倒可能是更好的选择\n不到彻底看不到希望的地步 你很难体会到这种感受到"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557036804578377730",
+        "conversation_id": "2051575598674550798",
+        "created_at": "2026-05-07T00:44:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T01:44:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052187824263454987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1900202897738252288",
+              "start": 0,
+              "username": "HGangmakot97631"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052187824263454987",
+        "in_reply_to_user_id": "1900202897738252288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052186789713232255",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HGangmakot97631 活着才有机会拥有才有机会失去，一切快乐都源自于这种拥有与失去的能力吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "transbian/hrt2026.3.26/家长不管党/出柜2026.4.14/伪音学习中/居家修仙/高二/地雷女/INFP-T/sub/水仙/od割手友善/鉴证退避/福瑞控/arc phi 冰与火 战雷/ 社恐/超级缺爱/同类回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lckmtfdesu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lckmtfdesu",
+                "start": 0,
+                "url": "https://t.co/qZnowotyMH"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "location": "上海",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2056433412886700324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056692984549433344/ErO8uC8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 581,
+          "following_count": 1051,
+          "like_count": 4716,
+          "listed_count": 2,
+          "media_count": 36,
+          "tweet_count": 1506
+        },
+        "url": "https://t.co/qZnowotyMH",
+        "username": "lckmtfdesu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-09T16:12:52.000Z",
+        "description": "03大学生，男生，喜欢动画，历史，金融，欢迎大家\nwelcome for chating(。・`ω´・)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mengluosuiyuan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mengluosuiyuan",
+                "start": 0,
+                "url": "https://t.co/lZLbGAgALy"
+              }
+            ]
+          }
+        },
+        "id": "1557036804578377730",
+        "name": "梦落随缘",
+        "pinned_tweet_id": "2051933142127428073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051863921800396800/KnuHQknZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 93,
+          "like_count": 259,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 491
+        },
+        "url": "https://t.co/lZLbGAgALy",
+        "username": "PM2_53",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-13T15:11:59.000Z",
+        "description": "背景图才是本体喵/\n在下的名字为疏桐哦/\nMTF🏳️‍⚧️/HRT始于  2025.10.06/止于2025.10.31/重启于2026.05.18\n/深柜？出柜？炸柜？一种奇妙的量子叠加态/嫉妒所有比我好看的女孩子",
+        "id": "1900202897738252288",
+        "location": "湖北荆门下属某个地方",
+        "name": "困困小桐💤",
+        "pinned_tweet_id": "2051575598674550798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051573340666753024/8RKC7yiP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 497,
+          "like_count": 7026,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 960
+        },
+        "username": "HGangmakot97631",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "conversation_id": "2055548191005946243",
+    "created_at": "2026-05-16T07:17:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T08:17:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055548191005946243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1226850733477089280",
+          "start": 3,
+          "username": "iAm_PPatrick"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055548191005946243",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055436810143363270",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iAm_PPatrick: 性少数群体就是太温良了，那帮人特么给脸不要脸还倒打一耙踩在我们头上，就得学起来异性恋那股子不要脸的贱劲来恶心他们"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2055548191005946243",
+        "created_at": "2026-05-16T07:17:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T08:17:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055548191005946243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1226850733477089280",
+              "start": 3,
+              "username": "iAm_PPatrick"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055548191005946243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055436810143363270",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iAm_PPatrick: 性少数群体就是太温良了，那帮人特么给脸不要脸还倒打一耙踩在我们头上，就得学起来异性恋那股子不要脸的贱劲来恶心他们"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1226850733477089280",
+        "conversation_id": "2055436810143363270",
+        "created_at": "2026-05-15T23:54:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T00:54:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055436810143363270"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055436810143363270",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 952,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "性少数群体就是太温良了，那帮人特么给脸不要脸还倒打一耙踩在我们头上，就得学起来异性恋那股子不要脸的贱劲来恶心他们"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Oberwart, Burgenland, Austria",
+              "geo": {
+                "coordinates": [
+                  16.20595,
+                  47.28971
+                ],
+                "type": "Point"
+              },
+              "locality": "Oberwart",
+              "region": "Burgenland",
+              "sub_region": "Politischer Bezirk Oberwart"
+            }
+          ]
+        },
+        "description": "transles/白河豚/GAHT2026.3.26/半家长党/出柜2026.4.14/双相II/重度焦虑强迫抑郁/精分/INFP-T/sub/水仙/od割手友善/鉴证退避/福瑞控/arc phi 冰与火 战雷/ 社恐/同类回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aurelia16775",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aurelia16775",
+                "start": 0,
+                "url": "https://t.co/D5Dh6Ua5zJ"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "location": "上海",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2046637992346013995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046424790437920769/xyF71oGn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 1014,
+          "like_count": 4349,
+          "listed_count": 2,
+          "media_count": 27,
+          "tweet_count": 1360
+        },
+        "url": "https://t.co/D5Dh6Ua5zJ",
+        "username": "lckmtfdesu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-10T12:49:53.000Z",
+        "description": "🌈 Gay 我的专属日记本  看我不爽可以把我弄爽",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/p_0atrick?igsh…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/p_0atrick?igsh=MXR3c3ZwbmlkN2Y0ZA==",
+                "start": 0,
+                "url": "https://t.co/ZvZkBKTLob"
+              }
+            ]
+          }
+        },
+        "id": "1226850733477089280",
+        "location": "MY TEAR",
+        "name": "Patlism",
+        "pinned_tweet_id": "2045923287717511425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052452087120986112/XCOMwmfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 217,
+          "like_count": 668,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 847
+        },
+        "url": "https://t.co/ZvZkBKTLob",
+        "username": "iAm_PPatrick",
+        "verified": false
+      }
+    ]
+  }
+}

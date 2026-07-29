@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "conversation_id": "2058717579158622483",
+    "created_at": "2026-05-25T01:11:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T02:11:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058717579158622483"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1647229461769891842",
+          "start": 3,
+          "username": "DrilL019"
+        },
+        {
+          "end": 23,
+          "id": "2022181719835914242",
+          "start": 14,
+          "username": "QY404XYN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058717579158622483",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058584955685646709",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DrilL019: @QY404XYN 狭隘的、缺乏科学理论指导和知识依据，缺乏经验智慧、不虚心接受新事物和从新事物中辩证学习的、傲慢保守的、忽视知识力量的保守派。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2058717579158622483",
+        "created_at": "2026-05-25T01:11:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T02:11:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058717579158622483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1647229461769891842",
+              "start": 3,
+              "username": "DrilL019"
+            },
+            {
+              "end": 23,
+              "id": "2022181719835914242",
+              "start": 14,
+              "username": "QY404XYN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058717579158622483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058584955685646709",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DrilL019: @QY404XYN 狭隘的、缺乏科学理论指导和知识依据，缺乏经验智慧、不虚心接受新事物和从新事物中辩证学习的、傲慢保守的、忽视知识力量的保守派。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647229461769891842",
+        "conversation_id": "2058576123039285505",
+        "created_at": "2026-05-24T16:24:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T17:24:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058584955685646709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2022181719835914242",
+              "start": 0,
+              "username": "QY404XYN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058584955685646709",
+        "in_reply_to_user_id": "2022181719835914242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "狭隘的、缺乏科学理论指导和知识依据，缺乏经验智慧、不虚心接受新事物和从新事物中辩证学习的、傲慢保守的、忽视知识力量的保守派。\n忽视“团结一切可以团结的力量”指导的、搞形式主义异化，“说一套做一套”的、曲解意图，恶化团结形势的、不利于社会平等多元发展和经济发展文化交流的、妄图通过搞“区别对待”曲解异化人民民主专政的。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 283,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058576123039285505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QY404XYN 狭隘的、缺乏科学理论指导和知识依据，缺乏经验智慧、不虚心接受新事物和从新事物中辩证学习的、傲慢保守的、忽视知识力量的保守派。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "transbian/hrt2026.3.26/家长不管党/出柜2026.4.14/伪音学习中/居家修仙/高二/地雷女/INFP-T/sub/水仙/od割手友善/鉴证退避/福瑞控/arc phi 冰与火 战雷/ 社恐/超级缺爱/同类回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/profile.php?id…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/profile.php?id=61590025657067&mibextid=ZbWKwL",
+                "start": 0,
+                "url": "https://t.co/y1Iah85nsp"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "location": "上海",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2057351801759043673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056692984549433344/ErO8uC8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 622,
+          "following_count": 1076,
+          "like_count": 5023,
+          "listed_count": 2,
+          "media_count": 44,
+          "tweet_count": 1694
+        },
+        "url": "https://t.co/y1Iah85nsp",
+        "username": "lckmtfdesu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-15T13:25:23.000Z",
+        "description": "安得此身脫拘攣 舟載諸友長周旋｜\nStudent 不建议谈论政治极端 发推不定 日常音游碎碎念\n小号/里推@NoAkatsuki1314",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 53,
+                "username": "NoAkatsuki1314"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/drill019",
+                "end": 23,
+                "expanded_url": "https://buymeacoffee.com/drill019",
+                "start": 0,
+                "url": "https://t.co/2G0EsDCv8q"
+              }
+            ]
+          }
+        },
+        "id": "1647229461769891842",
+        "location": "请给我钱🥺⬇️",
+        "name": "DrilL019",
+        "pinned_tweet_id": "2032440558011203726",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011804418208063488/uOZ4kFzh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 1153,
+          "like_count": 16384,
+          "listed_count": 1,
+          "media_count": 798,
+          "tweet_count": 5678
+        },
+        "url": "https://t.co/2G0EsDCv8q",
+        "username": "DrilL019",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-13T05:31:26.000Z",
+        "description": "MTF｜出厂日期2008.11.25｜hrt日期2025.5.31｜正在戒od｜自残｜精神不稳定｜｜｜有事直接用推私聊",
+        "id": "2022181719835914242",
+        "name": "枕星寻梦🍥8964",
+        "pinned_tweet_id": "2058576123039285505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058261417095233536/yJtBX6m__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4272,
+          "following_count": 218,
+          "like_count": 246,
+          "listed_count": 7,
+          "media_count": 87,
+          "tweet_count": 468
+        },
+        "username": "QY404XYN",
+        "verified": false
+      }
+    ]
+  }
+}

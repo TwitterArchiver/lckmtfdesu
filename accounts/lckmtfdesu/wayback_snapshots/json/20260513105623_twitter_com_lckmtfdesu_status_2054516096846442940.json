@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "conversation_id": "2054427640623460575",
+    "created_at": "2026-05-13T10:56:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T11:56:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054516096846442940"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1622066090074607616",
+          "start": 0,
+          "username": "hoshinofujivy"
+        },
+        {
+          "end": 27,
+          "id": "1806849464386416640",
+          "start": 15,
+          "username": "tangeorange"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054516096846442940",
+    "in_reply_to_user_id": "1622066090074607616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054427640623460575",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshinofujivy @tangeorange 我去不早说"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 896,
+        "media_key": "3_2054427608633503744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HILLBnVa8AAJ-zj.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2054427640623460575",
+        "created_at": "2026-05-13T10:56:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T11:56:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054516096846442940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            },
+            {
+              "end": 27,
+              "id": "1806849464386416640",
+              "start": 15,
+              "username": "tangeorange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054516096846442940",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054427640623460575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy @tangeorange 我去不早说"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054427608633503744"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "conversation_id": "2054427640623460575",
+        "created_at": "2026-05-13T05:04:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T06:04:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054427640623460575"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tpEGe2pwdc",
+              "end": 164,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2054427640623460575/photo/1",
+              "media_key": "3_2054427608633503744",
+              "start": 141,
+              "url": "https://t.co/tpEGe2pwdc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054427640623460575",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "离开你才知道，原来项圈是给宠物用的，狗链子是用来栓狗的，原来绳子用来绑人是犯法的，原来皮鞭是可以用来赶羊的，围裙底下是要穿衣服的，浴室是用来清理身体的，洗澡是为了保持身体干净的，洗了一遍之后是不需要再洗第二遍第三遍的，洗澡是可以一个人洗的，床是卧室是用来休息的，厨房是用来做饭的，胡萝卜我是可以吃的，床是用来睡觉的，床单被子是不需要到半夜就换一床的，床前是不用安装摄像机的，电视是可以播放节目的，电视里也可以有其它人的，沙发是用来坐的，我在夜里是可以睡觉的，白天和黑夜是不一样的，回到房间是不需要脱衣服的，手机有消息是不需要1分钟之内报备的，手机是可以有其他联系人的，我也是可以和其他人说话的"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 3861,
+          "like_count": 78,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "离开你才知道，原来项圈是给宠物用的，狗链子是用来栓狗的，原来绳子用来绑人是犯法的，原来皮鞭是可以用来赶羊的，围裙底下是要穿衣服的，浴室是用来清理身体的，洗澡是为了保持身体干净的，洗了一遍之后是不需要再洗第二遍第三遍的，洗澡是可以一个人洗的，床是卧室是用来休息的，厨房是用来做饭的， https://t.co/tpEGe2pwdc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "transles/白河豚/GAHT2026.3.26/半家长党/出柜2026.4.14/双相II/重度焦虑强迫抑郁/精分/INFP-T/sub/水仙/od割手友善/鉴证退避/福瑞控/arc phi 冰与火 战雷/ 社恐/同类回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aurelia16775",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aurelia16775",
+                "start": 0,
+                "url": "https://t.co/D5Dh6Ua5zJ"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "location": "上海",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2046637992346013995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046424790437920769/xyF71oGn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 969,
+          "like_count": 4163,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 1257
+        },
+        "url": "https://t.co/D5Dh6Ua5zJ",
+        "username": "lckmtfdesu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜叫我小藤就好｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜快乐与思考并存｜小奈天使@KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10742,
+          "following_count": 4295,
+          "like_count": 45783,
+          "listed_count": 35,
+          "media_count": 2211,
+          "tweet_count": 13686
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-29T00:37:43.000Z",
+        "description": "尝试不死 | \n朋友们 @maoxian1527 @kxk1388576 @tangeror @mxyzcdb | \n喜欢编程，AI/ML，DIY，写点文章，做游戏，做产品，最近在折腾 crypto。(但是日常帖子居多)| \n我不是精神病。|\n微信 orgudev 🚧65",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 36,
+                "start": 25,
+                "username": "kxk1388576"
+              },
+              {
+                "end": 46,
+                "start": 37,
+                "username": "tangeror"
+              },
+              {
+                "end": 55,
+                "start": 47,
+                "username": "mxyzcdb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "orangestd.cn",
+                "end": 23,
+                "expanded_url": "http://orangestd.cn",
+                "start": 0,
+                "url": "https://t.co/NqG6Q8kFY7"
+              }
+            ]
+          }
+        },
+        "id": "1806849464386416640",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "橙子",
+        "pinned_tweet_id": "2054067308386259269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053400102610595840/MxufF7uu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2109,
+          "following_count": 2385,
+          "like_count": 7688,
+          "listed_count": 3,
+          "media_count": 1001,
+          "tweet_count": 6982
+        },
+        "url": "https://t.co/NqG6Q8kFY7",
+        "username": "tangeorange",
+        "verified": true
+      }
+    ]
+  }
+}

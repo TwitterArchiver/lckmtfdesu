@@ -1,0 +1,396 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      }
+    ],
+    "conversation_id": "2047948527557562863",
+    "created_at": "2026-04-25T07:59:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T08:59:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047948527557562863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1831350388861345793",
+          "start": 3,
+          "username": "WakabaHiime9969"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/HEaz2DW",
+          "end": 139,
+          "start": 119,
+          "url": "https://t.co/HEaz2DW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047948527557562863",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047906541861560437",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @WakabaHiime9969: 神人网站教人伪装跨性别😇\n先不提会造成什么后果，你这里面教的所谓“语言风格”未免太刻意了点，真跨性别大部分都不至于含喵量那么高......，像我虽然平时会喵喵叫，但是一到长文立马化身文学少女 (\nhttps://t.co/HEaz2DW…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "2047948527557562863",
+        "created_at": "2026-04-25T07:59:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T08:59:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047948527557562863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1831350388861345793",
+              "start": 3,
+              "username": "WakabaHiime9969"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/HEaz2DW",
+              "end": 139,
+              "start": 119,
+              "url": "https://t.co/HEaz2DW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047948527557562863",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047906541861560437",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @WakabaHiime9969: 神人网站教人伪装跨性别😇\n先不提会造成什么后果，你这里面教的所谓“语言风格”未免太刻意了点，真跨性别大部分都不至于含喵量那么高......，像我虽然平时会喵喵叫，但是一到长文立马化身文学少女 (\nhttps://t.co/HEaz2DW…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831350388861345793",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "2047906541861560437",
+        "created_at": "2026-04-25T05:12:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T06:12:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047906541861560437"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "教你如何一键化身MtF，一起喵喵喵。",
+              "display_url": "shef.cc/2024/03/01/how…",
+              "end": 121,
+              "expanded_url": "https://shef.cc/2024/03/01/how_to_pretend_to_be_a_mtf/",
+              "start": 98,
+              "status": 200,
+              "title": "赛博MtF养成手册 - SheepChef BlogSheepChef Blog",
+              "unwound_url": "https://shef.cc/2024/03/01/how_to_pretend_to_be_a_mtf/",
+              "url": "https://t.co/HEaz2DWa2L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047906541861560437",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 997,
+          "like_count": 6,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "神人网站教人伪装跨性别😇\n先不提会造成什么后果，你这里面教的所谓“语言风格”未免太刻意了点，真跨性别大部分都不至于含喵量那么高......，像我虽然平时会喵喵叫，但是一到长文立马化身文学少女 (\nhttps://t.co/HEaz2DWa2L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "transles/白河豚/GAHT2026.3.26/半家长党/出柜2026.4.14/双相II/重度焦虑强迫抑郁/精分/INFP-T/sub/水仙/od割手友善/鉴证退避/福瑞控/arc phi 冰与火 战雷/ 社恐/同类回fo/匿名树洞https://t.co/D5Dh6Ua5zJ 喵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aurelia16775",
+                "end": 143,
+                "expanded_url": "https://ngl.link/aurelia16775",
+                "start": 120,
+                "url": "https://t.co/D5Dh6Ua5zJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aurelia16775",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aurelia16775",
+                "start": 0,
+                "url": "https://t.co/D5Dh6Ua5zJ"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "location": "上海",
+        "name": "Caelia🏳️‍⚧️",
+        "pinned_tweet_id": "2046637992346013995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046424790437920769/xyF71oGn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 514,
+          "following_count": 967,
+          "like_count": 4161,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 1221
+        },
+        "url": "https://t.co/D5Dh6Ua5zJ",
+        "username": "lckmtfdesu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-04T15:15:42.000Z",
+        "description": "ワカバ 緋イ芽 ｜07｜171/52  ??/66/84｜希望能交到好朋友喵!｜欢迎私信｜🏳️‍⚧️Transbian｜现实极度阴暗内向｜前途未卜の在沪生徒｜💊精品神药享受者｜疑难杂症求救中...｜大龄天残｜🍥深柜 · 炸柜就死｜🎆GAHT 26.03.26｜人間になりたく、女の子になりたいですわ",
+        "id": "1831350388861345793",
+        "location": "東京湾",
+        "name": "Hiime🍡🍥",
+        "pinned_tweet_id": "2047727071812870508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046174460609503232/mDQ1pUpH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 199,
+          "like_count": 397,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 314
+        },
+        "username": "WakabaHiime9969",
+        "verified": true
+      }
+    ]
+  }
+}

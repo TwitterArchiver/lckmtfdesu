@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056414305705480194"
+      ]
+    },
+    "author_id": "1827958813603102720",
+    "conversation_id": "2056414313070665786",
+    "created_at": "2026-05-18T16:39:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T17:39:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056414313070665786"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CqPlIId45O",
+          "end": 29,
+          "expanded_url": "https://x.com/lckmtfdesu/status/2056414313070665786/photo/1",
+          "media_key": "3_2056414305705480194",
+          "start": 6,
+          "url": "https://t.co/CqPlIId45O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056414313070665786",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "终于。。。 https://t.co/CqPlIId45O"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056414305705480194",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HInZ6mqbUAIfwQP.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056414305705480194"
+          ]
+        },
+        "author_id": "1827958813603102720",
+        "conversation_id": "2056414313070665786",
+        "created_at": "2026-05-18T16:39:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T17:39:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056414313070665786"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CqPlIId45O",
+              "end": 29,
+              "expanded_url": "https://x.com/lckmtfdesu/status/2056414313070665786/photo/1",
+              "media_key": "3_2056414305705480194",
+              "start": 6,
+              "url": "https://t.co/CqPlIId45O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056414313070665786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "终于。。。 https://t.co/CqPlIId45O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Oberwart, Burgenland, Austria",
+              "geo": {
+                "coordinates": [
+                  16.20595,
+                  47.28971
+                ],
+                "type": "Point"
+              },
+              "locality": "Oberwart",
+              "region": "Burgenland",
+              "sub_region": "Politischer Bezirk Oberwart"
+            }
+          ]
+        },
+        "description": "transbian/hrt2026.3.26/家长不管党/出柜2026.4.14/INFP-T/sub/水仙/od割手友善/鉴证退避/福瑞控/arc phi 冰与火 战雷/ 社恐/超级缺爱/同类回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aurelia16775",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aurelia16775",
+                "start": 0,
+                "url": "https://t.co/D5Dh6Ua5zJ"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "location": "上海",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2046637992346013995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046424790437920769/xyF71oGn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 558,
+          "following_count": 1018,
+          "like_count": 4453,
+          "listed_count": 2,
+          "media_count": 28,
+          "tweet_count": 1397
+        },
+        "url": "https://t.co/D5Dh6Ua5zJ",
+        "username": "lckmtfdesu",
+        "verified": false
+      }
+    ]
+  }
+}

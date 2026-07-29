@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "conversation_id": "2053044809523224697",
+    "created_at": "2026-05-20T05:10:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T06:10:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056965670659858503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056965670659858503",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053044809523224697",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele auv不让解bl不会是因为这样就没法装你那b病毒程序国家反诈中心了吧\n盗窃数据安装木马是谁在干心里没点b数吗\n不过与我无关我日版索尼（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 711,
+        "media_key": "3_2053006602920505344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH2-oMibsAAAYfs.png",
+        "width": 521
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2053044809523224697",
+        "created_at": "2026-05-20T05:10:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T06:10:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056965670659858503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056965670659858503",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053044809523224697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele auv不让解bl不会是因为这样就没法装你那b病毒程序国家反诈中心了吧\n盗窃数据安装木马是谁在干心里没点b数吗\n不过与我无关我日版索尼（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053006602920505344"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Boy's Love category",
+              "id": "1298785075824230401",
+              "name": "BL"
+            }
+          }
+        ],
+        "conversation_id": "2053044809523224697",
+        "created_at": "2026-05-09T09:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T10:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053044809523224697"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eT6Slj4x9o",
+              "end": 175,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2053044809523224697/photo/1",
+              "media_key": "3_2053006602920505344",
+              "start": 152,
+              "url": "https://t.co/eT6Slj4x9o"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 199,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2048970838939160623",
+              "start": 176,
+              "url": "https://t.co/N1ulJLvSxq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053044809523224697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "5月9日，国安部再发“重磅内容”，文章称，某手机芯片厂商相关漏洞被不法分子定向利用，给网上热炒的“秒解BL锁”行为敲响了警钟。所谓BL，是Bootloader（引导加载程序）的简称，好比手机自带的“官方防盗门”，是手机开机后最先运行的底层程序，负责验证并加载操作系统。而解锁相当于主动拆掉这扇门，以获得“刷机”自由。但“秒解”的捷径，可能成为别有用心之人窃取数据、安装木马的“后门”。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 185,
+          "impression_count": 306034,
+          "like_count": 520,
+          "quote_count": 9,
+          "reply_count": 150,
+          "retweet_count": 36
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048970838939160623",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "5月9日，国安部再发“重磅内容”，文章称，某手机芯片厂商相关漏洞被不法分子定向利用，给网上热炒的“秒解BL锁”行为敲响了警钟。所谓BL，是Bootloader（引导加载程序）的简称，好比手机自带的“官方防盗门”，是手机开机后最先运行的底层程序，负责验证并加载操作系统。而解锁相当于主动拆掉这扇门，以获得 https://t.co/eT6Slj4x9o https://t.co/N1ulJLvSxq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Oberwart, Burgenland, Austria",
+              "geo": {
+                "coordinates": [
+                  16.20595,
+                  47.28971
+                ],
+                "type": "Point"
+              },
+              "locality": "Oberwart",
+              "region": "Burgenland",
+              "sub_region": "Politischer Bezirk Oberwart"
+            }
+          ]
+        },
+        "description": "transbian/hrt2026.3.26/家长不管党/出柜2026.4.14/伪音学习中/居家修仙/高二/地雷女/INFP-T/sub/水仙/od割手友善/鉴证退避/福瑞控/arc phi 冰与火 战雷/ 社恐/超级缺爱/同类回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lckmtfdesu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lckmtfdesu",
+                "start": 0,
+                "url": "https://t.co/qZnowotyMH"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "location": "上海",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2056433412886700324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056692984549433344/ErO8uC8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 596,
+          "following_count": 1062,
+          "like_count": 4815,
+          "listed_count": 2,
+          "media_count": 39,
+          "tweet_count": 1568
+        },
+        "url": "https://t.co/qZnowotyMH",
+        "username": "lckmtfdesu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2231064,
+          "following_count": 1059,
+          "like_count": 9576,
+          "listed_count": 8758,
+          "media_count": 47111,
+          "tweet_count": 54233
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

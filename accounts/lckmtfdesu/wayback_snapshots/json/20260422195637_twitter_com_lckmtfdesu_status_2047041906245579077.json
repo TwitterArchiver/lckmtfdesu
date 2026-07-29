@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "conversation_id": "2046938430287056981",
+    "created_at": "2026-04-22T19:56:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T20:56:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047041906245579077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1373596163723567112",
+          "start": 0,
+          "username": "AC_Aqua_Crew"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047041906245579077",
+    "in_reply_to_user_id": "1373596163723567112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047037919425392835",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AC_Aqua_Crew 也有可能只是沒人明說（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2046938430287056981",
+        "created_at": "2026-04-22T19:56:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T20:56:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047041906245579077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1373596163723567112",
+              "start": 0,
+              "username": "AC_Aqua_Crew"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047041906245579077",
+        "in_reply_to_user_id": "1373596163723567112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047037919425392835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AC_Aqua_Crew 也有可能只是沒人明說（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1373596163723567112",
+        "conversation_id": "2046938430287056981",
+        "created_at": "2026-04-22T19:40:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T20:40:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047037919425392835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1827958813603102720",
+              "start": 0,
+              "username": "lckmtfdesu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047037919425392835",
+        "in_reply_to_user_id": "1827958813603102720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046938430287056981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lckmtfdesu 真欸戴久了完全會忘記\n只是我覺得外套就算拉鍊拉到最高其實還是看的到？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "transles/GAHT2026.3.26/半家长党/出柜2026.4.14/双相II/重度焦虑强迫抑郁/精分/INFP-T/od割手友善/鉴证退避/福瑞控/arc phi 冰与火 战雷/ 社恐/同类回fo/匿名树洞https://t.co/D5Dh6Ua5zJ 喵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aurelia16775",
+                "end": 132,
+                "expanded_url": "https://ngl.link/aurelia16775",
+                "start": 109,
+                "url": "https://t.co/D5Dh6Ua5zJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aurelia16775",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aurelia16775",
+                "start": 0,
+                "url": "https://t.co/D5Dh6Ua5zJ"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "location": "上海",
+        "name": "Caelia🏳️‍⚧️",
+        "pinned_tweet_id": "2046637992346013995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046424790437920769/xyF71oGn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 933,
+          "like_count": 3953,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 1142
+        },
+        "url": "https://t.co/D5Dh6Ua5zJ",
+        "username": "lckmtfdesu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-21T11:23:56.000Z",
+        "description": "幾乎只有轉推跟留言，偶爾發瘋 | OK: 線下(交朋友)/私訊聊天/給點陪伴 | NG: 意義不明的私訊(包括只說你好)/詐騙/外貌協會(主要是我也不好看) | 自介網頁→https://t.co/wPHksIQbE3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "about-me.ac-for-personal.com",
+                "end": 109,
+                "expanded_url": "http://about-me.ac-for-personal.com/",
+                "start": 86,
+                "url": "https://t.co/wPHksIQbE3"
+              }
+            ]
+          }
+        },
+        "id": "1373596163723567112",
+        "location": "from tw",
+        "name": "AC(Aqua Crew)あくあクルー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1679760289552805888/_4c6cgLm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 102,
+          "like_count": 4261,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 139
+        },
+        "username": "AC_Aqua_Crew",
+        "verified": false
+      }
+    ]
+  }
+}

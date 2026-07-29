@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "conversation_id": "2057233206987153787",
+    "created_at": "2026-05-20T22:53:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T23:53:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057233206987153787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1540698144429596673",
+          "start": 3,
+          "username": "Y2D80355"
+        },
+        {
+          "end": 63,
+          "id": "1431776320019517445",
+          "start": 50,
+          "username": "KiraRettosei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057233206987153787",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056795228292427802",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Y2D80355: 📢扩散希望📢\n⚠️多图杀猫警告⚠️\n\n原杭州高中生现北京“mtf”大学生@KiraRettosei(圈名勃勃)继在多地连续性骚扰多名mtf后仍屡教不改，在北京上大学期间的光辉事迹，特此转载\n出于人道主义的隐私保护将其真实姓名隐去\n说我misgende…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1163,
+        "media_key": "3_2056795225083756545",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIs0XB7WQAEmoQJ.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2056795225251540992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIs0XCjWcAA8wrR.jpg",
+        "width": 598
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2056795225750716416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIs0XEaXQAAF_ai.jpg",
+        "width": 591
+      },
+      {
+        "height": 1245,
+        "media_key": "3_2056795226312683523",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIs0XGgWMAMvnOT.jpg",
+        "width": 591
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2057233206987153787",
+        "created_at": "2026-05-20T22:53:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T23:53:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057233206987153787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1540698144429596673",
+              "start": 3,
+              "username": "Y2D80355"
+            },
+            {
+              "end": 63,
+              "id": "1431776320019517445",
+              "start": 50,
+              "username": "KiraRettosei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057233206987153787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056795228292427802",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Y2D80355: 📢扩散希望📢\n⚠️多图杀猫警告⚠️\n\n原杭州高中生现北京“mtf”大学生@KiraRettosei(圈名勃勃)继在多地连续性骚扰多名mtf后仍屡教不改，在北京上大学期间的光辉事迹，特此转载\n出于人道主义的隐私保护将其真实姓名隐去\n说我misgende…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056795225083756545",
+            "3_2056795225251540992",
+            "3_2056795225750716416",
+            "3_2056795226312683523"
+          ]
+        },
+        "author_id": "1540698144429596673",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2056795228292427802",
+        "created_at": "2026-05-19T17:52:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T18:52:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056795228292427802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 49,
+              "id": "1431776320019517445",
+              "start": 36,
+              "username": "KiraRettosei"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/abEQugR75S",
+              "end": 186,
+              "expanded_url": "https://x.com/Y2D80355/status/2056795228292427802/photo/1",
+              "media_key": "3_2056795225083756545",
+              "start": 163,
+              "url": "https://t.co/abEQugR75S"
+            },
+            {
+              "display_url": "pic.x.com/abEQugR75S",
+              "end": 186,
+              "expanded_url": "https://x.com/Y2D80355/status/2056795228292427802/photo/1",
+              "media_key": "3_2056795225251540992",
+              "start": 163,
+              "url": "https://t.co/abEQugR75S"
+            },
+            {
+              "display_url": "pic.x.com/abEQugR75S",
+              "end": 186,
+              "expanded_url": "https://x.com/Y2D80355/status/2056795228292427802/photo/1",
+              "media_key": "3_2056795225750716416",
+              "start": 163,
+              "url": "https://t.co/abEQugR75S"
+            },
+            {
+              "display_url": "pic.x.com/abEQugR75S",
+              "end": 186,
+              "expanded_url": "https://x.com/Y2D80355/status/2056795228292427802/photo/1",
+              "media_key": "3_2056795226312683523",
+              "start": 163,
+              "url": "https://t.co/abEQugR75S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056795228292427802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 6915,
+          "like_count": 64,
+          "quote_count": 4,
+          "reply_count": 7,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "📢扩散希望📢\n⚠️多图杀猫警告⚠️\n\n原杭州高中生现北京“mtf”大学生@KiraRettosei(圈名勃勃)继在多地连续性骚扰多名mtf后仍屡教不改，在北京上大学期间的光辉事迹，特此转载\n出于人道主义的隐私保护将其真实姓名隐去\n说我misgender的先别跟我急看完再评价\nP1为此人推特账号\nP2开始为相关内容\n\n1/n https://t.co/abEQugR75S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Oberwart, Burgenland, Austria",
+              "geo": {
+                "coordinates": [
+                  16.20595,
+                  47.28971
+                ],
+                "type": "Point"
+              },
+              "locality": "Oberwart",
+              "region": "Burgenland",
+              "sub_region": "Politischer Bezirk Oberwart"
+            }
+          ]
+        },
+        "description": "transbian/hrt2026.3.26/家长不管党/出柜2026.4.14/伪音学习中/居家修仙/高二/地雷女/INFP-T/sub/水仙/od割手友善/鉴证退避/福瑞控/arc phi 冰与火 战雷/ 社恐/超级缺爱/同类回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/profile.php?id…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/profile.php?id=61590025657067&mibextid=ZbWKwL",
+                "start": 0,
+                "url": "https://t.co/y1Iah85nsp"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "location": "上海",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2057055268631114176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056692984549433344/ErO8uC8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 604,
+          "following_count": 1070,
+          "like_count": 4889,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 1621
+        },
+        "url": "https://t.co/y1Iah85nsp",
+        "username": "lckmtfdesu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-25T14:07:33.000Z",
+        "description": "Ich habe keine Feinde.\nIch empfinde keinen Hass.",
+        "id": "1540698144429596673",
+        "name": "Erika Musterfrau",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053092410134003718/ZUPVBMsV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 717,
+          "like_count": 5203,
+          "listed_count": 1,
+          "media_count": 288,
+          "tweet_count": 5424
+        },
+        "username": "Y2D80355",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-29T00:32:03.000Z",
+        "description": "打扮漂亮/十八岁是天堂/我们的生活甜得像糖\n在电影学院里绽放青春吧！",
+        "id": "1431776320019517445",
+        "location": "🌏地球村！Haidian,Beijing",
+        "name": "🏳️‍⚧️🇺🇦 🎉神采奕奕的劣等生🧐『女高岁月～』",
+        "pinned_tweet_id": "1965938386826572050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1710687931382501376/7zaBFCz8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1999,
+          "following_count": 2949,
+          "like_count": 41760,
+          "listed_count": 7,
+          "media_count": 1005,
+          "tweet_count": 18691
+        },
+        "username": "KiraRettosei",
+        "verified": false
+      }
+    ]
+  }
+}

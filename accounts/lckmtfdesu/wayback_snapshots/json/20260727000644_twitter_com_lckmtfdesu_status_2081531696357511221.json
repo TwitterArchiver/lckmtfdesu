@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "conversation_id": "2081531696357511221",
+    "created_at": "2026-07-27T00:06:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T01:06:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081531696357511221"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1868438397083410432",
+          "start": 3,
+          "username": "2020520Rei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081531696357511221",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081250234412441694",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @2020520Rei: 刚刚叫母亲来做饭，以往不会说起吃糖和吃药的事，今天说起来，“你吃那个雌二醇，我记得是像我这种更年期……”，“是雌激素。”我说，她说你吃了也能改善睡眠？我说是的，那你吃了它除了这这还有什么作用啊，我说，“可以长胸啊，你看阿零...我（这里阿零是自称…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2081531696357511221",
+        "created_at": "2026-07-27T00:06:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T01:06:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081531696357511221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1868438397083410432",
+              "start": 3,
+              "username": "2020520Rei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081531696357511221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081250234412441694",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @2020520Rei: 刚刚叫母亲来做饭，以往不会说起吃糖和吃药的事，今天说起来，“你吃那个雌二醇，我记得是像我这种更年期……”，“是雌激素。”我说，她说你吃了也能改善睡眠？我说是的，那你吃了它除了这这还有什么作用啊，我说，“可以长胸啊，你看阿零...我（这里阿零是自称…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868438397083410432",
+        "conversation_id": "2081250234412441694",
+        "created_at": "2026-07-26T05:28:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T06:28:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081250234412441694"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081250234412441694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "刚刚叫母亲来做饭，以往不会说起吃糖和吃药的事，今天说起来，“你吃那个雌二醇，我记得是像我这种更年期……”，“是雌激素。”我说，她说你吃了也能改善睡眠？我说是的，那你吃了它除了这这还有什么作用啊，我说，“可以长胸啊，你看阿零...我（这里阿零是自称一种习惯，但是会立马改口往后随时会有）这都有一块两块了。”“哦？你想变性啊。”“嗯……是的，不过不是今天。”“那你之后都不会遗精勃起什么的咯？那这样怎么办哪？”母亲一边不停的眨眼一边说，“这东西早就没了，或者说从来没有过。”一边喝粥。“在初中我就亲手扼杀了它。”“啊？什么意思？”“跟你讲你也听不懂，总之就是这样，这些东西早就没了，阿零...我感到非常难受，这种感觉，阿零...我活着就已经很困难了，我只想做能让我感到舒服的事，这些事不舒服那就不要它了。”继续喝粥。我说，好，那个饭炒的不错，就是油太多了……哈哈哈当时我见一直炒不开结果一直放油，没事，你看你放油多是对的，要不这每次像平常都噎得慌。你看我这样吃——舀了一勺饭，又喝了口粥，竖了个大拇指。后面吃饱了，母亲到没什么，就低声自言自语说了一句，“我有点淡淡的忧伤，我需要离开这里了。”收拾东西打个招呼离开了。\n其实，中间还说了些关于药物的，因为最近吃药太多，大概就是说必须吃药啊，这可是救命药啊，顺便叫老妈能可以去医院帮开一点，可以说到今天都是药物的功劳吧可能，当然也可能是自己的努力。\n父母似乎不像其他父母那样，会很反对，但也不像设想的一样，很奇怪，总之，还给父母的情绪价值还是要有的，哈哈哈，有时候回答说话就像说相声似的，我觉得这个很好——对，很好，very good，拿起来比划比划。哎，扯远了以后再说，只是讲的，似乎父母也喜欢一个这样的阿零吧，一个承上启下的感觉。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 14644,
+          "like_count": 118,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "刚刚叫母亲来做饭，以往不会说起吃糖和吃药的事，今天说起来，“你吃那个雌二醇，我记得是像我这种更年期……”，“是雌激素。”我说，她说你吃了也能改善睡眠？我说是的，那你吃了它除了这这还有什么作用啊，我说，“可以长胸啊，你看阿零...我（这里阿零是自称一种习惯，但是会立马改口往后随时会有）这都"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Oberwart, Burgenland, Austria",
+              "geo": {
+                "coordinates": [
+                  16.20595,
+                  47.28971
+                ],
+                "type": "Point"
+              },
+              "locality": "Oberwart",
+              "region": "Burgenland",
+              "sub_region": "Politischer Bezirk Oberwart"
+            }
+          ]
+        },
+        "description": "爱我的好姐（杂）姐（鱼）@ogsa1687497\nmtf/hrt2026.3.26/半家长党/福瑞控/arc phi 冰与火 战雷/ 见证退避/查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "ogsa1687497"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/profile.php?id…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/profile.php?id=61590025657067&mibextid=ZbWKwL",
+                "start": 0,
+                "url": "https://t.co/y1Iah85nsp"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "location": "上海",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2078437621102252181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056692984549433344/ErO8uC8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1540,
+          "following_count": 1458,
+          "like_count": 7320,
+          "listed_count": 3,
+          "media_count": 90,
+          "tweet_count": 2771
+        },
+        "url": "https://t.co/y1Iah85nsp",
+        "username": "lckmtfdesu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T23:30:20.000Z",
+        "description": "账号重生×3 | 重度抑郁 | 有认知障碍 |体弱多病 | MTF🏳️‍⚧️ | 💊似乎又开始了 | 只想做好自己 |  人美心善😘～| 163cm  45kg（小小只）              \n*我的互fo死了msk你赔我",
+        "id": "1868438397083410432",
+        "location": "0km",
+        "name": "Rei零酱🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2081251949001965681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075610198694297600/MUVZKOFF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 243,
+          "like_count": 1905,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 882
+        },
+        "url": "",
+        "username": "2020520Rei",
+        "verified": true
+      }
+    ]
+  }
+}

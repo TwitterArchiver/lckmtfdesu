@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "conversation_id": "2055427714761585151",
+    "created_at": "2026-05-15T23:18:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T00:18:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055427714761585151"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 100,
+          "start": 97,
+          "tag": "神人"
+        },
+        {
+          "end": 105,
+          "start": 101,
+          "tag": "MTF"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1546431985086009344",
+          "start": 3,
+          "username": "NL8526"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055427714761585151",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055255870993502393",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NL8526: 😅鲨猫 自鹿目圆事件起成功拿下第二杀\n里央的手术费38万打底，只有25%成功概率 成功了也是大概率下半辈子下不了床，就算现在还没有宣布死亡，也已经等同于死亡了。RIP🙏\n#神人 #MTF"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2055427714761585151",
+        "created_at": "2026-05-15T23:18:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T00:18:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055427714761585151"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 100,
+              "start": 97,
+              "tag": "神人"
+            },
+            {
+              "end": 105,
+              "start": 101,
+              "tag": "MTF"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1546431985086009344",
+              "start": 3,
+              "username": "NL8526"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055427714761585151",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055255870993502393",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NL8526: 😅鲨猫 自鹿目圆事件起成功拿下第二杀\n里央的手术费38万打底，只有25%成功概率 成功了也是大概率下半辈子下不了床，就算现在还没有宣布死亡，也已经等同于死亡了。RIP🙏\n#神人 #MTF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2055255870993502393",
+        "created_at": "2026-05-15T11:55:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T12:55:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055255870993502393"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 88,
+              "start": 85,
+              "tag": "神人"
+            },
+            {
+              "end": 93,
+              "start": 89,
+              "tag": "MTF"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/TixItem4527/st…",
+              "end": 117,
+              "expanded_url": "https://twitter.com/TixItem4527/status/2054994576012906648",
+              "start": 94,
+              "url": "https://t.co/hBHLS36Z7G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055255870993502393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 3903,
+          "like_count": 31,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054994576012906648",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😅鲨猫 自鹿目圆事件起成功拿下第二杀\n里央的手术费38万打底，只有25%成功概率 成功了也是大概率下半辈子下不了床，就算现在还没有宣布死亡，也已经等同于死亡了。RIP🙏\n#神人 #MTF https://t.co/hBHLS36Z7G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "transles/白河豚/GAHT2026.3.26/半家长党/出柜2026.4.14/双相II/重度焦虑强迫抑郁/精分/INFP-T/sub/水仙/od割手友善/鉴证退避/福瑞控/arc phi 冰与火 战雷/ 社恐/同类回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aurelia16775",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aurelia16775",
+                "start": 0,
+                "url": "https://t.co/D5Dh6Ua5zJ"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "location": "上海",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2046637992346013995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046424790437920769/xyF71oGn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 1007,
+          "like_count": 4290,
+          "listed_count": 2,
+          "media_count": 28,
+          "tweet_count": 1341
+        },
+        "url": "https://t.co/D5Dh6Ua5zJ",
+        "username": "lckmtfdesu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/音游/MC 😖家长不管/缺爱b/为什么无人在意?为什么你们都讨厌我? 🩷扩列互关 拒接线下 🧂做完剩下想做的事情 就离开这世界",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "location": "江西",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2054127864816250897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1386,
+          "following_count": 842,
+          "like_count": 11803,
+          "listed_count": 2,
+          "media_count": 87,
+          "tweet_count": 427
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": false
+      }
+    ]
+  }
+}

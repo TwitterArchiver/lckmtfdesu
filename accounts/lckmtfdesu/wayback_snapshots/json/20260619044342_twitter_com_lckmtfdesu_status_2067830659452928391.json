@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067830646203105281"
+      ]
+    },
+    "author_id": "1827958813603102720",
+    "conversation_id": "2067500555409461497",
+    "created_at": "2026-06-19T04:43:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T05:43:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067830659452928391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2055095022425722880",
+          "start": 0,
+          "username": "UnkMtX"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/c8SpX7KMwB",
+          "end": 31,
+          "expanded_url": "https://x.com/lckmtfdesu/status/2067830659452928391/photo/1",
+          "media_key": "3_2067830646203105281",
+          "start": 8,
+          "url": "https://t.co/c8SpX7KMwB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067830659452928391",
+    "in_reply_to_user_id": "2055095022425722880",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067500555409461497",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@UnkMtX https://t.co/c8SpX7KMwB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067830646203105281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLJpBFKaQAENPga.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2268,
+        "media_key": "3_2067500489483468800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLE8vbibwAAMzxN.jpg",
+        "width": 2268
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067830646203105281"
+          ]
+        },
+        "author_id": "1827958813603102720",
+        "conversation_id": "2067500555409461497",
+        "created_at": "2026-06-19T04:43:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T05:43:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067830659452928391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2055095022425722880",
+              "start": 0,
+              "username": "UnkMtX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/c8SpX7KMwB",
+              "end": 31,
+              "expanded_url": "https://x.com/lckmtfdesu/status/2067830659452928391/photo/1",
+              "media_key": "3_2067830646203105281",
+              "start": 8,
+              "url": "https://t.co/c8SpX7KMwB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067830659452928391",
+        "in_reply_to_user_id": "2055095022425722880",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067500555409461497",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@UnkMtX https://t.co/c8SpX7KMwB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067500489483468800"
+          ]
+        },
+        "author_id": "2055095022425722880",
+        "conversation_id": "2067500555409461497",
+        "created_at": "2026-06-18T06:51:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T07:51:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067500555409461497"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "中国三十四省级行政区域制霸标记生成工具",
+              "display_url": "lab.magiconch.com/china-ex/",
+              "end": 33,
+              "expanded_url": "http://lab.magiconch.com/china-ex/",
+              "start": 10,
+              "status": 200,
+              "title": "中国制霸生成器 - 中国三十四省级行政区域制霸标记生成工具",
+              "unwound_url": "https://lab.magiconch.com/china-ex/",
+              "url": "https://t.co/W8jC98Mdzt"
+            },
+            {
+              "display_url": "pic.x.com/EmLRLdwO2u",
+              "end": 57,
+              "expanded_url": "https://x.com/UnkMtX/status/2067500555409461497/photo/1",
+              "media_key": "3_2067500489483468800",
+              "start": 34,
+              "url": "https://t.co/EmLRLdwO2u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067500555409461497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2695,
+          "like_count": 39,
+          "quote_count": 5,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "我去过的地方太少了🥲https://t.co/W8jC98Mdzt https://t.co/EmLRLdwO2u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "mtf/transbian/hrt2026.3.26/家长不管党/伪音学习中/居家修仙/地雷女/鉴证退避/福瑞控/arc phi 冰与火 战雷/ 社恐/超级缺爱/查成分回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/profile.php?id…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/profile.php?id=61590025657067&mibextid=ZbWKwL",
+                "start": 0,
+                "url": "https://t.co/y1Iah85nsp"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "location": "上海",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2063939048675451353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056692984549433344/ErO8uC8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 919,
+          "following_count": 1265,
+          "like_count": 6015,
+          "listed_count": 2,
+          "media_count": 55,
+          "tweet_count": 2231
+        },
+        "url": "https://t.co/y1Iah85nsp",
+        "username": "lckmtfdesu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-15T01:17:01.000Z",
+        "description": "被关精卫中，不发帖就是没手机了😭|\n前世@UnkXyn|MTX🏳️‍⚧️|HRT🍥01.28.2026，断糖06.06.2026|无证|家暴党+年龄党|🎂11.13.2011🍰|暂时无法Od💊|对象💖@Lvmaosamaovo|159cm52kg|INFP-T|重度社恐|休学中|同类互fo喵~",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 20,
+                "username": "UnkXyn"
+              },
+              {
+                "end": 113,
+                "start": 100,
+                "username": "Lvmaosamaovo"
+              }
+            ]
+          }
+        },
+        "id": "2055095022425722880",
+        "location": "武汉市精神卫生中心(二七院区)🤯",
+        "name": "✟𝟯.𝗨𝗻𝗸✟🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060807051815854080/KA8UAH6G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1251,
+          "following_count": 1081,
+          "like_count": 2457,
+          "listed_count": 14,
+          "media_count": 71,
+          "tweet_count": 538
+        },
+        "url": "",
+        "username": "UnkMtX",
+        "verified": true
+      }
+    ]
+  }
+}

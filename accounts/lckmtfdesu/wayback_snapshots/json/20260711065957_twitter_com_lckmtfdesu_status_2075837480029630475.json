@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "conversation_id": "2075837480029630475",
+    "created_at": "2026-07-11T06:59:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T07:59:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075837480029630475"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1510447851507261445",
+          "start": 3,
+          "username": "LanziiLove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075837480029630475",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075773416708468928",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LanziiLove: 虽然之前有过好几次争吵（大部分都是我妈骂我其实 哭）\n但前两天我妈不知怎么好像表了态，我不确定这话做不做数，但她的意思是也不会不让我去术了，只是她确实拿不出钱。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2075837480029630475",
+        "created_at": "2026-07-11T06:59:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T07:59:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075837480029630475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1510447851507261445",
+              "start": 3,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075837480029630475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075773416708468928",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LanziiLove: 虽然之前有过好几次争吵（大部分都是我妈骂我其实 哭）\n但前两天我妈不知怎么好像表了态，我不确定这话做不做数，但她的意思是也不会不让我去术了，只是她确实拿不出钱。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2075773416708468928",
+        "created_at": "2026-07-11T02:45:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T03:45:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075773416708468928"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075773416708468928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "虽然之前有过好几次争吵（大部分都是我妈骂我其实 哭）\n但前两天我妈不知怎么好像表了态，我不确定这话做不做数，但她的意思是也不会不让我去术了，只是她确实拿不出钱。\n这一点我也是清楚的，上次碎碎念的时候也提到了，家里做生意被熟人背刺欠了两千多万账户和资产全被冻结，现在也就只能勉强维持家里那么多人的生计。我妈现在信用卡长期欠好几千还不上。\n比较好的情况是我去向我爸预支生活费+借钱，但我不确定我爸有多少存款，但是如果能借到自然就能尽快安排手术\n最坏的情况也就是完全靠我自己一点点攒攒到12万了。\n所以，目前看来是这样的？\n慢慢来叭……\n\n现在要操心的事情还是太多太多了。单单就拿赚钱这一件事来说就很头疼。我到底是拼尽全力借钱？还是休学去做家教赚钱？还是继续读书一边赚钱？还是先把代码学精通，等后面再变现？赚不到那么多钱怎么办？休学到上限了怎么办？又涨价了怎么办？还是说放弃我的学历等以后工作赚钱了再手术？\n\n有太多太多要去想的事情，有太多太多等着我去做的事情，有太多太多的选择，也有太多太多的犹豫，有太多太多的出路，也有太多太多的遗憾，但就是没有多少时间和精力。\n\n我可能有点像是那种速通版Transition因为我的进度确实比较快，从HRT开始两个月出柜三个月小证HRT四个月考虑SRS。一般来说“观察期”和“rle”也就是给人一个深思熟虑自己到底适不适合srs的时间。但实际上我想的很多，有的时候我可能比部分人一整年还想的多。当然了，这是很坏的一件事。光是“想的多”这一点就严重加剧了我的精神疾病。抑郁，焦虑，狂躁，失眠，做噩梦……正反馈地让我的精神状态持续下滑以至于完全没有办法正常生活，也没有办法好好完成我的学业。我刚上大学的时候有着各种保研、竞赛和实习什么的规划，而以我当时每次考试都朝着满绩去考的状态来说，我也的确是在保研线内。在被今年突然严重加剧的gd和附赠的抑郁焦虑攻击后我变得情绪异常，生活难以正常进行，学习效果极差，导致这学期的考试，一大半全都只能期盼着被老师捞。\n\n我的gd我记不到第一次出现具体是什么时候。但我的确记得在我很小很小，还在幼儿园的时候，就表现出了对女装的一些喜爱。第一次感觉到gd的时候是青春期，自此也就埋下了根，厌恶着第二性征，当时身上但凡哪里长出来一点点体毛（除了头发和眉毛）都会被我一根根拔掉，包括汗毛。更是从小就喜欢穿女装，而且一直觉得自己是个异类，是个怪物。\n\n那个时候的互联网还没有发达到一个这么小的小孩就会翻墙的程度，那时也没有现今这般的大数据帮我找到同类。所以我Trans前的大部分人生都自认为是一个怪物是一个异类。而我从来都不愿意把这些事情跟任何人说。但其实这样只会让事情变得越来越糟。\n\n我第一次gd爆炸是在我上高中的时候，那次家里很亲近的一位老人身体状况恶化，再加上那段时间我因为gd导致的抑郁害的我成绩下滑，整体状态很糟糕。但那时的我，可能因为性格原因，从来没有把这些事和任何人说，也没有采取帮自己缓解焦虑的行动。一个是没有条件，另一个是也不了解跨性别。\n\n所以我一直都觉得“跨性别都是因为看了网上的人吃药才跟风吃药变性的，不上网就没有这些问题了”以及“我们以前不能上网的时候哪来这些问题/哪有跨性别”这种说法扯淡得离谱。因为我自己就是从小性别焦虑，在高二因为焦虑问题上网搜寻求有没有能帮助我变性缓解焦虑的办法，我才第一次在网上了解到跨性别这个概念。\n\n顺带提个无关的事，也算是时代的眼泪了，我第一次接触到和跨性别相关的是贴吧上的“今天你也很可爱吧” hhhh\n\n但是高中那次一个是本身压力就大，再加上也没有条件和胆量去HRT（当时还太小了 接受能力很差，被各种传的副作用吓到了，不过当时一些流传的hrt方案确实不太正规）所以就选择了自己一个人憋到底。但我说实话，纸终究包不住火。性别焦虑是会伴随一生的。\n\n上了大学之后更为自由了，也就可以随意的穿女装来缓解gd了。也很幸运遇见了然桑。今年年初gd进行了又一次爆炸，炸到我撑不下去了，于是就购入药物进行diy hrt了。\n\n然后，再后来嘛，就现在这样了。\n\n有时每次看这走过的整条路都感慨万千。但至少我不会后悔吧。人生只有一次，绽放只有一次，没有什么正确或是错误的决定，唯一存在的只有自己的决定。一旦你做出了选择，那就是你唯一的决定。既然选择了那就勇敢地走下去。\n\n愿未来会更好。\n\n愿每一个你的现在和未来都更好。\n\n愿我们都能完成自己的梦想。\n\n愿我们都能活出自己想要的人生。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 6505,
+          "like_count": 126,
+          "quote_count": 2,
+          "reply_count": 23,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "虽然之前有过好几次争吵（大部分都是我妈骂我其实 哭）\n但前两天我妈不知怎么好像表了态，我不确定这话做不做数，但她的意思是也不会不让我去术了，只是她确实拿不出钱。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "mtf/transbian/hrt2026.3.26/半家长党/伪音学习中/居家修仙/地雷女/福瑞控/arc phi 冰与火 战雷/ 社恐/超级缺爱/查成分回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/profile.php?id…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/profile.php?id=61590025657067&mibextid=ZbWKwL",
+                "start": 0,
+                "url": "https://t.co/y1Iah85nsp"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "location": "上海",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2070114836760117561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056692984549433344/ErO8uC8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1336,
+          "following_count": 1398,
+          "like_count": 6888,
+          "listed_count": 3,
+          "media_count": 75,
+          "tweet_count": 2522
+        },
+        "url": "https://t.co/y1Iah85nsp",
+        "username": "lckmtfdesu",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～本名杜澄溪 可以叫我小雫or澄溪 💕是女孩子！🏳️‍⚧️平时发发日常～ 纯绿清水主播 不要相信骗子哦 目前只营B站和X🏠这是我的男友然桑@dexy0306 我一生的挚爱🥰祝你生活愉快！10r慈善捐款可以加粉丝群～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 71,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨🏳️‍⚧️杜澄溪",
+        "pinned_tweet_id": "2073964025336263166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27300,
+          "following_count": 1430,
+          "like_count": 3452,
+          "listed_count": 81,
+          "media_count": 481,
+          "tweet_count": 3070
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true
+      }
+    ]
+  }
+}

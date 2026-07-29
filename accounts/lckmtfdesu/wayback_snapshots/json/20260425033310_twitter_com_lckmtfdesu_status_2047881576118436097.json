@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "conversation_id": "2047774160542412886",
+    "created_at": "2026-04-25T03:33:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T04:33:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047881576118436097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1394784939216818179",
+          "start": 0,
+          "username": "Tequila_SUNRlSE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047881576118436097",
+    "in_reply_to_user_id": "1394784939216818179",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047774160542412886",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tequila_SUNRlSE 這叫強姦\n什麼調查"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047774150782316544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGsnvZWbcAA8vTV.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2047774160542412886",
+        "created_at": "2026-04-25T03:33:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T04:33:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047881576118436097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1394784939216818179",
+              "start": 0,
+              "username": "Tequila_SUNRlSE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047881576118436097",
+        "in_reply_to_user_id": "1394784939216818179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047774160542412886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tequila_SUNRlSE 這叫強姦\n什麼調查"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047774150782316544"
+          ]
+        },
+        "author_id": "1394784939216818179",
+        "conversation_id": "2047774160542412886",
+        "created_at": "2026-04-24T20:26:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T21:26:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047774160542412886"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G12cDxazkD",
+              "end": 142,
+              "expanded_url": "https://x.com/Tequila_SUNRlSE/status/2047774160542412886/photo/1",
+              "media_key": "3_2047774150782316544",
+              "start": 119,
+              "url": "https://t.co/G12cDxazkD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047774160542412886",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 12732,
+          "like_count": 252,
+          "quote_count": 2,
+          "reply_count": 18,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "今天晚上散步talk还问男友四川五一开始要禁烟到底怎么执行啊?他说城管会管吧，我说你长这么大一共见过几个城管啊?\n最后我说，像深圳一样举报有奖励就好了\n结果回来就刷到这事，到底为什么不想闻烟味制止烟人在公交站台抽烟要被脱下内裤检查啊?? https://t.co/G12cDxazkD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "transles/白河豚/GAHT2026.3.26/半家长党/出柜2026.4.14/双相II/重度焦虑强迫抑郁/精分/INFP-T/sub/水仙/od割手友善/鉴证退避/福瑞控/arc phi 冰与火 战雷/ 社恐/同类回fo/匿名树洞https://t.co/D5Dh6Ua5zJ 喵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aurelia16775",
+                "end": 143,
+                "expanded_url": "https://ngl.link/aurelia16775",
+                "start": 120,
+                "url": "https://t.co/D5Dh6Ua5zJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aurelia16775",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aurelia16775",
+                "start": 0,
+                "url": "https://t.co/D5Dh6Ua5zJ"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "location": "上海",
+        "name": "Caelia🏳️‍⚧️",
+        "pinned_tweet_id": "2046637992346013995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046424790437920769/xyF71oGn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 961,
+          "like_count": 4117,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 1208
+        },
+        "url": "https://t.co/D5Dh6Ua5zJ",
+        "username": "lckmtfdesu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-18T22:40:41.000Z",
+        "description": "互联网光屁教教主/废话推主/bi/同居热恋中/喜欢我请给我打钱 自用蜂鸟vpn：https://t.co/DpgTecV1tM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 63,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=ulYN1VK2",
+                "start": 40,
+                "url": "https://t.co/DpgTecV1tM"
+              }
+            ]
+          }
+        },
+        "id": "1394784939216818179",
+        "location": "6.8km  ",
+        "name": "八十荣",
+        "pinned_tweet_id": "1776820462062100614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1410274938737414151/pFNLQOX3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30308,
+          "following_count": 494,
+          "like_count": 4452,
+          "listed_count": 62,
+          "media_count": 1709,
+          "tweet_count": 15336
+        },
+        "username": "Tequila_SUNRlSE",
+        "verified": false
+      }
+    ]
+  }
+}

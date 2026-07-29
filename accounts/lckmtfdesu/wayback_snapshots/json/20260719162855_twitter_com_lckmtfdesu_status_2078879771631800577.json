@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "conversation_id": "2078879771631800577",
+    "created_at": "2026-07-19T16:28:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T17:28:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078879771631800577"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lckmtfdesu/sta…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/lckmtfdesu/status/2078848713087386037",
+          "start": 16,
+          "url": "https://t.co/HoPotBseOS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078879771631800577",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078848713087386037",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "冷知识：这里的东西我妈都见过了 https://t.co/HoPotBseOS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2078848690077503489",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNmN3pHbEAENVR7.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2078879771631800577",
+        "created_at": "2026-07-19T16:28:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T17:28:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078879771631800577"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lckmtfdesu/sta…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/lckmtfdesu/status/2078848713087386037",
+              "start": 16,
+              "url": "https://t.co/HoPotBseOS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078879771631800577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078848713087386037",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "冷知识：这里的东西我妈都见过了 https://t.co/HoPotBseOS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078848690077503489"
+          ]
+        },
+        "author_id": "1827958813603102720",
+        "conversation_id": "2078848713087386037",
+        "created_at": "2026-07-19T14:25:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T15:25:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078848713087386037"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r130MaAC1G",
+              "end": 29,
+              "expanded_url": "https://x.com/lckmtfdesu/status/2078848713087386037/photo/1",
+              "media_key": "3_2078848690077503489",
+              "start": 6,
+              "url": "https://t.co/r130MaAC1G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078848713087386037",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 332,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的军火库 https://t.co/r130MaAC1G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Oberwart, Burgenland, Austria",
+              "geo": {
+                "coordinates": [
+                  16.20595,
+                  47.28971
+                ],
+                "type": "Point"
+              },
+              "locality": "Oberwart",
+              "region": "Burgenland",
+              "sub_region": "Politischer Bezirk Oberwart"
+            }
+          ]
+        },
+        "description": "mtf/hrt2026.3.26/半家长党/福瑞控/arc phi 冰与火 战雷/ 见证退避/查成分回fo\n好姐姐@ogsa1687497",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 57,
+                "username": "ogsa1687497"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/profile.php?id…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/profile.php?id=61590025657067&mibextid=ZbWKwL",
+                "start": 0,
+                "url": "https://t.co/y1Iah85nsp"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "location": "上海",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2078437621102252181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056692984549433344/ErO8uC8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1386,
+          "following_count": 1425,
+          "like_count": 6980,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 2610
+        },
+        "url": "https://t.co/y1Iah85nsp",
+        "username": "lckmtfdesu",
+        "verified": true
+      }
+    ]
+  }
+}

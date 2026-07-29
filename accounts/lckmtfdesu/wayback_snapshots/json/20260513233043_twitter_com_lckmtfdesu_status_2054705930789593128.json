@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "conversation_id": "2054586689675526315",
+    "created_at": "2026-05-13T23:30:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T00:30:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054705930789593128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1928484105794281472",
+          "start": 0,
+          "username": "585_nomi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054705930789593128",
+    "in_reply_to_user_id": "1928484105794281472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054705730058621051",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@585_nomi 啊…这样吗…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2054586689675526315",
+        "created_at": "2026-05-13T23:30:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T00:30:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054705930789593128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1928484105794281472",
+              "start": 0,
+              "username": "585_nomi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054705930789593128",
+        "in_reply_to_user_id": "1928484105794281472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054705730058621051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@585_nomi 啊…这样吗…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928484105794281472",
+        "conversation_id": "2054586689675526315",
+        "created_at": "2026-05-13T23:29:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T00:29:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054705730058621051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1827958813603102720",
+              "start": 0,
+              "username": "lckmtfdesu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054705730058621051",
+        "in_reply_to_user_id": "1827958813603102720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054586689675526315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lckmtfdesu 打出来好像也不行，得明确说要用什么药你才能拿着它去开药，方舟健客那会儿就是这样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "transles/白河豚/GAHT2026.3.26/半家长党/出柜2026.4.14/双相II/重度焦虑强迫抑郁/精分/INFP-T/sub/水仙/od割手友善/鉴证退避/福瑞控/arc phi 冰与火 战雷/ 社恐/同类回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aurelia16775",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aurelia16775",
+                "start": 0,
+                "url": "https://t.co/D5Dh6Ua5zJ"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "location": "上海",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2046637992346013995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046424790437920769/xyF71oGn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 526,
+          "following_count": 973,
+          "like_count": 4173,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 1264
+        },
+        "url": "https://t.co/D5Dh6Ua5zJ",
+        "username": "lckmtfdesu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-30T16:10:23.000Z",
+        "description": "请称呼我为糯米。\n如果尖锐的批评完全消失，温和的批评将会变得刺耳。 如果温和的批评也不被允许，沉默将被认为居心叵测。 如果沉默也不再允许，赞扬不够卖力将是一种罪行。 如果只允许一种声音存在，那么，唯一存在的那个声音就是谎言。",
+        "id": "1928484105794281472",
+        "name": "SaModesty",
+        "pinned_tweet_id": "2053337134007017871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054447439428657152/9EzmIuIk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 7,
+          "like_count": 87,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 151
+        },
+        "username": "585_nomi",
+        "verified": false
+      }
+    ]
+  }
+}

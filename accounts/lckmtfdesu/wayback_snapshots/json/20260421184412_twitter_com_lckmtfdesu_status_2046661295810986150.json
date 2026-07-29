@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "conversation_id": "2046661295810986150",
+    "created_at": "2026-04-21T18:44:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T19:44:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046661295810986150"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ShiXiaomeiMoYa…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/ShiXiaomeiMoYa/status/2046632538215686327",
+          "start": 35,
+          "url": "https://t.co/o3aU14j12l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046661295810986150",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046632538215686327",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "私人東西.\n沒事勸別人死的多少有點大病.\n要麼自己先示範一下怎麼死. https://t.co/o3aU14j12l"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2046661295810986150",
+        "created_at": "2026-04-21T18:44:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T19:44:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046661295810986150"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ShiXiaomeiMoYa…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/ShiXiaomeiMoYa/status/2046632538215686327",
+              "start": 35,
+              "url": "https://t.co/o3aU14j12l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046661295810986150",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046632538215686327",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "私人東西.\n沒事勸別人死的多少有點大病.\n要麼自己先示範一下怎麼死. https://t.co/o3aU14j12l"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045025548401823744",
+        "conversation_id": "2046277122382279080",
+        "created_at": "2026-04-21T16:49:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T17:49:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046632538215686327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1858393719080366080",
+              "start": 0,
+              "username": "xiaomonuya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046632538215686327",
+        "in_reply_to_user_id": "1858393719080366080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 315,
+          "like_count": 0,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046277122382279080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaomonuya 那就去死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "transles/GAHT2026.3.26/半家长党/出柜2026.4.14/双相II/重度焦虑强迫抑郁/精分/INFP-T/od割手友善/鉴证退避/福瑞控/arc phi 冰与火 战雷/ 社恐/同类回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aurelia16775",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aurelia16775",
+                "start": 0,
+                "url": "https://t.co/D5Dh6Ua5zJ"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "location": "上海",
+        "name": "Caelia🏳️‍⚧️",
+        "pinned_tweet_id": "2046637992346013995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046424790437920769/xyF71oGn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 914,
+          "like_count": 3810,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1088
+        },
+        "url": "https://t.co/D5Dh6Ua5zJ",
+        "username": "lckmtfdesu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-17T06:24:35.000Z",
+        "description": "門52，只收wechat",
+        "id": "2045025548401823744",
+        "name": "小魔女（是小魅魔呀）",
+        "pinned_tweet_id": "2046646553901945087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045030301190230016/iCnq9Erh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 5,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 64
+        },
+        "username": "ShiXiaomeiMoYa",
+        "verified": false
+      }
+    ]
+  }
+}

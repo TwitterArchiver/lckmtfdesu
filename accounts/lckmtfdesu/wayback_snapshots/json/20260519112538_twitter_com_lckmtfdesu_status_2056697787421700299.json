@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "conversation_id": "2056691337899147535",
+    "created_at": "2026-05-19T11:25:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T12:25:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056697787421700299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1976995735532138496",
+          "start": 0,
+          "username": "JanboMikan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056697787421700299",
+    "in_reply_to_user_id": "1976995735532138496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056691337899147535",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JanboMikan 切我的吧，连带着锁着东西的一块切了（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2671,
+        "media_key": "3_2055259704851628032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIW_z_TbAAAL1pt.jpg",
+        "width": 2168
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2056691337899147535",
+        "created_at": "2026-05-19T11:25:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T12:25:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056697787421700299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056697787421700299",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056691337899147535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 切我的吧，连带着锁着东西的一块切了（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055259704851628032"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "2056691337899147535",
+        "created_at": "2026-05-19T11:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T12:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056691337899147535"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9gqGsOKnRo",
+              "end": 167,
+              "expanded_url": "https://x.com/JanboMikan/status/2056691337899147535/photo/1",
+              "media_key": "3_2055259704851628032",
+              "start": 144,
+              "url": "https://t.co/9gqGsOKnRo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056691337899147535",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 267,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "翻进烂尾楼拍废墟风正片，结果腿卡进钢筋拔不出来，最后只能绝望地打了119。\n消防员小哥一边操作液压剪一边安慰我：「别怕啊，我们剪断就好，你这裙子挺好看的，注意点别走光。」\n探照灯一晃，他突然愣住了，目光盯到了我裙下那个银色金属笼子。\n「…同志，你这东西，需要我们顺便拿角磨机切一下吗？」 https://t.co/9gqGsOKnRo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "transbian/hrt2026.3.26/家长不管党/出柜2026.4.14/伪音学习中/居家修仙/高二/地雷女/INFP-T/sub/水仙/od割手友善/鉴证退避/福瑞控/arc phi 冰与火 战雷/ 社恐/超级缺爱/同类回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lckmtfdesu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lckmtfdesu",
+                "start": 0,
+                "url": "https://t.co/qZnowotyMH"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "location": "上海",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2056433412886700324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056692984549433344/ErO8uC8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 578,
+          "following_count": 1049,
+          "like_count": 4703,
+          "listed_count": 2,
+          "media_count": 36,
+          "tweet_count": 1498
+        },
+        "url": "https://t.co/qZnowotyMH",
+        "username": "lckmtfdesu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(全广随机出现)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13067,
+          "following_count": 503,
+          "like_count": 17772,
+          "listed_count": 44,
+          "media_count": 277,
+          "tweet_count": 9218
+        },
+        "username": "JanboMikan",
+        "verified": false
+      }
+    ]
+  }
+}

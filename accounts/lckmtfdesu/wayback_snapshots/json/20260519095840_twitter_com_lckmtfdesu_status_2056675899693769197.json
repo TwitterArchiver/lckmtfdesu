@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "conversation_id": "2056599288319443386",
+    "created_at": "2026-05-19T09:58:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T10:58:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056675899693769197"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1699985068721082368",
+          "start": 0,
+          "username": "RX_Xron28390"
+        },
+        {
+          "end": 24,
+          "id": "1794306281572118528",
+          "start": 14,
+          "username": "520maodou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056675899693769197",
+    "in_reply_to_user_id": "1699985068721082368",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056670399774044516",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RX_Xron28390 @520maodou ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2056599288319443386",
+        "created_at": "2026-05-19T09:58:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T10:58:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056675899693769197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1699985068721082368",
+              "start": 0,
+              "username": "RX_Xron28390"
+            },
+            {
+              "end": 24,
+              "id": "1794306281572118528",
+              "start": 14,
+              "username": "520maodou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056675899693769197",
+        "in_reply_to_user_id": "1699985068721082368",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056670399774044516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RX_Xron28390 @520maodou ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699985068721082368",
+        "conversation_id": "2056599288319443386",
+        "created_at": "2026-05-19T09:36:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T10:36:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056670399774044516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1827958813603102720",
+              "start": 0,
+              "username": "lckmtfdesu"
+            },
+            {
+              "end": 22,
+              "id": "1794306281572118528",
+              "start": 12,
+              "username": "520maodou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056670399774044516",
+        "in_reply_to_user_id": "1827958813603102720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056656818794115577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lckmtfdesu @520maodou 也就网上说说了，搁现实谁不想猛猛来两针睾酮九龙拉棺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Oberwart, Burgenland, Austria",
+              "geo": {
+                "coordinates": [
+                  16.20595,
+                  47.28971
+                ],
+                "type": "Point"
+              },
+              "locality": "Oberwart",
+              "region": "Burgenland",
+              "sub_region": "Politischer Bezirk Oberwart"
+            }
+          ]
+        },
+        "description": "transbian/hrt2026.3.26/家长不管党/出柜2026.4.14/伪音学习中/地雷系/INFP-T/sub/水仙/od割手友善/鉴证退避/福瑞控/arc phi 冰与火 战雷/ 社恐/超级缺爱/同类回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lckmtfdesu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lckmtfdesu",
+                "start": 0,
+                "url": "https://t.co/qZnowotyMH"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "location": "上海",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2056433412886700324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056639458838245377/KH1IK8RU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 576,
+          "following_count": 1044,
+          "like_count": 4676,
+          "listed_count": 2,
+          "media_count": 34,
+          "tweet_count": 1485
+        },
+        "url": "https://t.co/qZnowotyMH",
+        "username": "lckmtfdesu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-08T03:16:52.000Z",
+        "description": "世界第一大楚生，屏蔽我的人可以从这里排到伦敦，我的恶行从爱尔兰到契丹无人不知无人不晓，孙笑川，少羽只是我的善良人格罢了\n17岁在美宾洲男高/反跨/前世为德皇战死凡尔登转世的bf轮椅人 ，恐虐麾下出场，纳垢锅里喝汤，奸奇桌前分账，色孽闺中睡床，德皇kaiser：@sanitf1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 130,
+                "username": "sanitf1"
+              }
+            ]
+          }
+        },
+        "id": "1699985068721082368",
+        "location": "凡爾登，378號高地陣地，1916",
+        "name": "𝑇𝑦𝑟 𝑉𝑜𝑛 𝑊𝑒𝑙𝑡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054647447134044160/Xo1I5Yt-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 311,
+          "like_count": 8350,
+          "listed_count": 2,
+          "media_count": 864,
+          "tweet_count": 5257
+        },
+        "username": "RX_Xron28390",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-25T09:55:49.000Z",
+        "description": "一只可爱的刚出炉的MTF喵~\n生产日期07.4 | 无证含糖 | HRT 26.5.4  |26.5.15已炸柜 | 大一数学系新生一枚|「坐标杭州」 |181cm 57kg | 爱好数学与信息技术 欢迎同好友好交流😀| 支持新自由主义🏳️‍⚧️  可适当键政（不是粉红喵～）这里可以通过Telegram联系本喵👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xingbiepingdeng",
+                "end": 23,
+                "expanded_url": "https://t.me/xingbiepingdeng",
+                "start": 0,
+                "url": "https://t.co/AEgmmmLnGi"
+              }
+            ]
+          }
+        },
+        "id": "1794306281572118528",
+        "location": "浙江 杭州",
+        "name": "毛豆酱🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053460035469258752/gGYtCmAh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 166,
+          "like_count": 133,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 83
+        },
+        "url": "https://t.co/AEgmmmLnGi",
+        "username": "520maodou",
+        "verified": false
+      }
+    ]
+  }
+}

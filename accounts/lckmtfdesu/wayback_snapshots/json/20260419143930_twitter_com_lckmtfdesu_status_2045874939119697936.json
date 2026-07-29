@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "conversation_id": "2045874939119697936",
+    "created_at": "2026-04-19T14:39:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T15:39:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045874939119697936"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiaomonuya/sta…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/xiaomonuya/status/2045857560641827212",
+          "start": 21,
+          "url": "https://t.co/47kaVupmYJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045874939119697936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045857560641827212",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不是鸡窝呀不要给我发你们的寄吧了。。！ https://t.co/47kaVupmYJ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2045874939119697936",
+        "created_at": "2026-04-19T14:39:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T15:39:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045874939119697936"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaomonuya/sta…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/xiaomonuya/status/2045857560641827212",
+              "start": 21,
+              "url": "https://t.co/47kaVupmYJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045874939119697936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045857560641827212",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不是鸡窝呀不要给我发你们的寄吧了。。！ https://t.co/47kaVupmYJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858393719080366080",
+        "conversation_id": "2045857560641827212",
+        "created_at": "2026-04-19T13:30:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T14:30:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045857560641827212"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Youoann/status…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/Youoann/status/2019741851742290402",
+              "start": 21,
+              "url": "https://t.co/aMKXwDN0PQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045857560641827212",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 128,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019741851742290402",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不是鸡窝呀不要给我发你们的寄吧了。。！ https://t.co/aMKXwDN0PQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "mtf/HRT2026.3.26/半家长党/出柜2026.4.14/双相II/重度焦虑强迫抑郁/精分/INFP-T/od割手友善/鉴证退避/福瑞控/社恐/同类回fo/可疑直接b",
+        "id": "1827958813603102720",
+        "location": "上海",
+        "name": "丛雨丛雨丛？🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032774748237869062/3VRs-T0m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 422,
+          "following_count": 844,
+          "like_count": 3426,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 940
+        },
+        "username": "lckmtfdesu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-18T06:16:13.000Z",
+        "description": "可愛的小貓一隻，出生20101130\n優點：会点魔术～～～比赛拿过两年亚军，魔术爱好者内中低水平（毕竟我还小）\n缺點：缺愛，沒安全感（以及你能想到的任何可能存在的缺點）\n某些男的想给我发性器照片的给我滚～～～！\n🚪52喵\n我是跨性別喵",
+        "id": "1858393719080366080",
+        "name": "Camellia",
+        "pinned_tweet_id": "2045865932678164868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045021122476036096/65d5RM3x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 701,
+          "following_count": 161,
+          "like_count": 2880,
+          "listed_count": 1,
+          "media_count": 112,
+          "tweet_count": 3792
+        },
+        "username": "xiaomonuya",
+        "verified": false
+      }
+    ]
+  }
+}

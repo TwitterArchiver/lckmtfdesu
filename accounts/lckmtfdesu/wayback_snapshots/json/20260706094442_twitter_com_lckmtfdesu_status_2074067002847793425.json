@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "conversation_id": "2074067002847793425",
+    "created_at": "2026-07-06T09:44:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T10:44:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074067002847793425"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1886849179244429312",
+          "start": 3,
+          "username": "Ireinaaaahahaha"
+        },
+        {
+          "end": 31,
+          "id": "1650490650855342081",
+          "start": 21,
+          "username": "X___Cheng"
+        },
+        {
+          "end": 40,
+          "id": "1433678976564662273",
+          "start": 32,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074067002847793425",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074033085725999599",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ireinaaaahahaha: @X___Cheng @hsn8086 娜娘养侬个钟戆卵出来啊蛮作孽的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2074067002847793425",
+        "created_at": "2026-07-06T09:44:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T10:44:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074067002847793425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1886849179244429312",
+              "start": 3,
+              "username": "Ireinaaaahahaha"
+            },
+            {
+              "end": 31,
+              "id": "1650490650855342081",
+              "start": 21,
+              "username": "X___Cheng"
+            },
+            {
+              "end": 40,
+              "id": "1433678976564662273",
+              "start": 32,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074067002847793425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074033085725999599",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ireinaaaahahaha: @X___Cheng @hsn8086 娜娘养侬个钟戆卵出来啊蛮作孽的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886849179244429312",
+        "conversation_id": "2073993624489263370",
+        "created_at": "2026-07-06T07:29:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T08:29:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074033085725999599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1650490650855342081",
+              "start": 0,
+              "username": "X___Cheng"
+            },
+            {
+              "end": 19,
+              "id": "1433678976564662273",
+              "start": 11,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074033085725999599",
+        "in_reply_to_user_id": "1650490650855342081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 180,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073994566420836403",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@X___Cheng @hsn8086 娜娘养侬个钟戆卵出来啊蛮作孽的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "mtf/transbian/hrt2026.3.26/半家长党/伪音学习中/居家修仙/地雷女/福瑞控/arc phi 冰与火 战雷/ 社恐/超级缺爱/查成分回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/profile.php?id…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/profile.php?id=61590025657067&mibextid=ZbWKwL",
+                "start": 0,
+                "url": "https://t.co/y1Iah85nsp"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "location": "上海",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2070114836760117561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056692984549433344/ErO8uC8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1293,
+          "following_count": 1387,
+          "like_count": 6700,
+          "listed_count": 3,
+          "media_count": 67,
+          "tweet_count": 2444
+        },
+        "url": "https://t.co/y1Iah85nsp",
+        "username": "lckmtfdesu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-04T18:48:04.000Z",
+        "description": "111河口猎人魔",
+        "id": "1886849179244429312",
+        "name": "Ireinaaaa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019833285439025152/ua0cVMAI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 41,
+          "like_count": 999,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 8
+        },
+        "url": "",
+        "username": "Ireinaaaahahaha",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-24T13:23:51.000Z",
+        "description": "",
+        "id": "1650490650855342081",
+        "location": "Gambia",
+        "name": "XC",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1650491163114192896/vYu40mOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 35,
+          "like_count": 50059,
+          "listed_count": 2,
+          "media_count": 9,
+          "tweet_count": 1207
+        },
+        "url": "",
+        "username": "X___Cheng",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐, 真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "2056395915003650409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039156167285538816/Ica6XIlY_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121333,
+          "following_count": 1115,
+          "like_count": 52090,
+          "listed_count": 296,
+          "media_count": 22704,
+          "tweet_count": 33200
+        },
+        "url": "",
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "conversation_id": "2062994905635701040",
+    "created_at": "2026-06-07T08:25:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T09:25:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063537881860444293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1425776555645497344",
+          "start": 0,
+          "username": "bbxrml"
+        },
+        {
+          "end": 20,
+          "id": "1840008766135103488",
+          "start": 8,
+          "username": "nande198900"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063537881860444293",
+    "in_reply_to_user_id": "1425776555645497344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063186426590867691",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bbxrml @nande198900 ？？？切割吧赶紧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2062994905635701040",
+        "created_at": "2026-06-07T08:25:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T09:25:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063537881860444293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1425776555645497344",
+              "start": 0,
+              "username": "bbxrml"
+            },
+            {
+              "end": 20,
+              "id": "1840008766135103488",
+              "start": 8,
+              "username": "nande198900"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063537881860444293",
+        "in_reply_to_user_id": "1425776555645497344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063186426590867691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bbxrml @nande198900 ？？？切割吧赶紧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1425776555645497344",
+        "conversation_id": "2062994905635701040",
+        "created_at": "2026-06-06T09:09:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T10:09:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063186426590867691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1840008766135103488",
+              "start": 0,
+              "username": "nande198900"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063186426590867691",
+        "in_reply_to_user_id": "1840008766135103488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 289,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063156666049208666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nande198900 家里收到催债电话，老登坦白借网贷打赏女主播，现在是65万了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "mtf/transbian/hrt2026.3.26/家长不管党/伪音学习中/居家修仙/地雷女/鉴证退避/福瑞控/arc phi 冰与火 战雷/ 社恐/超级缺爱/查成分回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/profile.php?id…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/profile.php?id=61590025657067&mibextid=ZbWKwL",
+                "start": 0,
+                "url": "https://t.co/y1Iah85nsp"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "location": "上海",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2062221948189577219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056692984549433344/ErO8uC8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 750,
+          "following_count": 1198,
+          "like_count": 5611,
+          "listed_count": 2,
+          "media_count": 51,
+          "tweet_count": 2108
+        },
+        "url": "https://t.co/y1Iah85nsp",
+        "username": "lckmtfdesu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-12T11:12:29.000Z",
+        "description": "立贴为证，晚上不刷牙戒酒一个礼拜。\n戒酒期间不刷一次戒冲三天",
+        "id": "1425776555645497344",
+        "location": "吊州",
+        "name": "萨卡班甲鱼（蛀牙版）",
+        "pinned_tweet_id": "1955874649239380164",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1719189803030413312/b7pKBnJD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1859,
+          "following_count": 419,
+          "like_count": 38682,
+          "listed_count": 6,
+          "media_count": 934,
+          "tweet_count": 17555
+        },
+        "username": "bbxrml",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-28T12:41:00.000Z",
+        "description": "🍊- 蓝v互关必回 - He/him Femboy/boy. 🤍RT 4 RT - 男娘捏- 🇨🇳🇨🇭",
+        "id": "1840008766135103488",
+        "name": "某人的第五个号",
+        "pinned_tweet_id": "2053170473484370330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022830944953212929/1PF9XsE2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25223,
+          "following_count": 3888,
+          "like_count": 9358,
+          "listed_count": 103,
+          "media_count": 1622,
+          "tweet_count": 21979
+        },
+        "username": "nande198900",
+        "verified": true
+      }
+    ]
+  }
+}

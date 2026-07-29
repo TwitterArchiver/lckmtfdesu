@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "conversation_id": "2056433992409448607",
+    "created_at": "2026-05-19T07:35:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T08:35:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056639782630121940"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2056639782630121940",
+    "in_reply_to_user_id": "1827958813603102720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056433992409448607",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这人会上推。。\n不知道这啥缺会不会好奇心重搜我推\n我墙内外不隔离的（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 860,
+        "media_key": "3_2056433989628616704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HInr0W_aYAA6_qf.jpg",
+        "width": 1639
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2056433992409448607",
+        "created_at": "2026-05-19T07:35:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T08:35:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056639782630121940"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056639782630121940",
+        "in_reply_to_user_id": "1827958813603102720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056433992409448607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这人会上推。。\n不知道这啥缺会不会好奇心重搜我推\n我墙内外不隔离的（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056433989628616704"
+          ]
+        },
+        "author_id": "1827958813603102720",
+        "conversation_id": "2056433992409448607",
+        "created_at": "2026-05-18T17:57:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T18:57:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056433992409448607"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PEs6kNXOiU",
+              "end": 51,
+              "expanded_url": "https://x.com/lckmtfdesu/status/2056433992409448607/photo/1",
+              "media_key": "3_2056433989628616704",
+              "start": 28,
+              "url": "https://t.co/PEs6kNXOiU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056433992409448607",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1011,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "成分被班里人发现了喵。。\n只能希望它晚点说出去了。。。 https://t.co/PEs6kNXOiU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Oberwart, Burgenland, Austria",
+              "geo": {
+                "coordinates": [
+                  16.20595,
+                  47.28971
+                ],
+                "type": "Point"
+              },
+              "locality": "Oberwart",
+              "region": "Burgenland",
+              "sub_region": "Politischer Bezirk Oberwart"
+            }
+          ]
+        },
+        "description": "transbian/hrt2026.3.26/家长不管党/出柜2026.4.14/INFP-T/sub/水仙/od割手友善/鉴证退避/福瑞控/arc phi 冰与火 战雷/ 社恐/超级缺爱/同类回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lckmtfdesu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lckmtfdesu",
+                "start": 0,
+                "url": "https://t.co/qZnowotyMH"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "location": "上海",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2046637992346013995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056639458838245377/KH1IK8RU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 569,
+          "following_count": 1032,
+          "like_count": 4541,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 1434
+        },
+        "url": "https://t.co/qZnowotyMH",
+        "username": "lckmtfdesu",
+        "verified": false
+      }
+    ]
+  }
+}

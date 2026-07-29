@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "conversation_id": "2057336697508286781",
+    "created_at": "2026-05-21T06:47:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T07:47:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057352494565765459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1859058867352858625",
+          "start": 0,
+          "username": "lgdlaika"
+        },
+        {
+          "end": 22,
+          "id": "1548480419217018880",
+          "start": 10,
+          "username": "RiceLittle2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057352494565765459",
+    "in_reply_to_user_id": "1859058867352858625",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057352410268569762",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lgdlaika @RiceLittle2 666还真是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2057336697508286781",
+        "created_at": "2026-05-21T06:47:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T07:47:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057352494565765459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1859058867352858625",
+              "start": 0,
+              "username": "lgdlaika"
+            },
+            {
+              "end": 22,
+              "id": "1548480419217018880",
+              "start": 10,
+              "username": "RiceLittle2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057352494565765459",
+        "in_reply_to_user_id": "1859058867352858625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057352410268569762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lgdlaika @RiceLittle2 666还真是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1859058867352858625",
+        "conversation_id": "2057336697508286781",
+        "created_at": "2026-05-21T06:46:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T07:46:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057352410268569762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1548480419217018880",
+              "start": 0,
+              "username": "RiceLittle2"
+            },
+            {
+              "end": 24,
+              "id": "1827958813603102720",
+              "start": 13,
+              "username": "lckmtfdesu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057352410268569762",
+        "in_reply_to_user_id": "1548480419217018880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057348984939872256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RiceLittle2 @lckmtfdesu 还真是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "transbian/hrt2026.3.26/家长不管党/出柜2026.4.14/伪音学习中/居家修仙/高二/地雷女/INFP-T/sub/水仙/od割手友善/鉴证退避/福瑞控/arc phi 冰与火 战雷/ 社恐/超级缺爱/同类回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/profile.php?id…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/profile.php?id=61590025657067&mibextid=ZbWKwL",
+                "start": 0,
+                "url": "https://t.co/y1Iah85nsp"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "location": "上海",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2057351801759043673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056692984549433344/ErO8uC8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 616,
+          "following_count": 1078,
+          "like_count": 4942,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 1649
+        },
+        "url": "https://t.co/y1Iah85nsp",
+        "username": "lckmtfdesu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-20T02:19:44.000Z",
+        "description": "10年的一个普通南孩纸 (認知是非二元喵\n会画画但很烂\n想是成爲一名游戲程序員？\n不长玩游戏打游戏很菜的歇（喜歡mc\n用网抑郁音乐，同时也是术批（最喜欢张丽丽小入机啦！！\n在线时间：早八到晚6随机上线\n请理性玩梗！！！！",
+        "id": "1859058867352858625",
+        "name": "諾亞_lgdlaika🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861668764552699904/g730-THY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 75,
+          "like_count": 8335,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 228
+        },
+        "username": "lgdlaika",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-17T01:31:30.000Z",
+        "description": "@585_nomi 的小号，如果您看见我在用这个号活动，那就是我大号被封控了。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "585_nomi"
+              }
+            ]
+          }
+        },
+        "id": "1548480419217018880",
+        "name": "Nomination",
+        "pinned_tweet_id": "2057102492547400128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057291858817241088/lj7ApUrl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 4,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 9
+        },
+        "username": "RiceLittle2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "conversation_id": "2065427499530760674",
+    "created_at": "2026-06-12T23:07:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T00:07:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065571713979756709"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1468883359090630657",
+          "start": 0,
+          "username": "ansiyao520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065571713979756709",
+    "in_reply_to_user_id": "1468883359090630657",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065456797213991311",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ansiyao520 知道喵……\n不过我老师在护着我所以才闹大找我同学的（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2065427499530760674",
+        "created_at": "2026-06-12T23:07:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T00:07:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065571713979756709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1468883359090630657",
+              "start": 0,
+              "username": "ansiyao520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065571713979756709",
+        "in_reply_to_user_id": "1468883359090630657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065456797213991311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ansiyao520 知道喵……\n不过我老师在护着我所以才闹大找我同学的（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2065427499530760674",
+        "created_at": "2026-06-12T15:30:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T16:30:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065456797213991311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1827958813603102720",
+              "start": 0,
+              "username": "lckmtfdesu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065456797213991311",
+        "in_reply_to_user_id": "1827958813603102720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 147,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065427499530760674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lckmtfdesu 同学来问你说咱们以学习为主，不要聊这些。\n老师来找你说这是你的个人兴趣，不会影响学习，也不会说这些去影响其他同学，都是同学们乱传的。\n这件事可大可小，完全看你的社交智慧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "mtf/transbian/hrt2026.3.26/家长不管党/伪音学习中/居家修仙/地雷女/鉴证退避/福瑞控/arc phi 冰与火 战雷/ 社恐/超级缺爱/查成分回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/profile.php?id…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/profile.php?id=61590025657067&mibextid=ZbWKwL",
+                "start": 0,
+                "url": "https://t.co/y1Iah85nsp"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "location": "上海",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2063939048675451353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056692984549433344/ErO8uC8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 907,
+          "following_count": 1265,
+          "like_count": 5956,
+          "listed_count": 2,
+          "media_count": 53,
+          "tweet_count": 2205
+        },
+        "url": "https://t.co/y1Iah85nsp",
+        "username": "lckmtfdesu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️",
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安思瑶🍥",
+        "pinned_tweet_id": "2064889247082201322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049164511341690883/z2ZBtCwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 1561,
+          "like_count": 22838,
+          "listed_count": 1,
+          "media_count": 267,
+          "tweet_count": 1340
+        },
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

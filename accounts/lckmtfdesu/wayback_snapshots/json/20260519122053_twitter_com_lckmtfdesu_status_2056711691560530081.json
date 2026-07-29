@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "conversation_id": "2056397297978908859",
+    "created_at": "2026-05-19T12:20:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T13:20:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056711691560530081"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2032682705486491654",
+          "start": 0,
+          "username": "qwertasdff1xz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056711691560530081",
+    "in_reply_to_user_id": "2032682705486491654",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056710855354683434",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qwertasdff1xz 我喜欢6.7，顶级房根本没平衡性可言，elb平推，北约方有两三个能正经打的就够好了，会打便民平台的更是濒危动物\n启动cas更是天方夜谭，履带铠甲分分钟把你和你的破炸弹肘下来，smsv里面s和v是说自己的m是说对面的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2056397297978908859",
+        "created_at": "2026-05-19T12:20:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T13:20:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056711691560530081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2032682705486491654",
+              "start": 0,
+              "username": "qwertasdff1xz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056711691560530081",
+        "in_reply_to_user_id": "2032682705486491654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056710855354683434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qwertasdff1xz 我喜欢6.7，顶级房根本没平衡性可言，elb平推，北约方有两三个能正经打的就够好了，会打便民平台的更是濒危动物\n启动cas更是天方夜谭，履带铠甲分分钟把你和你的破炸弹肘下来，smsv里面s和v是说自己的m是说对面的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032682705486491654",
+        "conversation_id": "2056397297978908859",
+        "created_at": "2026-05-19T12:17:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T13:17:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056710855354683434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1827958813603102720",
+              "start": 0,
+              "username": "lckmtfdesu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056710855354683434",
+        "in_reply_to_user_id": "1827958813603102720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056710359181107364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lckmtfdesu 顶级房是这样的，不如9.3、4.0、6.7等队列"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Oberwart, Burgenland, Austria",
+              "geo": {
+                "coordinates": [
+                  16.20595,
+                  47.28971
+                ],
+                "type": "Point"
+              },
+              "locality": "Oberwart",
+              "region": "Burgenland",
+              "sub_region": "Politischer Bezirk Oberwart"
+            }
+          ]
+        },
+        "description": "transbian/hrt2026.3.26/家长不管党/出柜2026.4.14/伪音学习中/居家修仙/高二/地雷女/INFP-T/sub/水仙/od割手友善/鉴证退避/福瑞控/arc phi 冰与火 战雷/ 社恐/超级缺爱/同类回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lckmtfdesu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lckmtfdesu",
+                "start": 0,
+                "url": "https://t.co/qZnowotyMH"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "location": "上海",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2056433412886700324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056692984549433344/ErO8uC8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 583,
+          "following_count": 1052,
+          "like_count": 4721,
+          "listed_count": 2,
+          "media_count": 36,
+          "tweet_count": 1511
+        },
+        "url": "https://t.co/qZnowotyMH",
+        "username": "lckmtfdesu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-14T05:06:30.000Z",
+        "description": "",
+        "id": "2032682705486491654",
+        "name": "冉星",
+        "pinned_tweet_id": "2045576967001678035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032686418020151296/KYhyiKXN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 56,
+          "like_count": 135,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 56
+        },
+        "username": "qwertasdff1xz",
+        "verified": false
+      }
+    ]
+  }
+}

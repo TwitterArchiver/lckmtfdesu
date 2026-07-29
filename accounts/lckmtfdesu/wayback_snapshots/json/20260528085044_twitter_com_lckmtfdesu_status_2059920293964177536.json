@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "conversation_id": "2059920293964177536",
+    "created_at": "2026-05-28T08:50:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T09:50:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059920293964177536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "193648759",
+          "start": 3,
+          "username": "ripo0079"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059920293964177536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 83
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059676115627909345",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ripo0079: 今天，日本决定设立“国家情報局”\n\n我不高兴这个机构在现在的日本社会……\n\n我是一个跨性别者、我有社会主义倾向的思想、我喜欢中国文化、我喜欢东方阵营国家的文化、我希望日中友好\n所以，在现在的日本政府和日本社会，我不会是受欢迎的人\n\n所以我感到害怕…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2059920293964177536",
+        "created_at": "2026-05-28T08:50:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T09:50:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059920293964177536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "193648759",
+              "start": 3,
+              "username": "ripo0079"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059920293964177536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 83
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059676115627909345",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ripo0079: 今天，日本决定设立“国家情報局”\n\n我不高兴这个机构在现在的日本社会……\n\n我是一个跨性别者、我有社会主义倾向的思想、我喜欢中国文化、我喜欢东方阵营国家的文化、我希望日中友好\n所以，在现在的日本政府和日本社会，我不会是受欢迎的人\n\n所以我感到害怕…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "193648759",
+        "conversation_id": "2059676115627909345",
+        "created_at": "2026-05-27T16:40:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T17:40:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059676115627909345"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059676115627909345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 74,
+          "impression_count": 57848,
+          "like_count": 1133,
+          "quote_count": 20,
+          "reply_count": 180,
+          "retweet_count": 83
+        },
+        "reply_settings": "everyone",
+        "text": "今天，日本决定设立“国家情報局”\n\n我不高兴这个机构在现在的日本社会……\n\n我是一个跨性别者、我有社会主义倾向的思想、我喜欢中国文化、我喜欢东方阵营国家的文化、我希望日中友好\n所以，在现在的日本政府和日本社会，我不会是受欢迎的人\n\n所以我感到害怕\n\n因为我不知道，什么时候会轮到我……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "transbian/hrt2026.3.26/家长不管党/伪音学习中/居家修仙/地雷女/鉴证退避/福瑞控/arc phi 冰与火 战雷/ 社恐/超级缺爱/查成分回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/profile.php?id…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/profile.php?id=61590025657067&mibextid=ZbWKwL",
+                "start": 0,
+                "url": "https://t.co/y1Iah85nsp"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "location": "上海",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2058921968867664264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056692984549433344/ErO8uC8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 642,
+          "following_count": 1106,
+          "like_count": 5160,
+          "listed_count": 2,
+          "media_count": 46,
+          "tweet_count": 1784
+        },
+        "url": "https://t.co/y1Iah85nsp",
+        "username": "lckmtfdesu",
+        "verified": false
+      },
+      {
+        "created_at": "2010-09-22T10:51:40.000Z",
+        "description": "🏳️‍⚧️Ripo(中文:莉珀)🏳️‍⚧️ Jpn/Eng/在学中文 インターネット🏳️‍⚧️界隈 国際ニートなご令嬢。青組。🍥跨性别。人間はやっていく生き物です。ソ連、オタク、歴史、旅行、ジェンダーを雑多にやっていくアカウントです。オタクをきちんとやっていきます。🏳️‍⚧️pride.",
+        "id": "193648759",
+        "location": "東側",
+        "name": "りぽたん",
+        "pinned_tweet_id": "2035310430252581331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1489537206905872384/Wlz54C4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11603,
+          "following_count": 1411,
+          "like_count": 73389,
+          "listed_count": 131,
+          "media_count": 4360,
+          "tweet_count": 54539
+        },
+        "username": "ripo0079",
+        "verified": true
+      }
+    ]
+  }
+}

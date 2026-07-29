@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "conversation_id": "2070410116101447812",
+    "created_at": "2026-06-26T07:33:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T08:33:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070410116101447812"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kxk1388574/sta…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/kxk1388574/status/2069802407987650904",
+          "start": 16,
+          "url": "https://t.co/gux2K3c9ZE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070410116101447812",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069802407987650904",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我一个星期就能配100个男娘。 https://t.co/gux2K3c9ZE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2070410116101447812",
+        "created_at": "2026-06-26T07:33:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T08:33:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070410116101447812"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kxk1388574/sta…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/kxk1388574/status/2069802407987650904",
+              "start": 16,
+              "url": "https://t.co/gux2K3c9ZE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070410116101447812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069802407987650904",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我一个星期就能配100个男娘。 https://t.co/gux2K3c9ZE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1673364955171782657",
+        "conversation_id": "2069802407987650904",
+        "created_at": "2026-06-24T15:18:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T16:18:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069802407987650904"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/K1ta_Ikuyo/sta…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/K1ta_Ikuyo/status/2069767742522319349",
+              "start": 16,
+              "url": "https://t.co/3UgEeV0jp4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069802407987650904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 16180,
+          "like_count": 130,
+          "quote_count": 9,
+          "reply_count": 62,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069767742522319349",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我一个星期就能配100个男娘。 https://t.co/3UgEeV0jp4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Oberwart, Burgenland, Austria",
+              "geo": {
+                "coordinates": [
+                  16.20595,
+                  47.28971
+                ],
+                "type": "Point"
+              },
+              "locality": "Oberwart",
+              "region": "Burgenland",
+              "sub_region": "Politischer Bezirk Oberwart"
+            }
+          ]
+        },
+        "description": "mtf/transbian/hrt2026.3.26/家长不管党/伪音学习中/居家修仙/地雷女/福瑞控/arc phi 冰与火 战雷/ 社恐/超级缺爱/查成分回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/profile.php?id…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/profile.php?id=61590025657067&mibextid=ZbWKwL",
+                "start": 0,
+                "url": "https://t.co/y1Iah85nsp"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "location": "上海",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2070114836760117561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056692984549433344/ErO8uC8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 931,
+          "following_count": 1285,
+          "like_count": 6160,
+          "listed_count": 3,
+          "media_count": 59,
+          "tweet_count": 2268
+        },
+        "url": "https://t.co/y1Iah85nsp",
+        "username": "lckmtfdesu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-26T16:18:03.000Z",
+        "description": "*是一只路过的🍋～\n*想聊天欢迎随时聊就好，说错话也没关系的\n*妹@lumuyuanMadoka2\n*最好的大哥哥@liychn30019070",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "lumuyuanMadoka2"
+              },
+              {
+                "end": 72,
+                "start": 57,
+                "username": "liychn30019070"
+              }
+            ]
+          }
+        },
+        "id": "1673364955171782657",
+        "location": "柠檬树上",
+        "name": "kxk🍋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785720438095745026/UTk37fi9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9941,
+          "following_count": 5866,
+          "like_count": 53648,
+          "listed_count": 15,
+          "media_count": 1001,
+          "tweet_count": 7839
+        },
+        "url": "",
+        "username": "kxk1388574",
+        "verified": true
+      }
+    ]
+  }
+}

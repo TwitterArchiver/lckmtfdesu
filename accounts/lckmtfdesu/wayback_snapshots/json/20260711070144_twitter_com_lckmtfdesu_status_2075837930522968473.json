@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596740190208",
+          "name": "CPG"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596144599042",
+          "name": "Snacks - CPG"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Pocky (ポッキー)",
+          "id": "1121845553527017472",
+          "name": "Pocky (ポッキー)"
+        }
+      }
+    ],
+    "conversation_id": "2075837930522968473",
+    "created_at": "2026-07-11T07:01:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T08:01:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075837930522968473"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1964335711521558531",
+          "start": 3,
+          "username": "bbkk23333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075837930522968473",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075622404815282509",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bbkk23333: 可以喜欢我吗？可以爱我吗？可以毫无理由的亲近吗？可以在冬季里给一个抱抱吗？可以把冰凉的手放进你的口袋里取暖吗？可以逛街时十指相扣吗？可以咬断你的pocky吗？可以尝一口你的奶茶吗？可以吻掉你的口红吗？可以给你系围巾吗？可以在睡前说晚安吗？可以在早晨…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596144599042",
+              "name": "Snacks - CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Pocky (ポッキー)",
+              "id": "1121845553527017472",
+              "name": "Pocky (ポッキー)"
+            }
+          }
+        ],
+        "conversation_id": "2075837930522968473",
+        "created_at": "2026-07-11T07:01:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T08:01:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075837930522968473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1964335711521558531",
+              "start": 3,
+              "username": "bbkk23333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075837930522968473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075622404815282509",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bbkk23333: 可以喜欢我吗？可以爱我吗？可以毫无理由的亲近吗？可以在冬季里给一个抱抱吗？可以把冰凉的手放进你的口袋里取暖吗？可以逛街时十指相扣吗？可以咬断你的pocky吗？可以尝一口你的奶茶吗？可以吻掉你的口红吗？可以给你系围巾吗？可以在睡前说晚安吗？可以在早晨…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964335711521558531",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596144599042",
+              "name": "Snacks - CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Pocky (ポッキー)",
+              "id": "1121845553527017472",
+              "name": "Pocky (ポッキー)"
+            }
+          }
+        ],
+        "conversation_id": "2075622404815282509",
+        "created_at": "2026-07-10T16:45:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T17:45:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075622404815282509"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075622404815282509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "可以喜欢我吗？可以爱我吗？可以毫无理由的亲近吗？可以在冬季里给一个抱抱吗？可以把冰凉的手放进你的口袋里取暖吗？可以逛街时十指相扣吗？可以咬断你的pocky吗？可以尝一口你的奶茶吗？可以吻掉你的口红吗？可以给你系围巾吗？可以在睡前说晚安吗？可以在早晨有起床吻吗？可以去公司门口接你下班吗？可以和你共用一床被窝吗？可以把密码改成你的生日吗？可以一起去旅游吗？可以共养一只猫吗？可以在朋友圈晒你吗？可以在情人节给你送花吗？可以在条件反射时第一个喊我的名字吗？可以用你的照片当屏保吗？可以成为你拒绝暧昧的理由吗？可以对你恃宠而撒娇吗？可以和我一直这样谈恋爱吗？可以看看腿吗？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2284,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "可以喜欢我吗？可以爱我吗？可以毫无理由的亲近吗？可以在冬季里给一个抱抱吗？可以把冰凉的手放进你的口袋里取暖吗？可以逛街时十指相扣吗？可以咬断你的pocky吗？可以尝一口你的奶茶吗？可以吻掉你的口红吗？可以给你系围巾吗？可以在睡前说晚安吗？可以在早晨有起床吻吗？可以去公司门口接你下班吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "mtf/transbian/hrt2026.3.26/半家长党/伪音学习中/居家修仙/地雷女/福瑞控/arc phi 冰与火 战雷/ 社恐/超级缺爱/查成分回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/profile.php?id…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/profile.php?id=61590025657067&mibextid=ZbWKwL",
+                "start": 0,
+                "url": "https://t.co/y1Iah85nsp"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "location": "上海",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2070114836760117561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056692984549433344/ErO8uC8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1336,
+          "following_count": 1398,
+          "like_count": 6893,
+          "listed_count": 3,
+          "media_count": 75,
+          "tweet_count": 2523
+        },
+        "url": "https://t.co/y1Iah85nsp",
+        "username": "lckmtfdesu",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-06T14:32:23.000Z",
+        "description": "我喜欢你喵🏳️‍⚧️\n网络小宠物喵，假期24小吋低强度刷推\n≽^ ⦁ ⩊ ⦁ ^≼",
+        "id": "1964335711521558531",
+        "location": "垃圾桶旁边的纸箱",
+        "name": "沐雨喵~",
+        "pinned_tweet_id": "2069381811596386570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065840419745972224/rCDljDbS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 950,
+          "following_count": 416,
+          "like_count": 3870,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 1872
+        },
+        "url": "",
+        "username": "bbkk23333",
+        "verified": true
+      }
+    ]
+  }
+}

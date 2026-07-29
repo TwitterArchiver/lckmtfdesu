@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "conversation_id": "2045878862136181076",
+    "created_at": "2026-04-20T10:23:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T11:23:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046172970759131344"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1877473083063201792",
+          "start": 0,
+          "username": "dorothy1614926"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046172970759131344",
+    "in_reply_to_user_id": "1877473083063201792",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045878862136181076",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dorothy1614926 （摸頭）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1390,
+        "media_key": "3_2045877633637085184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGRq3kba8AAVsX3.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1349,
+        "media_key": "3_2045877633628712960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGRq3kZbMAAykc-.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1417,
+        "media_key": "3_2045877633603530752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGRq3kTa8AAzj9u.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2045878862136181076",
+        "created_at": "2026-04-20T10:23:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T11:23:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046172970759131344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1877473083063201792",
+              "start": 0,
+              "username": "dorothy1614926"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046172970759131344",
+        "in_reply_to_user_id": "1877473083063201792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045878862136181076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dorothy1614926 （摸頭）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045877633637085184",
+            "3_2045877633628712960",
+            "3_2045877633603530752"
+          ]
+        },
+        "author_id": "1877473083063201792",
+        "conversation_id": "2045878862136181076",
+        "created_at": "2026-04-19T14:55:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T15:55:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045878862136181076"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cA3LcgOtl5",
+              "end": 162,
+              "expanded_url": "https://x.com/dorothy1614926/status/2045878862136181076/photo/1",
+              "media_key": "3_2045877633637085184",
+              "start": 139,
+              "url": "https://t.co/cA3LcgOtl5"
+            },
+            {
+              "display_url": "pic.x.com/cA3LcgOtl5",
+              "end": 162,
+              "expanded_url": "https://x.com/dorothy1614926/status/2045878862136181076/photo/1",
+              "media_key": "3_2045877633628712960",
+              "start": 139,
+              "url": "https://t.co/cA3LcgOtl5"
+            },
+            {
+              "display_url": "pic.x.com/cA3LcgOtl5",
+              "end": 162,
+              "expanded_url": "https://x.com/dorothy1614926/status/2045878862136181076/photo/1",
+              "media_key": "3_2045877633603530752",
+              "start": 139,
+              "url": "https://t.co/cA3LcgOtl5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045878862136181076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 179,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1.可能确实是这样的吧喵...只不过应该是椛椛自己的语言风格啦，不用紧张的哦～椛椛会对每个人都很温柔的喵～天天开心哦～♡\n\n2宝宝可以w，椛椛愿意和做你最好的朋友哦～♡贴贴喵～\n\n3.并不是哦...椛椛也有很多很多缺点呢...不过椛椛一定会改掉缺点的喵～大家都可以来监督哦～♡ https://t.co/cA3LcgOtl5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "mtf/GAHT2026.3.26/半家长党/出柜2026.4.14/双相II/重度焦虑强迫抑郁/精分/INFP-T/od割手友善/鉴证退避/福瑞控/社恐/同类回fo/可疑直接b",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aurelia16775",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aurelia16775",
+                "start": 0,
+                "url": "https://t.co/D5Dh6Ua5zJ"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "location": "上海",
+        "name": "丛雨丛雨丛？🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032774748237869062/3VRs-T0m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 878,
+          "like_count": 3552,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 999
+        },
+        "url": "https://t.co/D5Dh6Ua5zJ",
+        "username": "lckmtfdesu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-09T21:50:55.000Z",
+        "description": "🌸可愛のこいし、閉じた恋の瞳、ただ無邪気な小天使の文椛ちゃんなのににゃ～🌸｜东方众｜磕觉恋｜精神状态良好，超温柔～｜无证含🍥｜互fo｜如果有不开心的事都可以找椛椛聊天噢～｜最最最最可爱的妹妹&恋人❤️@maxC47884317783｜世另我？@wenhuamengyue",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 100,
+                "username": "maxC47884317783"
+              },
+              {
+                "end": 135,
+                "start": 121,
+                "username": "wenhuamengyue"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dorothy16149261",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dorothy16149261",
+                "start": 0,
+                "url": "https://t.co/apd2CBfCuO"
+              }
+            ]
+          }
+        },
+        "id": "1877473083063201792",
+        "location": "看看你身后喵",
+        "name": "文椛🌸 恋🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029794137164369924/mmgEnuwY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 484,
+          "like_count": 5358,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1271
+        },
+        "url": "https://t.co/apd2CBfCuO",
+        "username": "dorothy1614926",
+        "verified": false
+      }
+    ]
+  }
+}

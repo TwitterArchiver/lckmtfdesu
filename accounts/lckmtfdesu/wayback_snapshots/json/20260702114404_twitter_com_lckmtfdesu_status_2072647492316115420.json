@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "conversation_id": "2072600407944368189",
+    "created_at": "2026-07-02T11:44:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T12:44:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072647492316115420"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1627685052556656640",
+          "start": 0,
+          "username": "raith_1102miao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072647492316115420",
+    "in_reply_to_user_id": "1627685052556656640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072621690316861833",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@raith_1102miao ww\n弹药殉爆确实挺热的）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2072600407944368189",
+        "created_at": "2026-07-02T11:44:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T12:44:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072647492316115420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1627685052556656640",
+              "start": 0,
+              "username": "raith_1102miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072647492316115420",
+        "in_reply_to_user_id": "1627685052556656640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072621690316861833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@raith_1102miao ww\n弹药殉爆确实挺热的）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1627685052556656640",
+        "conversation_id": "2072600407944368189",
+        "created_at": "2026-07-02T10:01:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T11:01:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072621690316861833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1827958813603102720",
+              "start": 0,
+              "username": "lckmtfdesu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072621690316861833",
+        "in_reply_to_user_id": "1827958813603102720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072600407944368189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lckmtfdesu 那很“热”情了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "mtf/transbian/hrt2026.3.26/半家长党/伪音学习中/居家修仙/地雷女/福瑞控/arc phi 冰与火 战雷/ 社恐/超级缺爱/查成分回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/profile.php?id…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/profile.php?id=61590025657067&mibextid=ZbWKwL",
+                "start": 0,
+                "url": "https://t.co/y1Iah85nsp"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "location": "上海",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2070114836760117561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056692984549433344/ErO8uC8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 994,
+          "following_count": 1347,
+          "like_count": 6537,
+          "listed_count": 3,
+          "media_count": 62,
+          "tweet_count": 2374
+        },
+        "url": "https://t.co/y1Iah85nsp",
+        "username": "lckmtfdesu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-20T15:02:43.000Z",
+        "description": "越是不被理解 越是要呐喊\n嗯，泥豪？｜She/They｜INTP/INFP｜EN/CN👌｜ap在读｜沒事养养OC｜谁来教教我弹贝斯",
+        "id": "1627685052556656640",
+        "name": "瑞絲の擬象(*≧ω≦)",
+        "pinned_tweet_id": "2072126134754607148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980120864256311296/SC533NJ1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 577,
+          "like_count": 14570,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 555
+        },
+        "url": "",
+        "username": "raith_1102miao",
+        "verified": false
+      }
+    ]
+  }
+}

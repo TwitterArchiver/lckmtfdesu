@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "conversation_id": "2071566405410128290",
+    "created_at": "2026-06-29T16:53:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T17:53:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071638077572075769"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2038192732028469248",
+          "start": 0,
+          "username": "Akiraoo_xyn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071638077572075769",
+    "in_reply_to_user_id": "2038192732028469248",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071566405410128290",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akiraoo_xyn 恭喜喵！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 910,
+        "media_key": "3_2071566307955544064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL-ulNpbkAAQyF-.jpg",
+        "width": 597
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2071566405410128290",
+        "created_at": "2026-06-29T16:53:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T17:53:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071638077572075769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2038192732028469248",
+              "start": 0,
+              "username": "Akiraoo_xyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071638077572075769",
+        "in_reply_to_user_id": "2038192732028469248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071566405410128290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akiraoo_xyn 恭喜喵！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071566307955544064"
+          ]
+        },
+        "author_id": "2038192732028469248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2071566405410128290",
+        "created_at": "2026-06-29T12:08:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T13:08:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071566405410128290"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BP6r3Y66AE",
+              "end": 35,
+              "expanded_url": "https://x.com/Akiraoo_xyn/status/2071566405410128290/photo/1",
+              "media_key": "3_2071566307955544064",
+              "start": 12,
+              "url": "https://t.co/BP6r3Y66AE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071566405410128290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 284,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "200fo！！做个纪念 https://t.co/BP6r3Y66AE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "mtf/transbian/hrt2026.3.26/半家长党/伪音学习中/居家修仙/地雷女/福瑞控/arc phi 冰与火 战雷/ 社恐/超级缺爱/查成分回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/profile.php?id…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/profile.php?id=61590025657067&mibextid=ZbWKwL",
+                "start": 0,
+                "url": "https://t.co/y1Iah85nsp"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "location": "上海",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2070114836760117561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056692984549433344/ErO8uC8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 941,
+          "following_count": 1296,
+          "like_count": 6278,
+          "listed_count": 3,
+          "media_count": 59,
+          "tweet_count": 2296
+        },
+        "url": "https://t.co/y1Iah85nsp",
+        "username": "lckmtfdesu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-29T09:54:16.000Z",
+        "description": "MtX | 15y🇹🇼 | 无证🍥💊2026.05.09 | 隐瞒+年龄党 | 生产日期 2011.06.27 | 社恐 | 小透明一个 | 不擅长安慰别人 | 有点笨 | 不自残 | 不od |\n小号 @Akiraoo_qwq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 102,
+                "username": "Akiraoo_qwq"
+              }
+            ]
+          }
+        },
+        "id": "2038192732028469248",
+        "name": "小旭Akira🍥",
+        "pinned_tweet_id": "2061053759518896159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059334581053190144/JfonPPrN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 150,
+          "like_count": 968,
+          "listed_count": 2,
+          "media_count": 21,
+          "tweet_count": 183
+        },
+        "url": "",
+        "username": "Akiraoo_xyn",
+        "verified": false
+      }
+    ]
+  }
+}

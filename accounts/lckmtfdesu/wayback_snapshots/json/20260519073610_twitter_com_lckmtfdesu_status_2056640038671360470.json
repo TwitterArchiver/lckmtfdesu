@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "conversation_id": "2056433992409448607",
+    "created_at": "2026-05-19T07:36:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T08:36:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056640038671360470"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2055214408784125953",
+          "start": 0,
+          "username": "FIGHTMERZY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056640038671360470",
+    "in_reply_to_user_id": "2055214408784125953",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056606635578261706",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FIGHTMERZY hh我也快了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2056433992409448607",
+        "created_at": "2026-05-19T07:36:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T08:36:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056640038671360470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2055214408784125953",
+              "start": 0,
+              "username": "FIGHTMERZY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056640038671360470",
+        "in_reply_to_user_id": "2055214408784125953",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056606635578261706",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FIGHTMERZY hh我也快了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055214408784125953",
+        "conversation_id": "2056433992409448607",
+        "created_at": "2026-05-19T05:23:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T06:23:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056606635578261706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1827958813603102720",
+              "start": 0,
+              "username": "lckmtfdesu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056606635578261706",
+        "in_reply_to_user_id": "1827958813603102720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056433992409448607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lckmtfdesu 我全班同学的知道哈哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Oberwart, Burgenland, Austria",
+              "geo": {
+                "coordinates": [
+                  16.20595,
+                  47.28971
+                ],
+                "type": "Point"
+              },
+              "locality": "Oberwart",
+              "region": "Burgenland",
+              "sub_region": "Politischer Bezirk Oberwart"
+            }
+          ]
+        },
+        "description": "transbian/hrt2026.3.26/家长不管党/出柜2026.4.14/INFP-T/sub/水仙/od割手友善/鉴证退避/福瑞控/arc phi 冰与火 战雷/ 社恐/超级缺爱/同类回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lckmtfdesu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lckmtfdesu",
+                "start": 0,
+                "url": "https://t.co/qZnowotyMH"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "location": "上海",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2046637992346013995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056639458838245377/KH1IK8RU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 569,
+          "following_count": 1032,
+          "like_count": 4543,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 1436
+        },
+        "url": "https://t.co/qZnowotyMH",
+        "username": "lckmtfdesu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-15T09:11:39.000Z",
+        "description": "👋你好呀我是OME",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ome.917826.xyz",
+                "end": 23,
+                "expanded_url": "http://ome.917826.xyz",
+                "start": 0,
+                "url": "https://t.co/HWBdWVKUXh"
+              }
+            ]
+          }
+        },
+        "id": "2055214408784125953",
+        "location": "地球",
+        "name": "OME",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056606263761682432/APcRuccr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 6
+        },
+        "url": "https://t.co/HWBdWVKUXh",
+        "username": "FIGHTMERZY",
+        "verified": false
+      }
+    ]
+  }
+}

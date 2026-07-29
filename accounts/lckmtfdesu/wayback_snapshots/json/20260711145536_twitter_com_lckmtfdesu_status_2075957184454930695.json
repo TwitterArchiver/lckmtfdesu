@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "conversation_id": "2075891781586301206",
+    "created_at": "2026-07-11T14:55:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T15:55:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075957184454930695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1468883359090630657",
+          "start": 0,
+          "username": "ansiyao520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075957184454930695",
+    "in_reply_to_user_id": "1468883359090630657",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075904812844220681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ansiyao520 现实是\n他们早就接受了\n我只是最后踹一脚罢了（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2075891781586301206",
+        "created_at": "2026-07-11T14:55:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T15:55:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075957184454930695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1468883359090630657",
+              "start": 0,
+              "username": "ansiyao520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075957184454930695",
+        "in_reply_to_user_id": "1468883359090630657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075904812844220681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ansiyao520 现实是\n他们早就接受了\n我只是最后踹一脚罢了（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468883359090630657",
+        "conversation_id": "2075891781586301206",
+        "created_at": "2026-07-11T11:27:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T12:27:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075904812844220681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1827958813603102720",
+              "start": 0,
+              "username": "lckmtfdesu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075904812844220681",
+        "in_reply_to_user_id": "1827958813603102720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我觉得与其说是让他放弃幻想。到最后一定是你放弃了幻想。首先你的沟通方式就不利于阅读，大片大片地复制ai的话给父母，不太成熟，有点撕破脸皮的味道。可是孩子和父母撕破脸皮斗，自己也没有经济独立权。怎么可能有优势呢。到最后无非还是仰仗父母的宽容程度。倘若父母一心一意要倒逼，那孩子不服气肯定就横死明志了。那就会发生让人惋惜的事。\n然而，年少意气，我又能说什么呢。我小时候又何尝不是如此热烈地闹了一场然后侥幸活了下来了呢。哎。真是无可奈何生命运，少年意气总受伤，惋君玉碎望苟活，又愧当年热血沸，我感觉自己现在真是矫揉造作、让人想吐，又感到前路茫茫、谁与我伴之意。我已经老了……\n我深刻地明白结构性问题只能由一个强而有力的集体去推动解决的道理。但正因为如此，十分感到自己的孤独又幸福又痛苦呀。\n说回你的问题。这种情况。一定是只能在有限的空间里，为自己保留一块精神飞地，不对他们开放，保留自己真正的精神所在；承认他们无法理解，承认一座山真的存在，在山的阴影里努力存活；冷峻地、耐心地搭建自己独立生存的支柱，直到有一天，不必再向他们申请宽容。\n用通俗的话来说，左耳朵进右耳朵出，父母说话不用听；别太指望父母会大发慈悲支持自己的性别爱好；好好学习，争取以后考出去，就自由了。\n亲爱的。真的是几乎只能这样的。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 710,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075891781586301206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lckmtfdesu 我觉得与其说是让他放弃幻想。到最后一定是你放弃了幻想。首先你的沟通方式就不利于阅读，大片大片地复制ai的话给父母，不太成熟，有点撕破脸皮的味道。可是孩子和父母撕破脸皮斗，自己也没有经济独立权。怎么可能有优势呢。到最后无非还是仰仗父母的宽容程度。倘若父母一心一意要倒逼，那孩子不服气肯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "mtf/transbian/hrt2026.3.26/半家长党/伪音学习中/居家修仙/地雷女/福瑞控/arc phi 冰与火 战雷/ 社恐/超级缺爱/查成分回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/profile.php?id…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/profile.php?id=61590025657067&mibextid=ZbWKwL",
+                "start": 0,
+                "url": "https://t.co/y1Iah85nsp"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "location": "上海",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2070114836760117561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056692984549433344/ErO8uC8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1339,
+          "following_count": 1394,
+          "like_count": 6906,
+          "listed_count": 3,
+          "media_count": 76,
+          "tweet_count": 2527
+        },
+        "url": "https://t.co/y1Iah85nsp",
+        "username": "lckmtfdesu",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-09T10:01:19.000Z",
+        "description": "想和小药娘🍥贴贴互fo～梦想是成为身体能自产雌激素的女孩子🏳️‍⚧️\n主人@nargiti/闺蜜@congng1327122/御用读者@zhuangxuexin/闺蜜@magkyusejinki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "nargiti"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "congng1327122"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "zhuangxuexin"
+              },
+              {
+                "end": 97,
+                "start": 83,
+                "username": "magkyusejinki"
+              }
+            ]
+          }
+        },
+        "id": "1468883359090630657",
+        "location": "Stadtverband Saarbrücken, Saar",
+        "name": "安。",
+        "pinned_tweet_id": "2069814083726217383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068000668141703169/w00QquZu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 760,
+          "following_count": 1818,
+          "like_count": 29261,
+          "listed_count": 1,
+          "media_count": 326,
+          "tweet_count": 1851
+        },
+        "url": "",
+        "username": "ansiyao520",
+        "verified": true
+      }
+    ]
+  }
+}

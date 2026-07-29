@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "conversation_id": "2047595642156147185",
+    "created_at": "2026-04-24T08:36:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T09:36:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047595642156147185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1785546408659148800",
+          "start": 3,
+          "username": "wandering10111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047595642156147185",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 87
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046973594346180755",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @wandering10111: 你要拍女人的身体就不能只拍她裸露的阴部和浑圆的胸，这些当然是女人的身体美丽性感的来源，但如果只把重心放在它们上面只会显得无比俗气。你要拍她的小腹，她若隐若现的肌肉，她身体的曲线，她的肩膀，她的锁骨，她的小腿，女人的身体是神造的艺术品。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2047595642156147185",
+        "created_at": "2026-04-24T08:36:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T09:36:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047595642156147185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1785546408659148800",
+              "start": 3,
+              "username": "wandering10111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047595642156147185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 87
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046973594346180755",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @wandering10111: 你要拍女人的身体就不能只拍她裸露的阴部和浑圆的胸，这些当然是女人的身体美丽性感的来源，但如果只把重心放在它们上面只会显得无比俗气。你要拍她的小腹，她若隐若现的肌肉，她身体的曲线，她的肩膀，她的锁骨，她的小腿，女人的身体是神造的艺术品。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1785546408659148800",
+        "conversation_id": "2046973594346180755",
+        "created_at": "2026-04-22T15:25:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T16:25:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046973594346180755"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046973594346180755",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 105,
+          "impression_count": 54974,
+          "like_count": 1411,
+          "quote_count": 9,
+          "reply_count": 66,
+          "retweet_count": 87
+        },
+        "reply_settings": "following",
+        "text": "你要拍女人的身体就不能只拍她裸露的阴部和浑圆的胸，这些当然是女人的身体美丽性感的来源，但如果只把重心放在它们上面只会显得无比俗气。你要拍她的小腹，她若隐若现的肌肉，她身体的曲线，她的肩膀，她的锁骨，她的小腿，女人的身体是神造的艺术品。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "transles/白河豚/GAHT2026.3.26/半家长党/出柜2026.4.14/双相II/重度焦虑强迫抑郁/精分/INFP-T/sub/水仙/od割手友善/鉴证退避/福瑞控/arc phi 冰与火 战雷/ 社恐/同类回fo/匿名树洞https://t.co/D5Dh6Ua5zJ 喵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aurelia16775",
+                "end": 143,
+                "expanded_url": "https://ngl.link/aurelia16775",
+                "start": 120,
+                "url": "https://t.co/D5Dh6Ua5zJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aurelia16775",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aurelia16775",
+                "start": 0,
+                "url": "https://t.co/D5Dh6Ua5zJ"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "location": "上海",
+        "name": "Caelia🏳️‍⚧️",
+        "pinned_tweet_id": "2046637992346013995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046424790437920769/xyF71oGn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 951,
+          "like_count": 4076,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 1188
+        },
+        "url": "https://t.co/D5Dh6Ua5zJ",
+        "username": "lckmtfdesu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-01T05:47:02.000Z",
+        "description": "该如何安心入睡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wandering101111",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wandering101111",
+                "start": 0,
+                "url": "https://t.co/J4F8tMhqWJ"
+              }
+            ]
+          }
+        },
+        "id": "1785546408659148800",
+        "name": "树",
+        "pinned_tweet_id": "2046194688303231346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027421197391245312/NIufbQxq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 63,
+          "like_count": 267,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 327
+        },
+        "url": "https://t.co/J4F8tMhqWJ",
+        "username": "wandering10111",
+        "verified": false
+      }
+    ]
+  }
+}

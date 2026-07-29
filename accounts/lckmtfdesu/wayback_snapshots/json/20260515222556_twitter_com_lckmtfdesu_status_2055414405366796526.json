@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "conversation_id": "2055414405366796526",
+    "created_at": "2026-05-15T22:25:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T23:25:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055414405366796526"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yuerQwQ/status…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/yuerQwQ/status/2055299011331104807",
+          "start": 15,
+          "url": "https://t.co/pQAGxO4LVK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055414405366796526",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055299011331104807",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我！想！变！成！女！孩！子！ https://t.co/pQAGxO4LVK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2055414405366796526",
+        "created_at": "2026-05-15T22:25:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T23:25:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055414405366796526"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuerQwQ/status…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/yuerQwQ/status/2055299011331104807",
+              "start": 15,
+              "url": "https://t.co/pQAGxO4LVK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055414405366796526",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055299011331104807",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我！想！变！成！女！孩！子！ https://t.co/pQAGxO4LVK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962302660541079552",
+        "conversation_id": "2055299011331104807",
+        "created_at": "2026-05-15T14:47:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T15:47:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055299011331104807"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Shioochicqwq/s…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/Shioochicqwq/status/2055257365881176306",
+              "start": 15,
+              "url": "https://t.co/7fd8NB6hJx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055299011331104807",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 733,
+          "like_count": 22,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055257365881176306",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我！想！变！成！女！孩！子！ https://t.co/7fd8NB6hJx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "transles/白河豚/GAHT2026.3.26/半家长党/出柜2026.4.14/双相II/重度焦虑强迫抑郁/精分/INFP-T/sub/水仙/od割手友善/鉴证退避/福瑞控/arc phi 冰与火 战雷/ 社恐/同类回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aurelia16775",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aurelia16775",
+                "start": 0,
+                "url": "https://t.co/D5Dh6Ua5zJ"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "location": "上海",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2046637992346013995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046424790437920769/xyF71oGn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 545,
+          "following_count": 1005,
+          "like_count": 4284,
+          "listed_count": 2,
+          "media_count": 28,
+          "tweet_count": 1335
+        },
+        "url": "https://t.co/D5Dh6Ua5zJ",
+        "username": "lckmtfdesu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁/2008 08 08/职高/hrt 2026.4.17  🏳️‍⚧️/无证含糖🍥/修正马主义☭/民主青年🇹🇼/水贴🤪/广东/近视/178身高体重115/欢迎互fo                                                          小白羽的未来在哪里呢……",
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2054131864382947442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 598,
+          "following_count": 831,
+          "like_count": 7024,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 1132
+        },
+        "username": "yuerQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

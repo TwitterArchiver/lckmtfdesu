@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "conversation_id": "2046938430287056981",
+    "created_at": "2026-04-24T05:32:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T06:32:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047549340798144627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1258271716544921600",
+          "start": 0,
+          "username": "bluewjy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047549340798144627",
+    "in_reply_to_user_id": "1258271716544921600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047548169899414006",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bluewjy 喵喵\n用大冒險搪塞過去了的說"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2046938430287056981",
+        "created_at": "2026-04-24T05:32:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T06:32:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047549340798144627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1258271716544921600",
+              "start": 0,
+              "username": "bluewjy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047549340798144627",
+        "in_reply_to_user_id": "1258271716544921600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047548169899414006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bluewjy 喵喵\n用大冒險搪塞過去了的說"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1258271716544921600",
+        "conversation_id": "2046938430287056981",
+        "created_at": "2026-04-24T05:28:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T06:28:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047548169899414006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1827958813603102720",
+              "start": 0,
+              "username": "lckmtfdesu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047548169899414006",
+        "in_reply_to_user_id": "1827958813603102720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046938430287056981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lckmtfdesu 還好吧 就說是一般項鍊就好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Oberwart, Burgenland, Austria",
+              "geo": {
+                "coordinates": [
+                  16.20595,
+                  47.28971
+                ],
+                "type": "Point"
+              },
+              "locality": "Oberwart",
+              "region": "Burgenland",
+              "sub_region": "Politischer Bezirk Oberwart"
+            }
+          ]
+        },
+        "description": "transles/白河豚/GAHT2026.3.26/半家长党/出柜2026.4.14/双相II/重度焦虑强迫抑郁/精分/INFP-T/sub/水仙/od割手友善/鉴证退避/福瑞控/arc phi 冰与火 战雷/ 社恐/同类回fo/匿名树洞https://t.co/D5Dh6Ua5zJ 喵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aurelia16775",
+                "end": 143,
+                "expanded_url": "https://ngl.link/aurelia16775",
+                "start": 120,
+                "url": "https://t.co/D5Dh6Ua5zJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aurelia16775",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aurelia16775",
+                "start": 0,
+                "url": "https://t.co/D5Dh6Ua5zJ"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "location": "上海",
+        "name": "Caelia🏳️‍⚧️",
+        "pinned_tweet_id": "2046637992346013995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046424790437920769/xyF71oGn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 948,
+          "like_count": 4053,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 1178
+        },
+        "url": "https://t.co/D5Dh6Ua5zJ",
+        "username": "lckmtfdesu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-07T05:45:51.000Z",
+        "description": "中壢 \n#非自住 #sucker #顏控\n #私訊約約拜託最少給個臉照😂😂😂😂\n\n本帳號可能含有足以刺激或滿足性慾之敏感內容，未滿18歲者不得瀏覽，所有推文媒體皆加以註記「可能包含敏感內容」之警語加以隔離，若你點選「查看」即推定你已成年。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 4,
+                "tag": "非自住"
+              },
+              {
+                "end": 16,
+                "start": 9,
+                "tag": "sucker"
+              },
+              {
+                "end": 20,
+                "start": 17,
+                "tag": "顏控"
+              },
+              {
+                "end": 35,
+                "start": 22,
+                "tag": "私訊約約拜託最少給個臉照"
+              }
+            ]
+          }
+        },
+        "id": "1258271716544921600",
+        "location": "Taoyuan County, Taiwan",
+        "name": "月落",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1301275318146146304/59f3l0HU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6658,
+          "following_count": 1956,
+          "like_count": 54573,
+          "listed_count": 14,
+          "media_count": 311,
+          "tweet_count": 24751
+        },
+        "username": "bluewjy",
+        "verified": false
+      }
+    ]
+  }
+}

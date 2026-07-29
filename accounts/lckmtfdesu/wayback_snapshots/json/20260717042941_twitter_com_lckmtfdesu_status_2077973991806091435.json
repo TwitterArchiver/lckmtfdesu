@@ -1,0 +1,384 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077945848588345345",
+        "3_2077945849284562944",
+        "3_2077945849133600768"
+      ],
+      "media_source_tweet_id": [
+        "2077945851964788785",
+        "2077945851964788785",
+        "2077945851964788785"
+      ]
+    },
+    "author_id": "1827958813603102720",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2077973991806091435",
+    "created_at": "2026-07-17T04:29:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T05:29:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077973991806091435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2054099511279296512",
+          "start": 3,
+          "username": "666666666ZT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HMoMF3bnwU",
+          "end": 122,
+          "expanded_url": "https://x.com/666666666ZT/status/2077945851964788785/photo/1",
+          "media_key": "3_2077945848588345345",
+          "start": 99,
+          "url": "https://t.co/HMoMF3bnwU"
+        },
+        {
+          "display_url": "pic.x.com/HMoMF3bnwU",
+          "end": 122,
+          "expanded_url": "https://x.com/666666666ZT/status/2077945851964788785/photo/1",
+          "media_key": "3_2077945849284562944",
+          "start": 99,
+          "url": "https://t.co/HMoMF3bnwU"
+        },
+        {
+          "display_url": "pic.x.com/HMoMF3bnwU",
+          "end": 122,
+          "expanded_url": "https://x.com/666666666ZT/status/2077945851964788785/photo/1",
+          "media_key": "3_2077945849133600768",
+          "start": 99,
+          "url": "https://t.co/HMoMF3bnwU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077973991806091435",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077945851964788785",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @666666666ZT: 推特上没一个好人   这人给我恶心坏了   这名字和头像    一言难尽   净给六花招黑   以后谁加我   说不清目的的话   我是不敢加了   净来骚扰我😭 https://t.co/HMoMF3bnwU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077945848588345345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNZYvWebIAEjyvI.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2077945849284562944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNZYvZEakAA_gq-.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2077945849133600768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNZYvYgbEAAhV0s.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077945848588345345",
+            "3_2077945849284562944",
+            "3_2077945849133600768"
+          ]
+        },
+        "author_id": "2054099511279296512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2077945851964788785",
+        "created_at": "2026-07-17T02:37:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T03:37:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077945851964788785"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HMoMF3bnwU",
+              "end": 105,
+              "expanded_url": "https://x.com/666666666ZT/status/2077945851964788785/photo/1",
+              "media_key": "3_2077945848588345345",
+              "start": 82,
+              "url": "https://t.co/HMoMF3bnwU"
+            },
+            {
+              "display_url": "pic.x.com/HMoMF3bnwU",
+              "end": 105,
+              "expanded_url": "https://x.com/666666666ZT/status/2077945851964788785/photo/1",
+              "media_key": "3_2077945849284562944",
+              "start": 82,
+              "url": "https://t.co/HMoMF3bnwU"
+            },
+            {
+              "display_url": "pic.x.com/HMoMF3bnwU",
+              "end": 105,
+              "expanded_url": "https://x.com/666666666ZT/status/2077945851964788785/photo/1",
+              "media_key": "3_2077945849133600768",
+              "start": 82,
+              "url": "https://t.co/HMoMF3bnwU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077945851964788785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 257,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "推特上没一个好人   这人给我恶心坏了   这名字和头像    一言难尽   净给六花招黑   以后谁加我   说不清目的的话   我是不敢加了   净来骚扰我😭 https://t.co/HMoMF3bnwU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077945848588345345",
+            "3_2077945849284562944",
+            "3_2077945849133600768"
+          ],
+          "media_source_tweet_id": [
+            "2077945851964788785",
+            "2077945851964788785",
+            "2077945851964788785"
+          ]
+        },
+        "author_id": "1827958813603102720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2077973991806091435",
+        "created_at": "2026-07-17T04:29:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T05:29:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077973991806091435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2054099511279296512",
+              "start": 3,
+              "username": "666666666ZT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HMoMF3bnwU",
+              "end": 122,
+              "expanded_url": "https://x.com/666666666ZT/status/2077945851964788785/photo/1",
+              "media_key": "3_2077945848588345345",
+              "start": 99,
+              "url": "https://t.co/HMoMF3bnwU"
+            },
+            {
+              "display_url": "pic.x.com/HMoMF3bnwU",
+              "end": 122,
+              "expanded_url": "https://x.com/666666666ZT/status/2077945851964788785/photo/1",
+              "media_key": "3_2077945849284562944",
+              "start": 99,
+              "url": "https://t.co/HMoMF3bnwU"
+            },
+            {
+              "display_url": "pic.x.com/HMoMF3bnwU",
+              "end": 122,
+              "expanded_url": "https://x.com/666666666ZT/status/2077945851964788785/photo/1",
+              "media_key": "3_2077945849133600768",
+              "start": 99,
+              "url": "https://t.co/HMoMF3bnwU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077973991806091435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077945851964788785",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @666666666ZT: 推特上没一个好人   这人给我恶心坏了   这名字和头像    一言难尽   净给六花招黑   以后谁加我   说不清目的的话   我是不敢加了   净来骚扰我😭 https://t.co/HMoMF3bnwU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "mtf/hrt2026.3.26/半家长党/福瑞控/arc phi 冰与火 战雷/ 见证退避/查成分回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/profile.php?id…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/profile.php?id=61590025657067&mibextid=ZbWKwL",
+                "start": 0,
+                "url": "https://t.co/y1Iah85nsp"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "location": "上海",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2076081829128601989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056692984549433344/ErO8uC8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1349,
+          "following_count": 1396,
+          "like_count": 6915,
+          "listed_count": 3,
+          "media_count": 78,
+          "tweet_count": 2562
+        },
+        "url": "https://t.co/y1Iah85nsp",
+        "username": "lckmtfdesu",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-12T07:21:08.000Z",
+        "description": "我是清正，一名普通的MTF，生产日期2010年7月1日，生日是农历五月二十，身高1米8，体重61公斤，没有飞机账号，请注意！只和同类互关，闲鱼名称：许安清姐姐",
+        "id": "2054099511279296512",
+        "location": "湖北省",
+        "name": "电子爱好者清正🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2076557615912636478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071809309730557952/Z9aQ2M1k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1118,
+          "following_count": 294,
+          "like_count": 38,
+          "listed_count": 4,
+          "media_count": 267,
+          "tweet_count": 572
+        },
+        "url": "",
+        "username": "666666666ZT",
+        "verified": true
+      }
+    ]
+  }
+}

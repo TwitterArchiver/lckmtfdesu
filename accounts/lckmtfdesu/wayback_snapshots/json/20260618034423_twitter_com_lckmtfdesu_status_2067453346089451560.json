@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "conversation_id": "2067066951675912248",
+    "created_at": "2026-06-18T03:44:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T04:44:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067453346089451560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1671373071842934784",
+          "start": 0,
+          "username": "xiajianxiaonanm"
+        },
+        {
+          "end": 25,
+          "id": "1726808702387449856",
+          "start": 17,
+          "username": "Nargiti"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067453346089451560",
+    "in_reply_to_user_id": "1671373071842934784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067444092016181712",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiajianxiaonanm @Nargiti 请你看看清楚，我是男的😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2067066951675912248",
+        "created_at": "2026-06-18T03:44:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T04:44:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067453346089451560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1671373071842934784",
+              "start": 0,
+              "username": "xiajianxiaonanm"
+            },
+            {
+              "end": 25,
+              "id": "1726808702387449856",
+              "start": 17,
+              "username": "Nargiti"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067453346089451560",
+        "in_reply_to_user_id": "1671373071842934784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067444092016181712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiajianxiaonanm @Nargiti 请你看看清楚，我是男的😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1671373071842934784",
+        "conversation_id": "2067066951675912248",
+        "created_at": "2026-06-18T03:07:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T04:07:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067444092016181712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1827958813603102720",
+              "start": 0,
+              "username": "lckmtfdesu"
+            },
+            {
+              "end": 20,
+              "id": "1726808702387449856",
+              "start": 12,
+              "username": "Nargiti"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067444092016181712",
+        "in_reply_to_user_id": "1827958813603102720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067296866195358125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lckmtfdesu @Nargiti 你是在现实剥削压迫男性还不够，还要在网上去pua男性吗?寄生虫别来沾边。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "mtf/transbian/hrt2026.3.26/家长不管党/伪音学习中/居家修仙/地雷女/鉴证退避/福瑞控/arc phi 冰与火 战雷/ 社恐/超级缺爱/查成分回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/profile.php?id…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/profile.php?id=61590025657067&mibextid=ZbWKwL",
+                "start": 0,
+                "url": "https://t.co/y1Iah85nsp"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "location": "上海",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2063939048675451353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056692984549433344/ErO8uC8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 920,
+          "following_count": 1266,
+          "like_count": 6007,
+          "listed_count": 2,
+          "media_count": 54,
+          "tweet_count": 2223
+        },
+        "url": "https://t.co/y1Iah85nsp",
+        "username": "lckmtfdesu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-21T04:22:55.000Z",
+        "description": "我们脚下的地基、头顶的电力、指间的法典，皆由男性的脊髓与智慧筑成。女性享受着这些由男性创造的‘文明红利’，却依然傲慢，甚至反向索取。男性不仅没有原罪，反而是女性有原罪，是寄生虫在坐享其成。\n男性不仅没有原罪，一直在利用秩序剥削男性的女性以及跪舔女性帮助女性生存的龟男男性才有原罪。",
+        "id": "1671373071842934784",
+        "name": "女拳观察员",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 8,
+          "like_count": 787,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 783
+        },
+        "url": "",
+        "username": "xiajianxiaonanm",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-21T03:44:27.000Z",
+        "description": "万物皆虚，万事皆允，人随身死，精神永存\n\n全名：神之authority东风61珠峰使者\nQPR/友跨/无明显政治倾向\n发点段子杂谈梗图或碎碎念，偶尔发点oc\n欢迎私信投稿，需要互fo私我喵\n🚪52，所有收入用于买塔克夫（买到了后会换文案）\n纯绿（其实大概率不用门，欢迎大家来玩）\n梗图内容真假自辨\n500fo有抽奖",
+        "id": "1726808702387449856",
+        "location": "都看到这了，点个follow呗(●'◡'●)",
+        "name": "丌乐",
+        "pinned_tweet_id": "2064684693988262009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058239181382664192/7xUoIQT__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 33,
+          "like_count": 14836,
+          "listed_count": 1,
+          "media_count": 142,
+          "tweet_count": 956
+        },
+        "url": "",
+        "username": "Nargiti",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "conversation_id": "2056592710061178953",
+    "created_at": "2026-05-19T04:28:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T05:28:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056592710061178953"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2040445355184009216",
+          "start": 3,
+          "username": "seeinMillennium"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056592710061178953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056385649725620618",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @seeinMillennium: 医生你给我开的精神类药物特别有用，我就一下子吃了几颗瞬间感觉自己失眠 抑郁 焦虑 双相 精分 c-ptsd 闪回 解离 全好了，但是我离医院太远了可以一下子给我开1000盒来防止复发吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2056592710061178953",
+        "created_at": "2026-05-19T04:28:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T05:28:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056592710061178953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2040445355184009216",
+              "start": 3,
+              "username": "seeinMillennium"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056592710061178953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056385649725620618",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @seeinMillennium: 医生你给我开的精神类药物特别有用，我就一下子吃了几颗瞬间感觉自己失眠 抑郁 焦虑 双相 精分 c-ptsd 闪回 解离 全好了，但是我离医院太远了可以一下子给我开1000盒来防止复发吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040445355184009216",
+        "conversation_id": "2056385649725620618",
+        "created_at": "2026-05-18T14:45:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T15:45:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056385649725620618"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056385649725620618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 748,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "医生你给我开的精神类药物特别有用，我就一下子吃了几颗瞬间感觉自己失眠 抑郁 焦虑 双相 精分 c-ptsd 闪回 解离 全好了，但是我离医院太远了可以一下子给我开1000盒来防止复发吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Oberwart, Burgenland, Austria",
+              "geo": {
+                "coordinates": [
+                  16.20595,
+                  47.28971
+                ],
+                "type": "Point"
+              },
+              "locality": "Oberwart",
+              "region": "Burgenland",
+              "sub_region": "Politischer Bezirk Oberwart"
+            }
+          ]
+        },
+        "description": "transbian/hrt2026.3.26/家长不管党/出柜2026.4.14/INFP-T/sub/水仙/od割手友善/鉴证退避/福瑞控/arc phi 冰与火 战雷/ 社恐/超级缺爱/同类回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lckmtfdesu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lckmtfdesu",
+                "start": 0,
+                "url": "https://t.co/qZnowotyMH"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "location": "上海",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2046637992346013995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056531589501431808/PgqDwyvq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 566,
+          "following_count": 1032,
+          "like_count": 4524,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 1425
+        },
+        "url": "https://t.co/qZnowotyMH",
+        "username": "lckmtfdesu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-04T15:04:33.000Z",
+        "description": "15岁高中生 oder💊MTF 已炸柜父母威胁党抑郁/焦虑/c-ptsd\n喜欢听摇滚 割🔪重返未来1999 偶尔发一些意识流诗文\n只要有手机耳机我就在听歌睡觉也在\n被pr80空腹逼疯的胃病患者",
+        "id": "2040445355184009216",
+        "name": "🍥马库斯爱吃蛋糕​💊🏳️‍⚧️(二代目限时军训版)",
+        "pinned_tweet_id": "2054812970241425432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054809917853466624/fkXS2D8U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 350,
+          "like_count": 271,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 63
+        },
+        "username": "seeinMillennium",
+        "verified": false
+      }
+    ]
+  }
+}

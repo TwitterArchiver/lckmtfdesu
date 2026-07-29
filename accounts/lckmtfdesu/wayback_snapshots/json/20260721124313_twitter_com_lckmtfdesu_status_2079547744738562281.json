@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "conversation_id": "2079184703555506579",
+    "created_at": "2026-07-21T12:43:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T13:43:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079547744738562281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1416385542397235203",
+          "start": 0,
+          "username": "HerringtonBill2"
+        },
+        {
+          "end": 27,
+          "id": "1880194893685092354",
+          "start": 17,
+          "username": "Aelrainyx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079547744738562281",
+    "in_reply_to_user_id": "1416385542397235203",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079436052020838457",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HerringtonBill2 @Aelrainyx 小证有备注\n仅用于激素治疗\n所以这个似乎确实是大证"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2079184703555506579",
+        "created_at": "2026-07-21T12:43:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T13:43:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079547744738562281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1416385542397235203",
+              "start": 0,
+              "username": "HerringtonBill2"
+            },
+            {
+              "end": 27,
+              "id": "1880194893685092354",
+              "start": 17,
+              "username": "Aelrainyx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079547744738562281",
+        "in_reply_to_user_id": "1416385542397235203",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079436052020838457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HerringtonBill2 @Aelrainyx 小证有备注\n仅用于激素治疗\n所以这个似乎确实是大证"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1416385542397235203",
+        "conversation_id": "2079184703555506579",
+        "created_at": "2026-07-21T05:19:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T06:19:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079436052020838457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1827958813603102720",
+              "start": 0,
+              "username": "lckmtfdesu"
+            },
+            {
+              "end": 22,
+              "id": "1880194893685092354",
+              "start": 12,
+              "username": "Aelrainyx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079436052020838457",
+        "in_reply_to_user_id": "1827958813603102720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079216553321791792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lckmtfdesu @Aelrainyx 诊断证明是大证啊，不然小证是啥，小证不就是门诊诊断和病历吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "好姐（杂）姐（鱼）@ogsa1687497\nmtf/hrt2026.3.26/半家长党/福瑞控/arc phi 冰与火 战雷/ 见证退避/查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "ogsa1687497"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/profile.php?id…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/profile.php?id=61590025657067&mibextid=ZbWKwL",
+                "start": 0,
+                "url": "https://t.co/y1Iah85nsp"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "location": "上海",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2078437621102252181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056692984549433344/ErO8uC8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1423,
+          "following_count": 1442,
+          "like_count": 7167,
+          "listed_count": 3,
+          "media_count": 85,
+          "tweet_count": 2690
+        },
+        "url": "https://t.co/y1Iah85nsp",
+        "username": "lckmtfdesu",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-17T13:13:39.000Z",
+        "description": "",
+        "id": "1416385542397235203",
+        "name": "比莉莉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1416385611192315905/3f5lS5Cu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 88,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 252
+        },
+        "url": "",
+        "username": "HerringtonBill2",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-17T10:06:21.000Z",
+        "description": "MTF🏳️‍⚧️|Hrt🍥05.30.2026|有小证|断糖07.12.2026😭|半家长党|生产日期08.20.2011|165cm 48kg|不od|已炸柜\nhttps://t.co/KJ3353Umn5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aelrainyx",
+                "end": 104,
+                "expanded_url": "https://ngl.link/aelrainyx",
+                "start": 81,
+                "url": "https://t.co/KJ3353Umn5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "aelrainyx.dpdns.org",
+                "end": 23,
+                "expanded_url": "http://aelrainyx.dpdns.org",
+                "start": 0,
+                "url": "https://t.co/o7vSgpbEJC"
+              }
+            ]
+          }
+        },
+        "id": "1880194893685092354",
+        "name": "Aelrainyx🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060694584364343296/PUQotpl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 266,
+          "like_count": 77,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 37
+        },
+        "url": "https://t.co/o7vSgpbEJC",
+        "username": "Aelrainyx",
+        "verified": true
+      }
+    ]
+  }
+}

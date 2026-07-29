@@ -1,0 +1,390 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047736909775224832",
+        "3_2047736909800280064",
+        "3_2047736909766750208",
+        "3_2047736909808771072"
+      ],
+      "media_source_tweet_id": [
+        "2047736915009655019",
+        "2047736915009655019",
+        "2047736915009655019",
+        "2047736915009655019"
+      ]
+    },
+    "author_id": "1827958813603102720",
+    "conversation_id": "2047879046244303271",
+    "created_at": "2026-04-25T03:23:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T04:23:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047879046244303271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1575765089030139905",
+          "start": 3,
+          "username": "wodanggangqiang"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/01xzWKwHvo",
+          "end": 106,
+          "expanded_url": "https://x.com/wodanggangqiang/status/2047736915009655019/photo/1",
+          "media_key": "3_2047736909775224832",
+          "start": 83,
+          "url": "https://t.co/01xzWKwHvo"
+        },
+        {
+          "display_url": "pic.x.com/01xzWKwHvo",
+          "end": 106,
+          "expanded_url": "https://x.com/wodanggangqiang/status/2047736915009655019/photo/1",
+          "media_key": "3_2047736909800280064",
+          "start": 83,
+          "url": "https://t.co/01xzWKwHvo"
+        },
+        {
+          "display_url": "pic.x.com/01xzWKwHvo",
+          "end": 106,
+          "expanded_url": "https://x.com/wodanggangqiang/status/2047736915009655019/photo/1",
+          "media_key": "3_2047736909766750208",
+          "start": 83,
+          "url": "https://t.co/01xzWKwHvo"
+        },
+        {
+          "display_url": "pic.x.com/01xzWKwHvo",
+          "end": 106,
+          "expanded_url": "https://x.com/wodanggangqiang/status/2047736915009655019/photo/1",
+          "media_key": "3_2047736909808771072",
+          "start": 83,
+          "url": "https://t.co/01xzWKwHvo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047879046244303271",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 74
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047736915009655019",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wodanggangqiang: 有微博的朋友帮一下这个女生吧，她因为在公交站制止吸烟，用饮料浇灭了对方的烟头被辱骂殴打，被传唤，现在要被拘留五天，帮帮她。 https://t.co/01xzWKwHvo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 702,
+        "media_key": "3_2047736909775224832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGsF3rybwAAWTpU.jpg",
+        "width": 1206
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2047736909800280064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGsF3r4aEAAWZM0.jpg",
+        "width": 1190
+      },
+      {
+        "height": 648,
+        "media_key": "3_2047736909766750208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGsF3rwacAAgSVW.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1725,
+        "media_key": "3_2047736909808771072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGsF3r6boAA0xNn.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047736909775224832",
+            "3_2047736909800280064",
+            "3_2047736909766750208",
+            "3_2047736909808771072"
+          ],
+          "media_source_tweet_id": [
+            "2047736915009655019",
+            "2047736915009655019",
+            "2047736915009655019",
+            "2047736915009655019"
+          ]
+        },
+        "author_id": "1827958813603102720",
+        "conversation_id": "2047879046244303271",
+        "created_at": "2026-04-25T03:23:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T04:23:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047879046244303271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1575765089030139905",
+              "start": 3,
+              "username": "wodanggangqiang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/01xzWKwHvo",
+              "end": 106,
+              "expanded_url": "https://x.com/wodanggangqiang/status/2047736915009655019/photo/1",
+              "media_key": "3_2047736909775224832",
+              "start": 83,
+              "url": "https://t.co/01xzWKwHvo"
+            },
+            {
+              "display_url": "pic.x.com/01xzWKwHvo",
+              "end": 106,
+              "expanded_url": "https://x.com/wodanggangqiang/status/2047736915009655019/photo/1",
+              "media_key": "3_2047736909800280064",
+              "start": 83,
+              "url": "https://t.co/01xzWKwHvo"
+            },
+            {
+              "display_url": "pic.x.com/01xzWKwHvo",
+              "end": 106,
+              "expanded_url": "https://x.com/wodanggangqiang/status/2047736915009655019/photo/1",
+              "media_key": "3_2047736909766750208",
+              "start": 83,
+              "url": "https://t.co/01xzWKwHvo"
+            },
+            {
+              "display_url": "pic.x.com/01xzWKwHvo",
+              "end": 106,
+              "expanded_url": "https://x.com/wodanggangqiang/status/2047736915009655019/photo/1",
+              "media_key": "3_2047736909808771072",
+              "start": 83,
+              "url": "https://t.co/01xzWKwHvo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047879046244303271",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 74
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047736915009655019",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wodanggangqiang: 有微博的朋友帮一下这个女生吧，她因为在公交站制止吸烟，用饮料浇灭了对方的烟头被辱骂殴打，被传唤，现在要被拘留五天，帮帮她。 https://t.co/01xzWKwHvo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047736909775224832",
+            "3_2047736909800280064",
+            "3_2047736909766750208",
+            "3_2047736909808771072"
+          ]
+        },
+        "author_id": "1575765089030139905",
+        "conversation_id": "2047736915009655019",
+        "created_at": "2026-04-24T17:58:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T18:58:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047736915009655019"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/01xzWKwHvo",
+              "end": 85,
+              "expanded_url": "https://x.com/wodanggangqiang/status/2047736915009655019/photo/1",
+              "media_key": "3_2047736909775224832",
+              "start": 62,
+              "url": "https://t.co/01xzWKwHvo"
+            },
+            {
+              "display_url": "pic.x.com/01xzWKwHvo",
+              "end": 85,
+              "expanded_url": "https://x.com/wodanggangqiang/status/2047736915009655019/photo/1",
+              "media_key": "3_2047736909800280064",
+              "start": 62,
+              "url": "https://t.co/01xzWKwHvo"
+            },
+            {
+              "display_url": "pic.x.com/01xzWKwHvo",
+              "end": 85,
+              "expanded_url": "https://x.com/wodanggangqiang/status/2047736915009655019/photo/1",
+              "media_key": "3_2047736909766750208",
+              "start": 62,
+              "url": "https://t.co/01xzWKwHvo"
+            },
+            {
+              "display_url": "pic.x.com/01xzWKwHvo",
+              "end": 85,
+              "expanded_url": "https://x.com/wodanggangqiang/status/2047736915009655019/photo/1",
+              "media_key": "3_2047736909808771072",
+              "start": 62,
+              "url": "https://t.co/01xzWKwHvo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047736915009655019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 89943,
+          "like_count": 1540,
+          "quote_count": 21,
+          "reply_count": 174,
+          "retweet_count": 74
+        },
+        "reply_settings": "everyone",
+        "text": "有微博的朋友帮一下这个女生吧，她因为在公交站制止吸烟，用饮料浇灭了对方的烟头被辱骂殴打，被传唤，现在要被拘留五天，帮帮她。 https://t.co/01xzWKwHvo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Oberwart, Burgenland, Austria",
+              "geo": {
+                "coordinates": [
+                  16.20595,
+                  47.28971
+                ],
+                "type": "Point"
+              },
+              "locality": "Oberwart",
+              "region": "Burgenland",
+              "sub_region": "Politischer Bezirk Oberwart"
+            }
+          ]
+        },
+        "description": "transles/白河豚/GAHT2026.3.26/半家长党/出柜2026.4.14/双相II/重度焦虑强迫抑郁/精分/INFP-T/sub/水仙/od割手友善/鉴证退避/福瑞控/arc phi 冰与火 战雷/ 社恐/同类回fo/匿名树洞https://t.co/D5Dh6Ua5zJ 喵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aurelia16775",
+                "end": 143,
+                "expanded_url": "https://ngl.link/aurelia16775",
+                "start": 120,
+                "url": "https://t.co/D5Dh6Ua5zJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aurelia16775",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aurelia16775",
+                "start": 0,
+                "url": "https://t.co/D5Dh6Ua5zJ"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "location": "上海",
+        "name": "Caelia🏳️‍⚧️",
+        "pinned_tweet_id": "2046637992346013995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046424790437920769/xyF71oGn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 959,
+          "like_count": 4105,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 1202
+        },
+        "url": "https://t.co/D5Dh6Ua5zJ",
+        "username": "lckmtfdesu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-30T08:31:04.000Z",
+        "description": "独立而自由的灵魂，才是幸福之源。做自己，比任何事情都重要。",
+        "id": "1575765089030139905",
+        "location": "Japan",
+        "name": "我当刚强壮胆",
+        "pinned_tweet_id": "1824841439647515059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961052065981194240/mj8Sddub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28394,
+          "following_count": 564,
+          "like_count": 34910,
+          "listed_count": 90,
+          "media_count": 9908,
+          "tweet_count": 27091
+        },
+        "username": "wodanggangqiang",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056677710823665664",
+        "3_2056677709695401984"
+      ]
+    },
+    "author_id": "1827958813603102720",
+    "conversation_id": "2056677713919042032",
+    "created_at": "2026-05-19T10:05:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T11:05:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056677713919042032"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mV3OjgT5Gn",
+          "end": 23,
+          "expanded_url": "https://x.com/lckmtfdesu/status/2056677713919042032/photo/1",
+          "media_key": "3_2056677710823665664",
+          "start": 0,
+          "url": "https://t.co/mV3OjgT5Gn"
+        },
+        {
+          "display_url": "pic.x.com/mV3OjgT5Gn",
+          "end": 23,
+          "expanded_url": "https://x.com/lckmtfdesu/status/2056677713919042032/photo/1",
+          "media_key": "3_2056677709695401984",
+          "start": 0,
+          "url": "https://t.co/mV3OjgT5Gn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056677713919042032",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/mV3OjgT5Gn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2027,
+        "media_key": "3_2056677710823665664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIrJezMbsAAWrOw.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2027,
+        "media_key": "3_2056677709695401984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIrJeu_bwAAPUzr.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056677710823665664",
+            "3_2056677709695401984"
+          ]
+        },
+        "author_id": "1827958813603102720",
+        "conversation_id": "2056677713919042032",
+        "created_at": "2026-05-19T10:05:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T11:05:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056677713919042032"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mV3OjgT5Gn",
+              "end": 23,
+              "expanded_url": "https://x.com/lckmtfdesu/status/2056677713919042032/photo/1",
+              "media_key": "3_2056677710823665664",
+              "start": 0,
+              "url": "https://t.co/mV3OjgT5Gn"
+            },
+            {
+              "display_url": "pic.x.com/mV3OjgT5Gn",
+              "end": 23,
+              "expanded_url": "https://x.com/lckmtfdesu/status/2056677713919042032/photo/1",
+              "media_key": "3_2056677709695401984",
+              "start": 0,
+              "url": "https://t.co/mV3OjgT5Gn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056677713919042032",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/mV3OjgT5Gn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "transbian/hrt2026.3.26/家长不管党/出柜2026.4.14/伪音学习中/地雷系/INFP-T/sub/水仙/od割手友善/鉴证退避/福瑞控/arc phi 冰与火 战雷/ 社恐/超级缺爱/同类回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lckmtfdesu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lckmtfdesu",
+                "start": 0,
+                "url": "https://t.co/qZnowotyMH"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "location": "上海",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2056433412886700324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056639458838245377/KH1IK8RU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 576,
+          "following_count": 1045,
+          "like_count": 4681,
+          "listed_count": 2,
+          "media_count": 35,
+          "tweet_count": 1486
+        },
+        "url": "https://t.co/qZnowotyMH",
+        "username": "lckmtfdesu",
+        "verified": false
+      }
+    ]
+  }
+}

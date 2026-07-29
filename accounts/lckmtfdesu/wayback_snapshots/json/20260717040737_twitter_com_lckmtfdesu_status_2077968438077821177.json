@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077949248017223680"
+      ],
+      "media_source_tweet_id": [
+        "2077951805997355512"
+      ]
+    },
+    "author_id": "1827958813603102720",
+    "conversation_id": "2077968438077821177",
+    "created_at": "2026-07-17T04:07:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T05:07:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077968438077821177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2055214408784125953",
+          "start": 3,
+          "username": "OMEmtf"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0LF0tDQto7",
+          "end": 81,
+          "expanded_url": "https://x.com/OMEmtf/status/2077951805997355512/photo/1",
+          "media_key": "3_2077949248017223680",
+          "start": 58,
+          "url": "https://t.co/0LF0tDQto7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077968438077821177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077951805997355512",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OMEmtf: 呜呜，OME没死，昨天刚从ICU出来，感觉好对不起父母，要是我不在了或许父母就不会这么费心 https://t.co/0LF0tDQto7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2077949248017223680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNZb1OVbUAADiov.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077949248017223680"
+          ]
+        },
+        "author_id": "2055214408784125953",
+        "conversation_id": "2077951805997355512",
+        "created_at": "2026-07-17T03:01:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T04:01:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077951805997355512"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0LF0tDQto7",
+              "end": 69,
+              "expanded_url": "https://x.com/OMEmtf/status/2077951805997355512/photo/1",
+              "media_key": "3_2077949248017223680",
+              "start": 46,
+              "url": "https://t.co/0LF0tDQto7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077951805997355512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "呜呜，OME没死，昨天刚从ICU出来，感觉好对不起父母，要是我不在了或许父母就不会这么费心 https://t.co/0LF0tDQto7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077949248017223680"
+          ],
+          "media_source_tweet_id": [
+            "2077951805997355512"
+          ]
+        },
+        "author_id": "1827958813603102720",
+        "conversation_id": "2077968438077821177",
+        "created_at": "2026-07-17T04:07:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T05:07:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077968438077821177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2055214408784125953",
+              "start": 3,
+              "username": "OMEmtf"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0LF0tDQto7",
+              "end": 81,
+              "expanded_url": "https://x.com/OMEmtf/status/2077951805997355512/photo/1",
+              "media_key": "3_2077949248017223680",
+              "start": 58,
+              "url": "https://t.co/0LF0tDQto7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077968438077821177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077951805997355512",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OMEmtf: 呜呜，OME没死，昨天刚从ICU出来，感觉好对不起父母，要是我不在了或许父母就不会这么费心 https://t.co/0LF0tDQto7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "mtf/hrt2026.3.26/半家长党/福瑞控/arc phi 冰与火 战雷/ 见证退避/查成分回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/profile.php?id…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/profile.php?id=61590025657067&mibextid=ZbWKwL",
+                "start": 0,
+                "url": "https://t.co/y1Iah85nsp"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "location": "上海",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2076081829128601989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056692984549433344/ErO8uC8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1349,
+          "following_count": 1396,
+          "like_count": 6911,
+          "listed_count": 3,
+          "media_count": 78,
+          "tweet_count": 2559
+        },
+        "url": "https://t.co/y1Iah85nsp",
+        "username": "lckmtfdesu",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-15T09:11:39.000Z",
+        "description": "这里是OME，身高170体重95斤hrt26.5.28，无",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ome.917826.xyz",
+                "end": 23,
+                "expanded_url": "http://ome.917826.xyz",
+                "start": 0,
+                "url": "https://t.co/HWBdWVKUXh"
+              }
+            ]
+          }
+        },
+        "id": "2055214408784125953",
+        "location": "地球",
+        "name": "OME",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065014949370568704/TY3IUFl__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 12,
+          "like_count": 7,
+          "listed_count": 2,
+          "media_count": 16,
+          "tweet_count": 355
+        },
+        "url": "https://t.co/HWBdWVKUXh",
+        "username": "OMEmtf",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "conversation_id": "2057129353159553265",
+    "created_at": "2026-05-20T22:34:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T23:34:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057228453137789196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1882678524596867072",
+          "start": 0,
+          "username": "gdioiui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057228453137789196",
+    "in_reply_to_user_id": "1882678524596867072",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057129353159553265",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gdioiui 我也是（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2057129348994609152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIxkPmfasAAKTpX.jpg",
+        "width": 1117
+      },
+      {
+        "height": 2027,
+        "media_key": "3_2057129349057486848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIxkPmuaIAAYwBY.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2057129353159553265",
+        "created_at": "2026-05-20T22:34:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T23:34:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057228453137789196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057228453137789196",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057129353159553265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 我也是（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057129348994609152",
+            "3_2057129349057486848"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "2057129353159553265",
+        "created_at": "2026-05-20T16:00:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T17:00:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057129353159553265"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pgvBaEaaNb",
+              "end": 46,
+              "expanded_url": "https://x.com/gdioiui/status/2057129353159553265/photo/1",
+              "media_key": "3_2057129348994609152",
+              "start": 23,
+              "url": "https://t.co/pgvBaEaaNb"
+            },
+            {
+              "display_url": "pic.x.com/pgvBaEaaNb",
+              "end": 46,
+              "expanded_url": "https://x.com/gdioiui/status/2057129353159553265/photo/1",
+              "media_key": "3_2057129349057486848",
+              "start": 23,
+              "url": "https://t.co/pgvBaEaaNb"
+            },
+            {
+              "display_url": "x.com/lckmtfdesu/sta…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/lckmtfdesu/status/2056677713919042032",
+              "start": 47,
+              "url": "https://t.co/1NotNvI7Jt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057129353159553265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 277,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056677713919042032",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是病娇aaa\n(◦`~´◦)太难受了www https://t.co/pgvBaEaaNb https://t.co/1NotNvI7Jt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "transbian/hrt2026.3.26/家长不管党/出柜2026.4.14/伪音学习中/居家修仙/高二/地雷女/INFP-T/sub/水仙/od割手友善/鉴证退避/福瑞控/arc phi 冰与火 战雷/ 社恐/超级缺爱/同类回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/profile.php?id…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/profile.php?id=61590025657067&mibextid=ZbWKwL",
+                "start": 0,
+                "url": "https://t.co/y1Iah85nsp"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "location": "上海",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2057055268631114176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056692984549433344/ErO8uC8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 602,
+          "following_count": 1067,
+          "like_count": 4879,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 1617
+        },
+        "url": "https://t.co/y1Iah85nsp",
+        "username": "lckmtfdesu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "我是木桶饭我是木桶饭\n\n我是废物！\n\n不要问那些对不对....我活着就是一个糟糕的命题",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1854,
+          "following_count": 456,
+          "like_count": 3836,
+          "listed_count": 3,
+          "media_count": 1258,
+          "tweet_count": 6794
+        },
+        "username": "gdioiui",
+        "verified": true
+      }
+    ]
+  }
+}

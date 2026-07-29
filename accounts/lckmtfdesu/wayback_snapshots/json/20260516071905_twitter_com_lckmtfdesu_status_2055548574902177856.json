@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "conversation_id": "2055548574902177856",
+    "created_at": "2026-05-16T07:19:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T08:19:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055548574902177856"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1639816523190763521",
+          "start": 3,
+          "username": "ggdxfulan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055548574902177856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055297939778789579",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ggdxfulan: 我要爆一下自己的“户籍”\n\n在我上高中的那段时间我经常在“中国人学习群”聊天，这是一个左圈的群，然后有一天，“十月烽火”和 rc 的其他人把我招募到 rc 里面了，在 rc…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2055548574902177856",
+        "created_at": "2026-05-16T07:19:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T08:19:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055548574902177856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1639816523190763521",
+              "start": 3,
+              "username": "ggdxfulan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055548574902177856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055297939778789579",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ggdxfulan: 我要爆一下自己的“户籍”\n\n在我上高中的那段时间我经常在“中国人学习群”聊天，这是一个左圈的群，然后有一天，“十月烽火”和 rc 的其他人把我招募到 rc 里面了，在 rc…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639816523190763521",
+        "conversation_id": "2055297939778789579",
+        "created_at": "2026-05-15T14:43:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T15:43:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055297939778789579"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055297939778789579",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我要爆一下自己的“户籍”\n\n在我上高中的那段时间我经常在“中国人学习群”聊天，这是一个左圈的群，然后有一天，“十月烽火”和 rc 的其他人把我招募到 rc 里面了，在 rc 每个人的主观能动性都非常强，都在非常积极的学理论并用到现实中，从物质到意识再到物质，当时我的名字叫“红日升”，当时我在左圈挺出名的，然后我看到了推特上一大堆自称“十月烽火”的人，然而我可以保证和你们说，一个真的都没有，十月烽火完全不用推特，微信都很少用，只用 QQ，你们模仿的还是太牵强了…\n\n“十月烽火”是我的引路人，是我的老师，我十分感谢 rc 和“十月烽火”同志对我的教导和批评…\n\n他的声音我现在都还记得，以及他是我目前见过的，马克思主义运用最好的\n\n至此敬礼，我对他只有感激，没有恨意\n他永远都是我最棒的老师，现在也是…"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3370,
+          "like_count": 42,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我要爆一下自己的“户籍”\n\n在我上高中的那段时间我经常在“中国人学习群”聊天，这是一个左圈的群，然后有一天，“十月烽火”和 rc 的其他人把我招募到 rc 里面了，在 rc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "transles/白河豚/GAHT2026.3.26/半家长党/出柜2026.4.14/双相II/重度焦虑强迫抑郁/精分/INFP-T/sub/水仙/od割手友善/鉴证退避/福瑞控/arc phi 冰与火 战雷/ 社恐/同类回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aurelia16775",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aurelia16775",
+                "start": 0,
+                "url": "https://t.co/D5Dh6Ua5zJ"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "location": "上海",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2046637992346013995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046424790437920769/xyF71oGn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 1015,
+          "like_count": 4352,
+          "listed_count": 2,
+          "media_count": 27,
+          "tweet_count": 1361
+        },
+        "url": "https://t.co/D5Dh6Ua5zJ",
+        "username": "lckmtfdesu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-26T02:28:25.000Z",
+        "description": "二次翻车的小芙兰\n药娘1 纯1哦",
+        "id": "1639816523190763521",
+        "location": "距离你2km",
+        "name": "乖乖哒二小姐",
+        "pinned_tweet_id": "2039230799497547970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002781704680030208/O0cqzBz3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17879,
+          "following_count": 505,
+          "like_count": 36485,
+          "listed_count": 31,
+          "media_count": 3790,
+          "tweet_count": 11714
+        },
+        "username": "ggdxfulan",
+        "verified": true
+      }
+    ]
+  }
+}

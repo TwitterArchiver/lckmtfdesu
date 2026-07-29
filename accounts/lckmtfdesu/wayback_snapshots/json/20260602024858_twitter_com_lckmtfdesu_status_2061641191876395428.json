@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "conversation_id": "2061458584328933795",
+    "created_at": "2026-06-02T02:48:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T03:48:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061641191876395428"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2027280531097088000",
+          "start": 0,
+          "username": "Lvmaosamaovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061641191876395428",
+    "in_reply_to_user_id": "2027280531097088000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061458584328933795",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lvmaosamaovo 呜哇……\n以自己的性命为筹码来绑架别人……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2061458584328933795",
+        "created_at": "2026-06-02T02:48:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T03:48:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061641191876395428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2027280531097088000",
+              "start": 0,
+              "username": "Lvmaosamaovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061641191876395428",
+        "in_reply_to_user_id": "2027280531097088000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061458584328933795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lvmaosamaovo 呜哇……\n以自己的性命为筹码来绑架别人……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2027280531097088000",
+        "conversation_id": "2061458584328933795",
+        "created_at": "2026-06-01T14:43:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T15:43:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061458584328933795"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061458584328933795",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1641,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "解封了 有很多事想和大家说😭\n今天炸柜了 在61儿童节这个日子🥺 我家长看到了我的包 里面放着一盒刚开只吃了12.5mg的土色 一盒国补 一个愈美和加巴喷丁…\n回来的路上我在和unk打电话呢😭 然后正好碰到我的家长😭… 我拿的还是备用机 他不知道有这个手机 现在猫猫的家长以死相逼猫猫不能吃药😭…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "mtf/transbian/hrt2026.3.26/家长不管党/伪音学习中/居家修仙/地雷女/鉴证退避/福瑞控/arc phi 冰与火 战雷/ 社恐/超级缺爱/查成分回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/profile.php?id…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/profile.php?id=61590025657067&mibextid=ZbWKwL",
+                "start": 0,
+                "url": "https://t.co/y1Iah85nsp"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "location": "上海",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2061060958966206751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056692984549433344/ErO8uC8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 1150,
+          "like_count": 5314,
+          "listed_count": 2,
+          "media_count": 46,
+          "tweet_count": 1938
+        },
+        "url": "https://t.co/y1Iah85nsp",
+        "username": "lckmtfdesu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-27T07:14:07.000Z",
+        "description": "咕咕嘎嘎(๑˃̵ᴗ˂̵) 2011/10/27崭新出厂（mtf ｜主人@UnkMtX\n欢迎同类互fo 所有同类都会回fo喵～ hrt🍥｜2026_4_19 小号@Lvmaosamaqwq\n✝︎天使様、ご挨拶申し上げます！✝︎\n✝︎私は天より降り注ぐ光、混沌のネット世界を照らす存在なのです✝︎",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 35,
+                "username": "UnkMtX"
+              },
+              {
+                "end": 93,
+                "start": 80,
+                "username": "Lvmaosamaqwq"
+              }
+            ]
+          }
+        },
+        "id": "2027280531097088000",
+        "location": "上海精神卫生中心",
+        "name": "☁️Lvmao๑˃̵ᴗ˂̵🍥〜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046302106936897536/wD1z616h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 660,
+          "following_count": 334,
+          "like_count": 2413,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 725
+        },
+        "username": "Lvmaosamaovo",
+        "verified": true
+      }
+    ]
+  }
+}

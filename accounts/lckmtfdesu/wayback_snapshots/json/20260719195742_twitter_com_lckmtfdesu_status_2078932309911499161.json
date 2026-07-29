@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "conversation_id": "2078694718364664319",
+    "created_at": "2026-07-19T19:57:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T20:57:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078932309911499161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "886641021588611072",
+          "start": 0,
+          "username": "Gyoko404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078932309911499161",
+    "in_reply_to_user_id": "886641021588611072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078694718364664319",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gyoko404 假死。？\n好恶毒地发言\n对别人的生命置若罔闻\n以最大的恶意揣测他人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2078694718364664319",
+        "created_at": "2026-07-19T19:57:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T20:57:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078932309911499161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "886641021588611072",
+              "start": 0,
+              "username": "Gyoko404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078932309911499161",
+        "in_reply_to_user_id": "886641021588611072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078694718364664319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gyoko404 假死。？\n好恶毒地发言\n对别人的生命置若罔闻\n以最大的恶意揣测他人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "886641021588611072",
+        "conversation_id": "2078694718364664319",
+        "created_at": "2026-07-19T04:13:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T05:13:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078694718364664319"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078694718364664319",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我知道又会有一堆骂我假死，骂就骂吧，反正我都是死人了。\n还有再讲讲我为什么要自杀吧，因为某人对我冷淡爱搭不理，加gd严重，所以我才做出这个决定。\n我变成药娘的经历：7岁开始女装，10岁gd严重，12岁了解到，16岁正式开始hrt并留头发，然后我又进精卫被强制剪头发，还被晶好多回，心累，到最近我又染上烟瘾和od，现在连药都吃不起，要不是有人给我钱我都吃不起饭了。\n如果我还能活，我希望我能做上手术，变成一个新的身份开始新的生活，而不是像现在这样浑浑噩噩的（虽然不太可能变好吧）。\n最后我再嘱咐几句，忆白，你差不多就分了吧，你对象都出轨那么明显了。丫丫，你也好好的，别老是自残，我会心疼的。晨曦你什么时候回来啊，大家都想你了…\n话都说完了，我再睡一觉就走了，再见大家，下辈子见咯"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2292,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我知道又会有一堆骂我假死，骂就骂吧，反正我都是死人了。\n还有再讲讲我为什么要自杀吧，因为某人对我冷淡爱搭不理，加gd严重，所以我才做出这个决定。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "mtf/hrt2026.3.26/半家长党/福瑞控/arc phi 冰与火 战雷/ 见证退避/查成分回fo\n好姐姐@ogsa1687497",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 57,
+                "username": "ogsa1687497"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/profile.php?id…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/profile.php?id=61590025657067&mibextid=ZbWKwL",
+                "start": 0,
+                "url": "https://t.co/y1Iah85nsp"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "location": "上海",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2078437621102252181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056692984549433344/ErO8uC8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1388,
+          "following_count": 1426,
+          "like_count": 7002,
+          "listed_count": 3,
+          "media_count": 83,
+          "tweet_count": 2628
+        },
+        "url": "https://t.co/y1Iah85nsp",
+        "username": "lckmtfdesu",
+        "verified": true
+      },
+      {
+        "created_at": "2017-07-16T17:37:47.000Z",
+        "description": "爱惜自己真的好难",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mahiro.xin",
+                "end": 23,
+                "expanded_url": "http://mahiro.xin",
+                "start": 0,
+                "url": "https://t.co/vttA1wvKNo"
+              }
+            ]
+          }
+        },
+        "id": "886641021588611072",
+        "name": "暁光🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2071580598192476389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078696403342409729/Pp_L56zY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1231,
+          "following_count": 77,
+          "like_count": 183,
+          "listed_count": 23,
+          "media_count": 38,
+          "tweet_count": 1321
+        },
+        "url": "https://t.co/vttA1wvKNo",
+        "username": "Gyoko404",
+        "verified": true
+      }
+    ]
+  }
+}

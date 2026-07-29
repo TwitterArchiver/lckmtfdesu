@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "conversation_id": "2056773023823437930",
+    "created_at": "2026-05-19T16:24:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T17:24:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056773023823437930"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1902217890738401281",
+          "start": 3,
+          "username": "Sylvviiae"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056773023823437930",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056737389440278659",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sylvviiae: 想要完全紫砂手册的可以找我，并且不用担心我说多余的话。不是鼓励和教唆紫砂，而是知道没有生物来到这个世界上就想死。求生欲是诸位自带的出厂设置，想要对抗与生俱来的权利，那一定是遇到了比死亡更可怕的事情。我不了解诸位的过去，也不会对诸位的未来有占有欲。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2056773023823437930",
+        "created_at": "2026-05-19T16:24:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T17:24:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056773023823437930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1902217890738401281",
+              "start": 3,
+              "username": "Sylvviiae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056773023823437930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056737389440278659",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sylvviiae: 想要完全紫砂手册的可以找我，并且不用担心我说多余的话。不是鼓励和教唆紫砂，而是知道没有生物来到这个世界上就想死。求生欲是诸位自带的出厂设置，想要对抗与生俱来的权利，那一定是遇到了比死亡更可怕的事情。我不了解诸位的过去，也不会对诸位的未来有占有欲。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902217890738401281",
+        "conversation_id": "2056737389440278659",
+        "created_at": "2026-05-19T14:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T15:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056737389440278659"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056737389440278659",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 2642,
+          "like_count": 77,
+          "quote_count": 2,
+          "reply_count": 15,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "想要完全紫砂手册的可以找我，并且不用担心我说多余的话。不是鼓励和教唆紫砂，而是知道没有生物来到这个世界上就想死。求生欲是诸位自带的出厂设置，想要对抗与生俱来的权利，那一定是遇到了比死亡更可怕的事情。我不了解诸位的过去，也不会对诸位的未来有占有欲。\n\n同时也希望大家这样对我。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "transbian/hrt2026.3.26/家长不管党/出柜2026.4.14/伪音学习中/居家修仙/高二/地雷女/INFP-T/sub/水仙/od割手友善/鉴证退避/福瑞控/arc phi 冰与火 战雷/ 社恐/超级缺爱/同类回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lckmtfdesu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lckmtfdesu",
+                "start": 0,
+                "url": "https://t.co/qZnowotyMH"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "location": "上海",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2056433412886700324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056692984549433344/ErO8uC8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 588,
+          "following_count": 1055,
+          "like_count": 4749,
+          "listed_count": 2,
+          "media_count": 38,
+          "tweet_count": 1534
+        },
+        "url": "https://t.co/qZnowotyMH",
+        "username": "lckmtfdesu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-19T04:38:16.000Z",
+        "description": "bilingual, bisexual, bipolar, and bpd\n有fo就回，请来找我聊天(ifb and dms open)\n该小众文艺b想走近你的世界看一看\nTrying my best to be interesting lest I be jilted.",
+        "id": "1902217890738401281",
+        "name": "Sylwia",
+        "pinned_tweet_id": "2049317915904913746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023853936030216193/teTeCxB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 750,
+          "following_count": 605,
+          "like_count": 283,
+          "listed_count": 3,
+          "media_count": 60,
+          "tweet_count": 1301
+        },
+        "username": "Sylvviiae",
+        "verified": false
+      }
+    ]
+  }
+}

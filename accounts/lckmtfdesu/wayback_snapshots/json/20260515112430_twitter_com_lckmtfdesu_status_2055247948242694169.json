@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "conversation_id": "2054963520748618197",
+    "created_at": "2026-05-15T11:24:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T12:24:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055247948242694169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1566670035560513536",
+          "start": 0,
+          "username": "YoyouDiin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055247948242694169",
+    "in_reply_to_user_id": "1566670035560513536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054963520748618197",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YoyouDiin +1\n一来烧钱\n二来怕痛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2054963520748618197",
+        "created_at": "2026-05-15T11:24:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T12:24:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055247948242694169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1566670035560513536",
+              "start": 0,
+              "username": "YoyouDiin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055247948242694169",
+        "in_reply_to_user_id": "1566670035560513536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054963520748618197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YoyouDiin +1\n一来烧钱\n二来怕痛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1566670035560513536",
+        "conversation_id": "2054963520748618197",
+        "created_at": "2026-05-14T16:34:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T17:34:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054963520748618197"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054963520748618197",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 7543,
+          "like_count": 92,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "话说你们都是想要做手术吗？有没有人跟我一样是不太想做手术的？因为在我看来，当今的医学，做手术等于摧残。而睾丸对我来说，仅仅是它会产生睾酮这一点让我难受（但这个完全可以靠HRT解决）。睾丸本身并不让我难受，尤其是他平时并不表露在外。我的难受主要集中在第二性征。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "transles/白河豚/GAHT2026.3.26/半家长党/出柜2026.4.14/双相II/重度焦虑强迫抑郁/精分/INFP-T/sub/水仙/od割手友善/鉴证退避/福瑞控/arc phi 冰与火 战雷/ 社恐/同类回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aurelia16775",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aurelia16775",
+                "start": 0,
+                "url": "https://t.co/D5Dh6Ua5zJ"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "location": "上海",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2046637992346013995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046424790437920769/xyF71oGn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 537,
+          "following_count": 996,
+          "like_count": 4253,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 1319
+        },
+        "url": "https://t.co/D5Dh6Ua5zJ",
+        "username": "lckmtfdesu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-05T06:10:55.000Z",
+        "description": "2005生|mtf|INFP|性别焦虑9年，弄清自己是mtf1个月|家长不管党|性别烦躁致抑郁发作|抑郁发作导致炸柜|有5年花刀史|od|暂未hrt|坐看流星破天际，巡天遥看一千河",
+        "id": "1566670035560513536",
+        "name": "𝓨𝓸𝔂𝓸𝓾𝓓𝓲𝓲𝓷丁语瑶🏳️‍⚧️💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042932365803294728/R2RqLMcV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 252,
+          "like_count": 323,
+          "listed_count": 2,
+          "media_count": 40,
+          "tweet_count": 364
+        },
+        "username": "YoyouDiin",
+        "verified": false
+      }
+    ]
+  }
+}

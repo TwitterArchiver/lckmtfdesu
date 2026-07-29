@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081657911563169792"
+      ],
+      "media_source_tweet_id": [
+        "2081658144749719978"
+      ]
+    },
+    "author_id": "1827958813603102720",
+    "conversation_id": "2081767349284425731",
+    "created_at": "2026-07-27T15:43:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T16:43:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081767349284425731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2048693394226974720",
+          "start": 3,
+          "username": "CCA8798suki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6sx1dG9VLA",
+          "end": 101,
+          "expanded_url": "https://x.com/CCA8798suki/status/2081658144749719978/photo/1",
+          "media_key": "3_2081657911563169792",
+          "start": 78,
+          "url": "https://t.co/6sx1dG9VLA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081767349284425731",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081658144749719978",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CCA8798suki: 有的人呐，一边说跨性别的社会压力是自找的，一边又在给无辜的跨性别施加社会压力\n\n屏蔽我是因为家里二位出事了经不起我骂是吗 https://t.co/6sx1dG9VLA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 908,
+        "media_key": "3_2081657911563169792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOOI12qasAAN3cA.jpg",
+        "width": 719
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081657911563169792"
+          ]
+        },
+        "author_id": "2048693394226974720",
+        "conversation_id": "2081658144749719978",
+        "created_at": "2026-07-27T08:29:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T09:28:18.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081657919733670202",
+          "2081658144749719978"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6sx1dG9VLA",
+              "end": 84,
+              "expanded_url": "https://x.com/CCA8798suki/status/2081658144749719978/photo/1",
+              "media_key": "3_2081657911563169792",
+              "start": 61,
+              "url": "https://t.co/6sx1dG9VLA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081658144749719978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2193,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "有的人呐，一边说跨性别的社会压力是自找的，一边又在给无辜的跨性别施加社会压力\n\n屏蔽我是因为家里二位出事了经不起我骂是吗 https://t.co/6sx1dG9VLA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081657911563169792"
+          ],
+          "media_source_tweet_id": [
+            "2081658144749719978"
+          ]
+        },
+        "author_id": "1827958813603102720",
+        "conversation_id": "2081767349284425731",
+        "created_at": "2026-07-27T15:43:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T16:43:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081767349284425731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2048693394226974720",
+              "start": 3,
+              "username": "CCA8798suki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6sx1dG9VLA",
+              "end": 101,
+              "expanded_url": "https://x.com/CCA8798suki/status/2081658144749719978/photo/1",
+              "media_key": "3_2081657911563169792",
+              "start": 78,
+              "url": "https://t.co/6sx1dG9VLA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081767349284425731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081658144749719978",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CCA8798suki: 有的人呐，一边说跨性别的社会压力是自找的，一边又在给无辜的跨性别施加社会压力\n\n屏蔽我是因为家里二位出事了经不起我骂是吗 https://t.co/6sx1dG9VLA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "爱我的好姐（杂）姐（鱼）@ogsa1687497\nmtf/hrt2026.3.26/半家长党/福瑞控/arc phi 冰与火 战雷/ 见证退避/查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "ogsa1687497"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/profile.php?id…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/profile.php?id=61590025657067&mibextid=ZbWKwL",
+                "start": 0,
+                "url": "https://t.co/y1Iah85nsp"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "location": "上海",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2078437621102252181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056692984549433344/ErO8uC8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1536,
+          "following_count": 1454,
+          "like_count": 7279,
+          "listed_count": 3,
+          "media_count": 90,
+          "tweet_count": 2772
+        },
+        "url": "https://t.co/y1Iah85nsp",
+        "username": "lckmtfdesu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 小证正规含糖 | 年龄党+半家长党 出柜26.05.05 出厂:壹贰.零壹.零叁 | 166cm/43kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD(Once/Month) | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/XVFvMmA9Qt"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "name": "不会起名の捌拐玖捌🍥(二代目)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1306,
+          "following_count": 1446,
+          "like_count": 7359,
+          "listed_count": 5,
+          "media_count": 115,
+          "tweet_count": 891
+        },
+        "url": "https://t.co/XVFvMmA9Qt",
+        "username": "CCA8798suki",
+        "verified": true
+      }
+    ]
+  }
+}

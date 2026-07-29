@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "conversation_id": "2063444385858273450",
+    "created_at": "2026-06-07T07:54:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T08:54:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063529969138151613"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1761282483834998784",
+          "start": 0,
+          "username": "qiancongxyn"
+        },
+        {
+          "end": 20,
+          "id": "2055095022425722880",
+          "start": 13,
+          "username": "UnkMtX"
+        },
+        {
+          "end": 33,
+          "id": "1942136939735560192",
+          "start": 21,
+          "username": "picxis63594"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063529969138151613",
+    "in_reply_to_user_id": "1761282483834998784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063444385858273450",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiancongxyn @UnkMtX @picxis63594 感觉我妈会是这样……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2063444385858273450",
+        "created_at": "2026-06-07T07:54:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T08:54:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063529969138151613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1761282483834998784",
+              "start": 0,
+              "username": "qiancongxyn"
+            },
+            {
+              "end": 20,
+              "id": "2055095022425722880",
+              "start": 13,
+              "username": "UnkMtX"
+            },
+            {
+              "end": 33,
+              "id": "1942136939735560192",
+              "start": 21,
+              "username": "picxis63594"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063529969138151613",
+        "in_reply_to_user_id": "1761282483834998784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063444385858273450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiancongxyn @UnkMtX @picxis63594 感觉我妈会是这样……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761282483834998784",
+        "conversation_id": "2063444385858273450",
+        "created_at": "2026-06-07T02:14:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T02:56:28.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063439920249843736",
+          "2063444385858273450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 23,
+              "id": "2055095022425722880",
+              "start": 16,
+              "username": "UnkMtX"
+            },
+            {
+              "end": 36,
+              "id": "1942136939735560192",
+              "start": 24,
+              "username": "picxis63594"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063444385858273450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1269,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有多少人是家长表演党的\n就跟我和@UnkMtX、@picxis63594一样\n先表现开明\n然后骗取信任后扭转、送精卫或没收糖的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "mtf/transbian/hrt2026.3.26/家长不管党/伪音学习中/居家修仙/地雷女/鉴证退避/福瑞控/arc phi 冰与火 战雷/ 社恐/超级缺爱/查成分回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/profile.php?id…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/profile.php?id=61590025657067&mibextid=ZbWKwL",
+                "start": 0,
+                "url": "https://t.co/y1Iah85nsp"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "location": "上海",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2062221948189577219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056692984549433344/ErO8uC8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 749,
+          "following_count": 1190,
+          "like_count": 5561,
+          "listed_count": 2,
+          "media_count": 51,
+          "tweet_count": 2095
+        },
+        "url": "https://t.co/y1Iah85nsp",
+        "username": "lckmtfdesu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-24T06:51:06.000Z",
+        "description": "mtf｜🍥 HRT 26.2.21｜无证含糖\n出厂日期 09.3.14\n\n已炸柜｜家暴党｜😭 断糖 26.5.26\n爱哭+发牢骚｜负面帖垃圾桶｜觉得我傻逼就ban\n不阔爱不pass｜缺爱想交朋友\n\n蓝v必回fo｜友好相处｜喜欢我就关注下呗🥺\n危机联系人 @CCA8798suki\n姐姐 @huihui_mikumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 127,
+                "username": "CCA8798suki"
+              },
+              {
+                "end": 157,
+                "start": 143,
+                "username": "huihui_mikumi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/water14008",
+                "end": 23,
+                "expanded_url": "http://ngl.link/water14008",
+                "start": 0,
+                "url": "https://t.co/e8l2h7lQ53"
+              }
+            ]
+          }
+        },
+        "id": "1761282483834998784",
+        "location": "土卫二",
+        "name": "浅葱🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2060573450616664245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057460306365087744/QGhTRD4k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1817,
+          "following_count": 964,
+          "like_count": 2172,
+          "listed_count": 2,
+          "media_count": 115,
+          "tweet_count": 1669
+        },
+        "url": "https://t.co/e8l2h7lQ53",
+        "username": "qiancongxyn",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-15T01:17:01.000Z",
+        "description": "😭暂时被父母强制关精卫了。。。😭\n永远怀念@UnkXyn|MtX?|Hrt🍥01.28.2026，断糖06.06.2026|家长反对党+年龄党|生产日期11.13.2011|暂时无法Od💊|对象@Lvmaosamaovo|159cm50kg|INFP-T，重度社恐|初二牲，休学中|同类互fo喵~",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 21,
+                "username": "UnkXyn"
+              },
+              {
+                "end": 110,
+                "start": 97,
+                "username": "Lvmaosamaovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/unksleep",
+                "end": 23,
+                "expanded_url": "http://ngl.link/unksleep",
+                "start": 0,
+                "url": "https://t.co/dEDjytJyHc"
+              }
+            ]
+          }
+        },
+        "id": "2055095022425722880",
+        "location": "武汉市精神卫生中心(二七院区)",
+        "name": "3.Unk🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060807051815854080/KA8UAH6G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 926,
+          "following_count": 724,
+          "like_count": 1005,
+          "listed_count": 15,
+          "media_count": 28,
+          "tweet_count": 176
+        },
+        "url": "https://t.co/dEDjytJyHc",
+        "username": "UnkMtX",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-07T08:21:59.000Z",
+        "description": "MtF/ADHDer/炒鸡大社恐\n互fo喵  贴贴喵/\n断糖了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/subdronexyn",
+                "end": 23,
+                "expanded_url": "https://ngl.link/subdronexyn",
+                "start": 0,
+                "url": "https://t.co/WeT6TnNIgW"
+              }
+            ]
+          }
+        },
+        "id": "1942136939735560192",
+        "location": "床上",
+        "name": "SubDrone无人机潜水",
+        "pinned_tweet_id": "2062132531491930435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056641418433826816/eoLLRBCa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 318,
+          "like_count": 312,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 247
+        },
+        "url": "https://t.co/WeT6TnNIgW",
+        "username": "picxis63594",
+        "verified": false
+      }
+    ]
+  }
+}

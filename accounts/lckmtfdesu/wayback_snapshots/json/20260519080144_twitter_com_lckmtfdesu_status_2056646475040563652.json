@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "conversation_id": "2056382031169507391",
+    "created_at": "2026-05-19T08:01:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T09:01:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056646475040563652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1146341674282414081",
+          "start": 0,
+          "username": "BruyantProMAX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056646475040563652",
+    "in_reply_to_user_id": "1146341674282414081",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056382031169507391",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BruyantProMAX sodayo（便乘"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056382027881234432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIm8jyZbwAATOZJ.jpg",
+        "width": 926
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2056382031169507391",
+        "created_at": "2026-05-19T08:01:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T09:01:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056646475040563652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1146341674282414081",
+              "start": 0,
+              "username": "BruyantProMAX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056646475040563652",
+        "in_reply_to_user_id": "1146341674282414081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056382031169507391",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BruyantProMAX sodayo（便乘"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056382027881234432"
+          ]
+        },
+        "author_id": "1146341674282414081",
+        "conversation_id": "2056382031169507391",
+        "created_at": "2026-05-18T14:30:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T15:30:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056382031169507391"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fm4M4uOvjt",
+              "end": 35,
+              "expanded_url": "https://x.com/BruyantProMAX/status/2056382031169507391/photo/1",
+              "media_key": "3_2056382027881234432",
+              "start": 12,
+              "url": "https://t.co/Fm4M4uOvjt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056382031169507391",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4602,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我是好学生，不搞这些的 https://t.co/Fm4M4uOvjt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "transbian/hrt2026.3.26/家长不管党/出柜2026.4.14/INFP-T/sub/水仙/od割手友善/鉴证退避/福瑞控/arc phi 冰与火 战雷/ 社恐/超级缺爱/同类回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lckmtfdesu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lckmtfdesu",
+                "start": 0,
+                "url": "https://t.co/qZnowotyMH"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "location": "上海",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2046637992346013995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056639458838245377/KH1IK8RU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 569,
+          "following_count": 1036,
+          "like_count": 4572,
+          "listed_count": 2,
+          "media_count": 33,
+          "tweet_count": 1453
+        },
+        "url": "https://t.co/qZnowotyMH",
+        "username": "lckmtfdesu",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-03T08:55:27.000Z",
+        "description": "🌈🌈🌈家住深圳，山东读研ing。\n目前有了自己第一个崽崽，名叫煊硝！！！第二个崽崽叫玄骁（小声bb）\nENFP\n基本上的主流二游都玩过一会。\n混欧美圈。\nEnglish is OK，粤语能听但不会说。生活区+评论区博主。",
+        "id": "1146341674282414081",
+        "name": "Bruyant🔜墨兽居",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040481536957620224/BZFNtQ8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2621,
+          "following_count": 471,
+          "like_count": 5867,
+          "listed_count": 3,
+          "media_count": 537,
+          "tweet_count": 5723
+        },
+        "username": "BruyantProMAX",
+        "verified": false
+      }
+    ]
+  }
+}

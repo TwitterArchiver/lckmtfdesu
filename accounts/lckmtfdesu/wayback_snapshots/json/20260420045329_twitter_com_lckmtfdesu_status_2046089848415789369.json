@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "conversation_id": "2045850211227189386",
+    "created_at": "2026-04-20T04:53:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T05:53:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046089848415789369"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1347521522701803525",
+          "start": 0,
+          "username": "YuYing0101"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046089848415789369",
+    "in_reply_to_user_id": "1347521522701803525",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046085805459095770",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuYing0101 （抱緊）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2045850211227189386",
+        "created_at": "2026-04-20T04:53:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T05:53:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046089848415789369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1347521522701803525",
+              "start": 0,
+              "username": "YuYing0101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046089848415789369",
+        "in_reply_to_user_id": "1347521522701803525",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046085805459095770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuYing0101 （抱緊）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1347521522701803525",
+        "conversation_id": "2045850211227189386",
+        "created_at": "2026-04-20T04:37:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T05:37:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046085805459095770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1827958813603102720",
+              "start": 0,
+              "username": "lckmtfdesu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046085805459095770",
+        "in_reply_to_user_id": "1827958813603102720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045850211227189386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lckmtfdesu 5，困困喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "mtf/HRT2026.3.26/半家长党/出柜2026.4.14/双相II/重度焦虑强迫抑郁/精分/INFP-T/od割手友善/鉴证退避/福瑞控/社恐/同类回fo/可疑直接b",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aurelia16775",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aurelia16775",
+                "start": 0,
+                "url": "https://t.co/D5Dh6Ua5zJ"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "location": "上海",
+        "name": "丛雨丛雨丛？🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032774748237869062/3VRs-T0m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 855,
+          "like_count": 3480,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 970
+        },
+        "url": "https://t.co/D5Dh6Ua5zJ",
+        "username": "lckmtfdesu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-08T12:32:32.000Z",
+        "description": "药娘 🍥/16岁🍥/高中生🍥/私信看心情回，😎图片高P （虚伪的网络还不如整好看点)",
+        "id": "1347521522701803525",
+        "location": "不告诉你哦",
+        "name": "钰莹酱🎀",
+        "pinned_tweet_id": "2002408751744053556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940089222909603840/4VrR3egd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 262,
+          "like_count": 95,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 124
+        },
+        "username": "YuYing0101",
+        "verified": false
+      }
+    ]
+  }
+}

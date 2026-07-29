@@ -1,0 +1,127 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "conversation_id": "2075834125219696826",
+    "created_at": "2026-07-11T06:46:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T07:46:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075834125219696826"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2075834125219696826",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "离开你才知道喵，原来项圈是给宠物用的，狗链子是用来栓狗的，原来绳子用来绑人是犯法的，原来皮鞭是可以用来赶羊的，围裙底下是要穿衣服的，浴室是用来清理身体的，洗澡是为了保持身体干净的，洗了一遍之后是不需要再洗第二遍第三遍的，洗澡是可以一个人洗的，床是卧室是用来休息的，厨房是用来做饭的，胡萝卜我是可以吃的，床是用来睡觉的，床单被子是不需要到半夜就换一床的，床前是不用安装摄像机的，电视是可以播放节目的，电视里也可以有其它人的，沙发是用来坐的，我在夜里是可以睡觉的，白天和黑夜是不一样的，回到房间是不需要脱衣服的，手机有消息是不需要1分钟之内报备的，手机是可以有其他联系人的，我也是可以和其他人说话的喵"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "离开你才知道喵，原来项圈是给宠物用的，狗链子是用来栓狗的，原来绳子用来绑人是犯法的，原来皮鞭是可以用来赶羊的，围裙底下是要穿衣服的，浴室是用来清理身体的，洗澡是为了保持身体干净的，洗了一遍之后是不需要再洗第二遍第三遍的，洗澡是可以一个人洗的，床是卧室是用来休息的，厨房是用来做饭的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2075834125219696826",
+        "created_at": "2026-07-11T06:46:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T07:46:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075834125219696826"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075834125219696826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "离开你才知道喵，原来项圈是给宠物用的，狗链子是用来栓狗的，原来绳子用来绑人是犯法的，原来皮鞭是可以用来赶羊的，围裙底下是要穿衣服的，浴室是用来清理身体的，洗澡是为了保持身体干净的，洗了一遍之后是不需要再洗第二遍第三遍的，洗澡是可以一个人洗的，床是卧室是用来休息的，厨房是用来做饭的，胡萝卜我是可以吃的，床是用来睡觉的，床单被子是不需要到半夜就换一床的，床前是不用安装摄像机的，电视是可以播放节目的，电视里也可以有其它人的，沙发是用来坐的，我在夜里是可以睡觉的，白天和黑夜是不一样的，回到房间是不需要脱衣服的，手机有消息是不需要1分钟之内报备的，手机是可以有其他联系人的，我也是可以和其他人说话的喵"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "离开你才知道喵，原来项圈是给宠物用的，狗链子是用来栓狗的，原来绳子用来绑人是犯法的，原来皮鞭是可以用来赶羊的，围裙底下是要穿衣服的，浴室是用来清理身体的，洗澡是为了保持身体干净的，洗了一遍之后是不需要再洗第二遍第三遍的，洗澡是可以一个人洗的，床是卧室是用来休息的，厨房是用来做饭的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "mtf/transbian/hrt2026.3.26/半家长党/伪音学习中/居家修仙/地雷女/福瑞控/arc phi 冰与火 战雷/ 社恐/超级缺爱/查成分回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/profile.php?id…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/profile.php?id=61590025657067&mibextid=ZbWKwL",
+                "start": 0,
+                "url": "https://t.co/y1Iah85nsp"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "location": "上海",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2070114836760117561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056692984549433344/ErO8uC8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1336,
+          "following_count": 1398,
+          "like_count": 6885,
+          "listed_count": 3,
+          "media_count": 75,
+          "tweet_count": 2521
+        },
+        "url": "https://t.co/y1Iah85nsp",
+        "username": "lckmtfdesu",
+        "verified": true
+      }
+    ]
+  }
+}

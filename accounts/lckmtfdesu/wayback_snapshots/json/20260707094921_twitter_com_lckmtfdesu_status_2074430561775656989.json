@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "conversation_id": "2074392227284230301",
+    "created_at": "2026-07-07T09:49:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T10:49:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074430561775656989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1831712966150148097",
+          "start": 0,
+          "username": "zhangyv_ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074430561775656989",
+    "in_reply_to_user_id": "1831712966150148097",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074392227284230301",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhangyv_ovo 感觉是大清洗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2656,
+        "media_key": "3_2074392219784740864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMm4u7kagAABAiB.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2074392227284230301",
+        "created_at": "2026-07-07T09:49:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T10:49:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074430561775656989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1831712966150148097",
+              "start": 0,
+              "username": "zhangyv_ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074430561775656989",
+        "in_reply_to_user_id": "1831712966150148097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074392227284230301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhangyv_ovo 感觉是大清洗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074392219784740864"
+          ]
+        },
+        "author_id": "1831712966150148097",
+        "conversation_id": "2074392227284230301",
+        "created_at": "2026-07-07T07:17:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T08:16:45.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074392156442431792",
+          "2074392227284230301"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JSEYswaSei",
+              "end": 25,
+              "expanded_url": "https://x.com/zhangyv_ovo/status/2074392227284230301/photo/1",
+              "media_key": "3_2074392219784740864",
+              "start": 2,
+              "url": "https://t.co/JSEYswaSei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074392227284230301",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 347,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/JSEYswaSei"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "mtf/transbian/hrt2026.3.26/半家长党/伪音学习中/居家修仙/地雷女/福瑞控/arc phi 冰与火 战雷/ 社恐/超级缺爱/查成分回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/profile.php?id…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/profile.php?id=61590025657067&mibextid=ZbWKwL",
+                "start": 0,
+                "url": "https://t.co/y1Iah85nsp"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "location": "上海",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2070114836760117561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056692984549433344/ErO8uC8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1315,
+          "following_count": 1391,
+          "like_count": 6744,
+          "listed_count": 3,
+          "media_count": 69,
+          "tweet_count": 2468
+        },
+        "url": "https://t.co/y1Iah85nsp",
+        "username": "lckmtfdesu",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-05T15:16:26.000Z",
+        "description": "生日10.4.4/170/52kg/可以跟咱聊天\n缺爱/烤批/年上/🏳️‍⚧️2024.12.30/🚪9.9\n渴望与别人抱抱/目前精神还算稳定？...",
+        "id": "1831712966150148097",
+        "location": "Kawasaki-shi Tama-ku, Kanagawa",
+        "name": "章鱼小丸子🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2066486967051915408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019977478996099073/afO_rdl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1061,
+          "following_count": 118,
+          "like_count": 475,
+          "listed_count": 2,
+          "media_count": 130,
+          "tweet_count": 568
+        },
+        "url": "",
+        "username": "zhangyv_ovo",
+        "verified": true
+      }
+    ]
+  }
+}

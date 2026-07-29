@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "conversation_id": "2057402748094873834",
+    "created_at": "2026-05-21T13:02:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T14:02:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057446822608765158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1685020816369659904",
+          "start": 0,
+          "username": "soulmate078078"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057446822608765158",
+    "in_reply_to_user_id": "1685020816369659904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057402748094873834",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@soulmate078078 抱抱你。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2057402748094873834",
+        "created_at": "2026-05-21T13:02:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T14:02:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057446822608765158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1685020816369659904",
+              "start": 0,
+              "username": "soulmate078078"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057446822608765158",
+        "in_reply_to_user_id": "1685020816369659904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057402748094873834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@soulmate078078 抱抱你。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685020816369659904",
+        "conversation_id": "2057402748094873834",
+        "created_at": "2026-05-21T10:06:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T11:06:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057402748094873834"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057402748094873834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不想去男厕，不敢去女厕，这就是我目前的状态！😔😔\n我这里小县城第三卫生间都没有，就算有，也是当杂物间不给开放的那种\n我本身天残党，嗓音粗，年龄也算高龄了，至今一事无成\n想尽快SRS改证，可是我是究极家暴党，现连个小证都没得\n好羡慕家长党和天赋党\n\n为什么我不是顺女😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "transbian/hrt2026.3.26/家长不管党/出柜2026.4.14/伪音学习中/居家修仙/高二/地雷女/INFP-T/sub/水仙/od割手友善/鉴证退避/福瑞控/arc phi 冰与火 战雷/ 社恐/超级缺爱/同类回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/profile.php?id…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/profile.php?id=61590025657067&mibextid=ZbWKwL",
+                "start": 0,
+                "url": "https://t.co/y1Iah85nsp"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "location": "上海",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2057351801759043673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056692984549433344/ErO8uC8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 620,
+          "following_count": 1077,
+          "like_count": 4958,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 1657
+        },
+        "url": "https://t.co/y1Iah85nsp",
+        "username": "lckmtfdesu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-28T20:14:44.000Z",
+        "description": "感谢你找到我的页面，让我的世界少一点点孤独😊😊\n23岁大龄mtf/HRT2026/3/1\n天残党/家暴党/已出柜/\nLGBTQ群体/同类互fo",
+        "id": "1685020816369659904",
+        "name": "张汐瑶🏳️‍⚧🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911977940620824576/Q9sX0RL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 77,
+          "like_count": 64,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 161
+        },
+        "username": "soulmate078078",
+        "verified": false
+      }
+    ]
+  }
+}

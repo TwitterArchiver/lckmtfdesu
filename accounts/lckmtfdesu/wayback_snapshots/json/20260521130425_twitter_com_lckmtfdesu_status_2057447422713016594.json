@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "conversation_id": "2057253608081817923",
+    "created_at": "2026-05-21T13:04:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T14:04:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057447422713016594"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1823767079285350406",
+          "start": 0,
+          "username": "Faomocat"
+        },
+        {
+          "end": 22,
+          "id": "2038192732028469248",
+          "start": 10,
+          "username": "itsLurenYEE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057447422713016594",
+    "in_reply_to_user_id": "1823767079285350406",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057387942621204483",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Faomocat @itsLurenYEE 我就这么对我历史老师"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2057253608081817923",
+        "created_at": "2026-05-21T13:04:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T14:04:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057447422713016594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1823767079285350406",
+              "start": 0,
+              "username": "Faomocat"
+            },
+            {
+              "end": 22,
+              "id": "2038192732028469248",
+              "start": 10,
+              "username": "itsLurenYEE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057447422713016594",
+        "in_reply_to_user_id": "1823767079285350406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057387942621204483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Faomocat @itsLurenYEE 我就这么对我历史老师"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1823767079285350406",
+        "conversation_id": "2057253608081817923",
+        "created_at": "2026-05-21T09:08:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T10:08:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057387942621204483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2038192732028469248",
+              "start": 0,
+              "username": "itsLurenYEE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057387942621204483",
+        "in_reply_to_user_id": "2038192732028469248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057387366437048616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsLurenYEE 和我一个同学一样了，他成绩第一天天睡觉我老师想阴阳他都不行🤓👍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "transbian/hrt2026.3.26/家长不管党/出柜2026.4.14/伪音学习中/居家修仙/高二/地雷女/INFP-T/sub/水仙/od割手友善/鉴证退避/福瑞控/arc phi 冰与火 战雷/ 社恐/超级缺爱/同类回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/profile.php?id…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/profile.php?id=61590025657067&mibextid=ZbWKwL",
+                "start": 0,
+                "url": "https://t.co/y1Iah85nsp"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "location": "上海",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2057351801759043673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056692984549433344/ErO8uC8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 620,
+          "following_count": 1077,
+          "like_count": 4962,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 1658
+        },
+        "url": "https://t.co/y1Iah85nsp",
+        "username": "lckmtfdesu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-14T17:02:42.000Z",
+        "description": "MTF 高三牲 物化地 备战高考ing 数学+物理求130 目前无钱买糖 172/62 2008/12/10出厂 半炸柜 求赞 同类互fo",
+        "id": "1823767079285350406",
+        "name": "寒月喵🍥🏳️‍⚧️~",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053542630076866561/9rlS9Jmt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 188,
+          "like_count": 1383,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 213
+        },
+        "username": "Faomocat",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-29T09:54:16.000Z",
+        "description": "我可能不是你们重要的人\n也可能不是对你们来说难忘的人\n但是我可以扮演好我的角色——\n一个在互联网上，不被任何人所记住、你们生命中的一位过客\n一位平凡到不能再平凡的、称职的路人\n小号 @itsSubLurenYEE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 91,
+                "username": "itsSubLurenYEE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/34932804403882…",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/3493280440388247",
+                "start": 0,
+                "url": "https://t.co/rq8KK2dKQ2"
+              }
+            ]
+          }
+        },
+        "id": "2038192732028469248",
+        "name": "路人YEE🏳️‍⚧️🍥💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057135171502235654/vtbinNsG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 21,
+          "like_count": 261,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 40
+        },
+        "url": "https://t.co/rq8KK2dKQ2",
+        "username": "itsLurenYEE",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "conversation_id": "2055966895342543088",
+    "created_at": "2026-05-18T17:17:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T18:17:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056423985244770475"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2042929508785737728",
+          "start": 0,
+          "username": "CarlJohnso9178"
+        },
+        {
+          "end": 23,
+          "id": "1286241253621817344",
+          "start": 16,
+          "username": "CldGeo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056423985244770475",
+    "in_reply_to_user_id": "2042929508785737728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056215057663438994",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CarlJohnso9178 @CldGeo md在这还有雷劈我真绷不住"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 353,
+        "media_key": "3_2056215017997914112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIkkqiGW0AAFQoz.jpg",
+        "width": 593
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2055966895342543088",
+        "created_at": "2026-05-18T17:17:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T18:17:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056423985244770475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2042929508785737728",
+              "start": 0,
+              "username": "CarlJohnso9178"
+            },
+            {
+              "end": 23,
+              "id": "1286241253621817344",
+              "start": 16,
+              "username": "CldGeo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056423985244770475",
+        "in_reply_to_user_id": "2042929508785737728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056215057663438994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CarlJohnso9178 @CldGeo md在这还有雷劈我真绷不住"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056215017997914112"
+          ]
+        },
+        "author_id": "2042929508785737728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2055966895342543088",
+        "created_at": "2026-05-18T03:27:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T04:27:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056215057663438994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1286241253621817344",
+              "start": 0,
+              "username": "CldGeo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rJIBsaDGI0",
+              "end": 40,
+              "expanded_url": "https://x.com/CarlJohnso9178/status/2056215057663438994/photo/1",
+              "media_key": "3_2056215017997914112",
+              "start": 17,
+              "url": "https://t.co/rJIBsaDGI0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056215057663438994",
+        "in_reply_to_user_id": "1286241253621817344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7707,
+          "like_count": 67,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055966895342543088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CldGeo 我也是法轮的一员 https://t.co/rJIBsaDGI0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "transbian/hrt2026.3.26/家长不管党/出柜2026.4.14/INFP-T/sub/水仙/od割手友善/鉴证退避/福瑞控/arc phi 冰与火 战雷/ 社恐/超级缺爱/同类回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aurelia16775",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aurelia16775",
+                "start": 0,
+                "url": "https://t.co/D5Dh6Ua5zJ"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "location": "上海",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2046637992346013995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046424790437920769/xyF71oGn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 558,
+          "following_count": 1025,
+          "like_count": 4503,
+          "listed_count": 2,
+          "media_count": 29,
+          "tweet_count": 1415
+        },
+        "url": "https://t.co/D5Dh6Ua5zJ",
+        "username": "lckmtfdesu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-11T11:36:12.000Z",
+        "description": "卡尔约翰逊！来自中国的普通青年！半个军迷，爱打游戏，爱户外探险，经常熬夜，尤其喜欢《よふかしのうた》！\n“无论何时何地，记得珍惜每一天”",
+        "id": "2042929508785737728",
+        "location": "哈尔滨",
+        "name": "烟花",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054448572565725184/3NaS81G2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 17,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 15
+        },
+        "username": "CarlJohnso9178",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-23T10:06:45.000Z",
+        "description": "見つめていた世界を 横で見たいって思う\n@Cldeop / @YunJiu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 20,
+                "username": "Cldeop"
+              },
+              {
+                "end": 37,
+                "start": 30,
+                "username": "YunJiu"
+              }
+            ]
+          }
+        },
+        "id": "1286241253621817344",
+        "location": "「絶え間ない光」が降り注ぐ",
+        "name": "九鸟",
+        "pinned_tweet_id": "2042878348440015045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937922553181573124/5BJVMBBg_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4394,
+          "following_count": 360,
+          "like_count": 4361,
+          "listed_count": 6,
+          "media_count": 477,
+          "tweet_count": 1862
+        },
+        "username": "CldGeo",
+        "verified": true
+      }
+    ]
+  }
+}

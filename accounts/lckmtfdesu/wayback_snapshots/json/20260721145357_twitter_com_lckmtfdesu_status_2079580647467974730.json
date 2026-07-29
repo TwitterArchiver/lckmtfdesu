@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "conversation_id": "2079580647467974730",
+    "created_at": "2026-07-21T14:53:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T15:53:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079580647467974730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1851416603990405120",
+          "start": 3,
+          "username": "ogsa1687497"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079580647467974730",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079212403087262094",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ogsa1687497: 是的，我们这是立场鲜明的防御性姿态，没有攻击任何群体。但我随时准备迎接其他更加激烈的战斗，因为我明白他们所说的话语毫无任何意义，甚至是充满攻击性，敌对性的，这让人感到无法理解以及不可思议。我在此鲜明的表达我的政治立场，以充足的战斗姿态去应对他们…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2079580647467974730",
+        "created_at": "2026-07-21T14:53:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T15:53:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079580647467974730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1851416603990405120",
+              "start": 3,
+              "username": "ogsa1687497"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079580647467974730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079212403087262094",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ogsa1687497: 是的，我们这是立场鲜明的防御性姿态，没有攻击任何群体。但我随时准备迎接其他更加激烈的战斗，因为我明白他们所说的话语毫无任何意义，甚至是充满攻击性，敌对性的，这让人感到无法理解以及不可思议。我在此鲜明的表达我的政治立场，以充足的战斗姿态去应对他们…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851416603990405120",
+        "conversation_id": "2079212403087262094",
+        "created_at": "2026-07-20T14:30:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T15:30:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079212403087262094"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AacerF59616/st…",
+              "end": 161,
+              "expanded_url": "https://twitter.com/AacerF59616/status/2079196770496827659",
+              "start": 138,
+              "url": "https://t.co/96aWPDpRVF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079212403087262094",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 91,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079196770496827659",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是的，我们这是立场鲜明的防御性姿态，没有攻击任何群体。但我随时准备迎接其他更加激烈的战斗，因为我明白他们所说的话语毫无任何意义，甚至是充满攻击性，敌对性的，这让人感到无法理解以及不可思议。我在此鲜明的表达我的政治立场，以充足的战斗姿态去应对他们，如果他们想来，那随时可以来。 https://t.co/96aWPDpRVF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "好姐（杂）姐（鱼）@ogsa1687497\nmtf/hrt2026.3.26/半家长党/福瑞控/arc phi 冰与火 战雷/ 见证退避/查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "ogsa1687497"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/profile.php?id…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/profile.php?id=61590025657067&mibextid=ZbWKwL",
+                "start": 0,
+                "url": "https://t.co/y1Iah85nsp"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "location": "上海",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2078437621102252181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056692984549433344/ErO8uC8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1423,
+          "following_count": 1442,
+          "like_count": 7171,
+          "listed_count": 3,
+          "media_count": 87,
+          "tweet_count": 2699
+        },
+        "url": "https://t.co/y1Iah85nsp",
+        "username": "lckmtfdesu",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-30T00:11:41.000Z",
+        "description": "嗯……不开心☹️",
+        "id": "1851416603990405120",
+        "location": "Hong Kong",
+        "name": "青菜猫🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2079352835058323486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073411023261016064/sFFv5oDx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 316,
+          "like_count": 401,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 446
+        },
+        "url": "",
+        "username": "ogsa1687497",
+        "verified": false
+      }
+    ]
+  }
+}

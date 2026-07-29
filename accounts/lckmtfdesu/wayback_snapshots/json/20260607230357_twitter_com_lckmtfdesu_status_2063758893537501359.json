@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "conversation_id": "2063758893537501359",
+    "created_at": "2026-06-07T23:03:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T00:03:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063758893537501359"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1807044386104238080",
+          "start": 3,
+          "username": "cishenfeiwoyou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063758893537501359",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063709445314785563",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cishenfeiwoyou: 我把盐丢掉了…\n决定积极面对人生…努力去争取我想要的生活…\n就算精神很差劲但我无论如何都不想放弃自己啊…\n谢谢姐姐一直关心陪伴我，让我从阴影里慢慢走出来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2063758893537501359",
+        "created_at": "2026-06-07T23:03:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T00:03:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063758893537501359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1807044386104238080",
+              "start": 3,
+              "username": "cishenfeiwoyou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063758893537501359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063709445314785563",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cishenfeiwoyou: 我把盐丢掉了…\n决定积极面对人生…努力去争取我想要的生活…\n就算精神很差劲但我无论如何都不想放弃自己啊…\n谢谢姐姐一直关心陪伴我，让我从阴影里慢慢走出来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807044386104238080",
+        "conversation_id": "2063709445314785563",
+        "created_at": "2026-06-07T19:47:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T20:47:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063709445314785563"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063709445314785563",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 94,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我把盐丢掉了…\n决定积极面对人生…努力去争取我想要的生活…\n就算精神很差劲但我无论如何都不想放弃自己啊…\n谢谢姐姐一直关心陪伴我，让我从阴影里慢慢走出来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Oberwart, Burgenland, Austria",
+              "geo": {
+                "coordinates": [
+                  16.20595,
+                  47.28971
+                ],
+                "type": "Point"
+              },
+              "locality": "Oberwart",
+              "region": "Burgenland",
+              "sub_region": "Politischer Bezirk Oberwart"
+            }
+          ]
+        },
+        "description": "mtf/transbian/hrt2026.3.26/家长不管党/伪音学习中/居家修仙/地雷女/鉴证退避/福瑞控/arc phi 冰与火 战雷/ 社恐/超级缺爱/查成分回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/profile.php?id…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/profile.php?id=61590025657067&mibextid=ZbWKwL",
+                "start": 0,
+                "url": "https://t.co/y1Iah85nsp"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "location": "上海",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2062221948189577219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056692984549433344/ErO8uC8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 767,
+          "following_count": 1205,
+          "like_count": 5722,
+          "listed_count": 2,
+          "media_count": 51,
+          "tweet_count": 2136
+        },
+        "url": "https://t.co/y1Iah85nsp",
+        "username": "lckmtfdesu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T13:32:32.000Z",
+        "description": "MTF🏳️‍⚧️Ⅰ同类贴贴，关注必回Ⅰ☯东方厨Ⅰ爱听摇滚\n\n妹妹@fufumiaoQxQ_\n姐姐@xinxin9277",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 32,
+                "username": "fufumiaoQxQ_"
+              },
+              {
+                "end": 59,
+                "start": 48,
+                "username": "xinxin9277"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/chat/group_join/g2057509897865236830/Tl6ZU7qDhP",
+                "start": 0,
+                "url": "https://t.co/QLZP6F4RRJ"
+              }
+            ]
+          }
+        },
+        "id": "1807044386104238080",
+        "location": "幻想乡",
+        "name": "小夜🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984705942404153347/0SVgBT98_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1002,
+          "following_count": 862,
+          "like_count": 795,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 372
+        },
+        "url": "https://t.co/QLZP6F4RRJ",
+        "username": "cishenfeiwoyou",
+        "verified": true
+      }
+    ]
+  }
+}

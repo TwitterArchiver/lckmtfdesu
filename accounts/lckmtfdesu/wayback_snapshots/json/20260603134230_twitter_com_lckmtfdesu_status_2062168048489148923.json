@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "conversation_id": "2061726260624331013",
+    "created_at": "2026-06-03T13:42:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T14:42:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062168048489148923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1812363069487742976",
+          "start": 0,
+          "username": "mingji_A"
+        },
+        {
+          "end": 23,
+          "id": "1486712838156525582",
+          "start": 10,
+          "username": "KmKm20030731"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062168048489148923",
+    "in_reply_to_user_id": "1812363069487742976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061726260624331013",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mingji_A @KmKm20030731 手摸哪呢x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3952,
+        "media_key": "3_2061454382173229056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJvB1qobkAAwNtB.jpg",
+        "width": 2336
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2061726260624331013",
+        "created_at": "2026-06-03T13:42:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T14:42:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062168048489148923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1812363069487742976",
+              "start": 0,
+              "username": "mingji_A"
+            },
+            {
+              "end": 23,
+              "id": "1486712838156525582",
+              "start": 10,
+              "username": "KmKm20030731"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062168048489148923",
+        "in_reply_to_user_id": "1812363069487742976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061726260624331013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mingji_A @KmKm20030731 手摸哪呢x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061454382173229056"
+          ]
+        },
+        "author_id": "1812363069487742976",
+        "conversation_id": "2061726260624331013",
+        "created_at": "2026-06-02T08:27:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T09:27:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061726260624331013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 54,
+              "id": "1486712838156525582",
+              "start": 41,
+              "username": "KmKm20030731"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gCe8QWEmh1",
+              "end": 78,
+              "expanded_url": "https://x.com/mingji_A/status/2061726260624331013/photo/1",
+              "media_key": "3_2061454382173229056",
+              "start": 55,
+              "url": "https://t.co/gCe8QWEmh1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061726260624331013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 6085,
+          "like_count": 269,
+          "quote_count": 0,
+          "reply_count": 84,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我们是受过专业训练的\n不管遇到跳蛋开多大档\n我们是不会去了的\n除非忍不住😇\n\n右：@KmKm20030731 https://t.co/gCe8QWEmh1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "mtf/transbian/hrt2026.3.26/家长不管党/伪音学习中/居家修仙/地雷女/鉴证退避/福瑞控/arc phi 冰与火 战雷/ 社恐/超级缺爱/查成分回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/profile.php?id…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/profile.php?id=61590025657067&mibextid=ZbWKwL",
+                "start": 0,
+                "url": "https://t.co/y1Iah85nsp"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "location": "上海",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2061060958966206751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056692984549433344/ErO8uC8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 698,
+          "following_count": 1159,
+          "like_count": 5378,
+          "listed_count": 2,
+          "media_count": 47,
+          "tweet_count": 1993
+        },
+        "url": "https://t.co/y1Iah85nsp",
+        "username": "lckmtfdesu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T05:46:53.000Z",
+        "description": "但愿我是美好，也能赠你美好",
+        "id": "1812363069487742976",
+        "location": "广州",
+        "name": "銘紀Å",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008927021653757952/qD2IxV8A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4407,
+          "following_count": 2590,
+          "like_count": 95136,
+          "listed_count": 24,
+          "media_count": 214,
+          "tweet_count": 21504
+        },
+        "username": "mingji_A",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-27T14:49:07.000Z",
+        "description": "一名女装大佬，想看看更大的世界\n女装只是兴趣爱好，性取向正常\n平时男装，有约才会进行女装",
+        "id": "1486712838156525582",
+        "location": "佛山",
+        "name": "OKKKKKKK",
+        "pinned_tweet_id": "1904420905109139760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1514093303507333120/lhTjd4JT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1088,
+          "following_count": 168,
+          "like_count": 350,
+          "listed_count": 7,
+          "media_count": 89,
+          "tweet_count": 277
+        },
+        "username": "KmKm20030731",
+        "verified": false
+      }
+    ]
+  }
+}

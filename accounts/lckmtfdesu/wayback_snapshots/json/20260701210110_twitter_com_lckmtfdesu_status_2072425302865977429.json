@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "conversation_id": "2072206956488765522",
+    "created_at": "2026-07-01T21:01:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T22:01:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072425302865977429"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1363090571397451778",
+          "start": 0,
+          "username": "MinusZeroQwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072425302865977429",
+    "in_reply_to_user_id": "1363090571397451778",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072206956488765522",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MinusZeroQwQ 群里的我be like:"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 356,
+        "media_key": "3_2072206954299363328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMH1PvQbkAAl__C.jpg",
+        "width": 886
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2072206956488765522",
+        "created_at": "2026-07-01T21:01:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T22:01:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072425302865977429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1363090571397451778",
+              "start": 0,
+              "username": "MinusZeroQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072425302865977429",
+        "in_reply_to_user_id": "1363090571397451778",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072206956488765522",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MinusZeroQwQ 群里的我be like:"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072206954299363328"
+          ]
+        },
+        "author_id": "1363090571397451778",
+        "conversation_id": "2072206956488765522",
+        "created_at": "2026-07-01T06:33:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T07:33:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072206956488765522"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z64uVH0Ob3",
+              "end": 23,
+              "expanded_url": "https://x.com/MinusZeroQwQ/status/2072206956488765522/photo/1",
+              "media_key": "3_2072206954299363328",
+              "start": 0,
+              "url": "https://t.co/Z64uVH0Ob3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072206956488765522",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 565,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Z64uVH0Ob3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "mtf/transbian/hrt2026.3.26/半家长党/伪音学习中/居家修仙/地雷女/福瑞控/arc phi 冰与火 战雷/ 社恐/超级缺爱/查成分回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/profile.php?id…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/profile.php?id=61590025657067&mibextid=ZbWKwL",
+                "start": 0,
+                "url": "https://t.co/y1Iah85nsp"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "location": "上海",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2070114836760117561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056692984549433344/ErO8uC8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 987,
+          "following_count": 1338,
+          "like_count": 6479,
+          "listed_count": 3,
+          "media_count": 59,
+          "tweet_count": 2342
+        },
+        "url": "https://t.co/y1Iah85nsp",
+        "username": "lckmtfdesu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-20T11:38:20.000Z",
+        "description": "不喜欢欢喜过后的失望,所以有些时候宁愿孤独,关上那扇窗。\n| 04MTX🏳️‍⚧️ | 搞中文vocaloid的 | 一般路过阴暗b | 可能会有NSFW? | 大概偶尔会发一些业余无线电，以及请不要因为无线电关注我 | 如果你认出来我的其他平台账号也请保密哦 | 提问箱↓|\n@WSGM233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 147,
+                "start": 139,
+                "username": "WSGM233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "peing.net/zh-CN/yuluoxk",
+                "end": 23,
+                "expanded_url": "https://peing.net/zh-CN/yuluoxk",
+                "start": 0,
+                "url": "https://t.co/2LFYD0LcTo"
+              }
+            ]
+          }
+        },
+        "id": "1363090571397451778",
+        "name": "Yuluoxk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063082928545185792/F8UWRhvV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 340,
+          "like_count": 12010,
+          "listed_count": 0,
+          "media_count": 370,
+          "tweet_count": 1378
+        },
+        "url": "https://t.co/2LFYD0LcTo",
+        "username": "MinusZeroQwQ",
+        "verified": false
+      }
+    ]
+  }
+}
