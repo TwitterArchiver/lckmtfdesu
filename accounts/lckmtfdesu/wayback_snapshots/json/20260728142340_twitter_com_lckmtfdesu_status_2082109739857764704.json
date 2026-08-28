@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "conversation_id": "2082109739857764704",
+    "created_at": "2026-07-28T14:23:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T15:23:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082109739857764704"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1851416603990405120",
+          "start": 4,
+          "username": "ogsa1687497"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/ogsa1687497/st…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/ogsa1687497/status/2082109157331890425",
+          "start": 17,
+          "url": "https://t.co/XDZ86mOuQy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082109739857764704",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082109157331890425",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "嘿嘿爱你@ogsa1687497 https://t.co/XDZ86mOuQy"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2082109739857764704",
+        "created_at": "2026-07-28T14:23:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T15:23:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082109739857764704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1851416603990405120",
+              "start": 4,
+              "username": "ogsa1687497"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/ogsa1687497/st…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/ogsa1687497/status/2082109157331890425",
+              "start": 17,
+              "url": "https://t.co/XDZ86mOuQy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082109739857764704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082109157331890425",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嘿嘿爱你@ogsa1687497 https://t.co/XDZ86mOuQy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851416603990405120",
+        "conversation_id": "2082109157331890425",
+        "created_at": "2026-07-28T14:21:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T15:21:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082109157331890425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1827958813603102720",
+              "start": 4,
+              "username": "lckmtfdesu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/LuoLuo_Miki/st…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/LuoLuo_Miki/status/2081814690842460346",
+              "start": 16,
+              "url": "https://t.co/Km6e24W1Sm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082109157331890425",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081814690842460346",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嘿嘿爱你@lckmtfdesu https://t.co/Km6e24W1Sm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "爱我的好姐（杂）姐（鱼）@ogsa1687497\nmtf/hrt2026.3.26/半家长党/福瑞控/arc phi 冰与火 战雷/ 见证退避/查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "ogsa1687497"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/profile.php?id…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/profile.php?id=61590025657067&mibextid=ZbWKwL",
+                "start": 0,
+                "url": "https://t.co/y1Iah85nsp"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "location": "上海",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2078437621102252181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056692984549433344/ErO8uC8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1536,
+          "following_count": 1460,
+          "like_count": 7302,
+          "listed_count": 3,
+          "media_count": 93,
+          "tweet_count": 2784
+        },
+        "url": "https://t.co/y1Iah85nsp",
+        "username": "lckmtfdesu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-30T00:11:41.000Z",
+        "description": "咱愿意永远支持你无论你变成什么样，同样的错误不会再犯两次。宇宙那么大……至少人类的生命相对于是很短暂的，这样的话，一辈子不难的吧？咱爱你，咱的唯一……\n好妹妹兼爱人@lckmtfdesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 82,
+                "username": "lckmtfdesu"
+              }
+            ]
+          }
+        },
+        "id": "1851416603990405120",
+        "location": "Hong Kong",
+        "name": "青菜猫🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073411023261016064/sFFv5oDx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 589,
+          "following_count": 327,
+          "like_count": 672,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 531
+        },
+        "url": "",
+        "username": "ogsa1687497",
+        "verified": false
+      }
+    ]
+  }
+}

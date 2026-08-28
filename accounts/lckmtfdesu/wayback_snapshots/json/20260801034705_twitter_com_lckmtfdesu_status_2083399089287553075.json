@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "conversation_id": "2083239659203874852",
+    "created_at": "2026-08-01T03:47:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T04:47:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083399089287553075"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1852948864539791360",
+          "start": 0,
+          "username": "Z7862947460634"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083399089287553075",
+    "in_reply_to_user_id": "1852948864539791360",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083323513960903076",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Z7862947460634 （笑）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2083239659203874852",
+        "created_at": "2026-08-01T03:47:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T04:47:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083399089287553075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1852948864539791360",
+              "start": 0,
+              "username": "Z7862947460634"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083399089287553075",
+        "in_reply_to_user_id": "1852948864539791360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083323513960903076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Z7862947460634 （笑）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852948864539791360",
+        "conversation_id": "2083239659203874852",
+        "created_at": "2026-07-31T22:46:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T23:46:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083323513960903076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1827958813603102720",
+              "start": 0,
+              "username": "lckmtfdesu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083323513960903076",
+        "in_reply_to_user_id": "1827958813603102720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 238,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083239659203874852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lckmtfdesu 毕竟是龙，没点实力那还不如叫色普虫。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "爱我的好姐（杂）姐（鱼）@ogsa1687497\nmtf/hrt2026.3.26/半家长党/福瑞控/arc phi 冰与火 战雷/ 见证退避/查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "ogsa1687497"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/profile.php?id…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/profile.php?id=61590025657067&mibextid=ZbWKwL",
+                "start": 0,
+                "url": "https://t.co/y1Iah85nsp"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "location": "上海",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2078437621102252181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056692984549433344/ErO8uC8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1542,
+          "following_count": 1468,
+          "like_count": 7343,
+          "listed_count": 3,
+          "media_count": 95,
+          "tweet_count": 2812
+        },
+        "url": "https://t.co/y1Iah85nsp",
+        "username": "lckmtfdesu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-03T05:40:25.000Z",
+        "description": "MtX | 跨圈观察者 | 交友学习中 | 2008.01\nGAHT/HRT(?,考虑中)",
+        "id": "1852948864539791360",
+        "location": "猜猜看？",
+        "name": "Xunyu_迅羽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083165051297628160/TM2Tlu26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 119,
+          "like_count": 592,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 380
+        },
+        "url": "",
+        "username": "Z7862947460634",
+        "verified": false
+      }
+    ]
+  }
+}

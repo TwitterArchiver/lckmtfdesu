@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083887707869298688"
+      ],
+      "media_source_tweet_id": [
+        "2085682363804107214"
+      ]
+    },
+    "author_id": "1827958813603102720",
+    "conversation_id": "2086343394931228909",
+    "created_at": "2026-08-09T06:46:42.000Z",
+    "display_text_range": [
+      0,
+      113
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T07:46:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086343394931228909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1976995735532138496",
+          "start": 3,
+          "username": "JanboMikan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JWvQLu6fUb",
+          "end": 113,
+          "expanded_url": "https://x.com/JanboMikan/status/2085682363804107214/photo/1",
+          "media_key": "3_2083887707869298688",
+          "start": 90,
+          "url": "https://t.co/JWvQLu6fUb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086343394931228909",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2083887707869298688"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085682363804107214",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JanboMikan: 我问医生：吃色普龙是不是就不能生孩子了？\n医生：理论上不能。\n我：太好了，以后终于可以放心让他内射了。\n医生停下笔，看着我：……你原本也没有子宫。 https://t.co/JWvQLu6fUb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3316,
+        "media_key": "3_2083887707869298688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOt01FNaQAALmt3.jpg",
+        "width": 3056
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083887707869298688"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "2085682363804107214",
+        "created_at": "2026-08-07T11:00:00.000Z",
+        "display_text_range": [
+          0,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-07T12:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085682363804107214"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JWvQLu6fUb",
+              "end": 97,
+              "expanded_url": "https://x.com/JanboMikan/status/2085682363804107214/photo/1",
+              "media_key": "3_2083887707869298688",
+              "start": 74,
+              "url": "https://t.co/JWvQLu6fUb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085682363804107214",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2083887707869298688"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 35906,
+          "like_count": 595,
+          "quote_count": 3,
+          "reply_count": 128,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "我问医生：吃色普龙是不是就不能生孩子了？\n医生：理论上不能。\n我：太好了，以后终于可以放心让他内射了。\n医生停下笔，看着我：……你原本也没有子宫。 https://t.co/JWvQLu6fUb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083887707869298688"
+          ],
+          "media_source_tweet_id": [
+            "2085682363804107214"
+          ]
+        },
+        "author_id": "1827958813603102720",
+        "conversation_id": "2086343394931228909",
+        "created_at": "2026-08-09T06:46:42.000Z",
+        "display_text_range": [
+          0,
+          113
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T07:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086343394931228909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1976995735532138496",
+              "start": 3,
+              "username": "JanboMikan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JWvQLu6fUb",
+              "end": 113,
+              "expanded_url": "https://x.com/JanboMikan/status/2085682363804107214/photo/1",
+              "media_key": "3_2083887707869298688",
+              "start": 90,
+              "url": "https://t.co/JWvQLu6fUb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086343394931228909",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2083887707869298688"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085682363804107214",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JanboMikan: 我问医生：吃色普龙是不是就不能生孩子了？\n医生：理论上不能。\n我：太好了，以后终于可以放心让他内射了。\n医生停下笔，看着我：……你原本也没有子宫。 https://t.co/JWvQLu6fUb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "description": "爱我的好姐（杂）姐（鱼）@ogsa1687497\nmtf/hrt2026.3.26/半家长党/福瑞控/arc phi 冰与火 战雷/见证退避/查成分回fo/恋痛m",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "ogsa1687497"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/profile.php?id…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/profile.php?id=61590025657067&mibextid=ZbWKwL",
+                "start": 0,
+                "url": "https://t.co/y1Iah85nsp"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "is_identity_verified": false,
+        "location": "-14cm",
+        "most_recent_tweet_id": "2086343394931228909",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2078437621102252181",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1827958813603102720/1773485983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056692984549433344/ErO8uC8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1616,
+          "following_count": 1498,
+          "like_count": 7437,
+          "listed_count": 3,
+          "media_count": 95,
+          "tweet_count": 2843
+        },
+        "url": "https://t.co/y1Iah85nsp",
+        "username": "lckmtfdesu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "is_identity_verified": false,
+        "location": "珠海(全广随机出现)/福州",
+        "most_recent_tweet_id": "2086241201880281259",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1976995735532138496/1761750409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075454514812047362/ieswTjrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16043,
+          "following_count": 621,
+          "like_count": 21962,
+          "listed_count": 53,
+          "media_count": 390,
+          "tweet_count": 11723
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

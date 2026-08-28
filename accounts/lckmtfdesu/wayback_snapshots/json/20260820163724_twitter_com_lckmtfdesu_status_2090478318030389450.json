@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "conversation_id": "2090095311880642590",
+    "created_at": "2026-08-20T16:37:24.000Z",
+    "display_text_range": [
+      16,
+      65
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T17:37:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090478318030389450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2053864757329817600",
+          "start": 0,
+          "username": "today_is_foggy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090478318030389450",
+    "in_reply_to_user_id": "2053864757329817600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090095311880642590",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@today_is_foggy 唉我靠别骂了啊啊啊\n肩宽32\n胸围83/94\n腰围83\n臀围98\n臂围23\n腕围15\n饿啊啊啊啊啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2090095311880642590",
+        "created_at": "2026-08-20T16:37:24.000Z",
+        "display_text_range": [
+          16,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T17:37:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090478318030389450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2053864757329817600",
+              "start": 0,
+              "username": "today_is_foggy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090478318030389450",
+        "in_reply_to_user_id": "2053864757329817600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090095311880642590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@today_is_foggy 唉我靠别骂了啊啊啊\n肩宽32\n胸围83/94\n腰围83\n臀围98\n臂围23\n腕围15\n饿啊啊啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053864757329817600",
+        "conversation_id": "2090095311880642590",
+        "created_at": "2026-08-19T15:15:29.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T16:15:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090095311880642590"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090095311880642590",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 904,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "雾の身材数据\n肩宽42cm\n胸围75cm\n腰围70cm\n臀围85cm\n臂围21cm\n腰怎么这么粗。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "description": "爱我的好姐（杂）姐（鱼）@ogsa1687497\nmtf/hrt2026.3.26/半家长党/福瑞控/arc phi 冰与火 战雷/见证退避/查成分回fo/恋痛m",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "ogsa1687497"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/profile.php?id…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/profile.php?id=61590025657067&mibextid=ZbWKwL",
+                "start": 0,
+                "url": "https://t.co/y1Iah85nsp"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "is_identity_verified": false,
+        "location": "-14cm",
+        "most_recent_tweet_id": "2090478318030389450",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2078437621102252181",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1827958813603102720/1773485983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056692984549433344/ErO8uC8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1597,
+          "following_count": 1467,
+          "like_count": 7468,
+          "listed_count": 3,
+          "media_count": 95,
+          "tweet_count": 2865
+        },
+        "url": "https://t.co/y1Iah85nsp",
+        "username": "lckmtfdesu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-11T15:48:30.000Z",
+        "description": "友情从不区分国籍、人种和性别🏳️‍⚧️\n希望和ta人的关系，可以变得很纯粹\n这里是大雾喵ww叫咱大雾就好~欢迎聊天眯",
+        "id": "2053864757329817600",
+        "is_identity_verified": false,
+        "location": "月球 坎帕努斯环形山",
+        "most_recent_tweet_id": "2090474132450537959",
+        "name": "今天是大雾！",
+        "pinned_tweet_id": "2084194549996589385",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053864757329817600/1780220741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073740142737846272/5wS-JDPo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 113,
+          "like_count": 1693,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 1097
+        },
+        "url": "",
+        "username": "today_is_foggy",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

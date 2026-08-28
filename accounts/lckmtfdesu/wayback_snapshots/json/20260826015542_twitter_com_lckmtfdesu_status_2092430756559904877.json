@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "conversation_id": "2092430756559904877",
+    "created_at": "2026-08-26T01:55:42.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T02:55:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092430756559904877"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1300828282061877249",
+          "start": 3,
+          "username": "HANLIANYI331"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092430756559904877",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35
+    },
+    "referenced_tweets": [
+      {
+        "id": "1639396643249475585",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HANLIANYI331: 李保兴（顺直男），谎话连篇，给出的所有信息都是虚假信息，为了骗钱无所不用其极，目前已经通过各种手段（包括但不限于卖假药，卖惨骗捐，盗用别人信息等）（目前已知）成功诈骗数十个跨性别女性，总金额数千元以上，其中已经有数个跨女因被骗钱尝试自杀… h…"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "骗子的收款码，可以用来挖掘信息",
+        "height": 1680,
+        "media_key": "3_1639395430999130114",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FsBNdWcaAAIVIwq.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1212,
+        "media_key": "3_1639395435394772994",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FsBNdm0aMAIiabZ.jpg",
+        "width": 1118
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1639395439740092417",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FsBNd3AagAEej3p.jpg",
+        "width": 921
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1639395445381423104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FsBNeMBaYAAPh5r.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2092430756559904877",
+        "created_at": "2026-08-26T01:55:42.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T02:55:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092430756559904877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1300828282061877249",
+              "start": 3,
+              "username": "HANLIANYI331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092430756559904877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "referenced_tweets": [
+          {
+            "id": "1639396643249475585",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HANLIANYI331: 李保兴（顺直男），谎话连篇，给出的所有信息都是虚假信息，为了骗钱无所不用其极，目前已经通过各种手段（包括但不限于卖假药，卖惨骗捐，盗用别人信息等）（目前已知）成功诈骗数十个跨性别女性，总金额数千元以上，其中已经有数个跨女因被骗钱尝试自杀… h…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1639395430999130114",
+            "3_1639395435394772994",
+            "3_1639395439740092417",
+            "3_1639395445381423104"
+          ]
+        },
+        "author_id": "1300828282061877249",
+        "conversation_id": "1639396643249475585",
+        "created_at": "2023-03-24T22:39:52.000Z",
+        "display_text_range": [
+          0,
+          118
+        ],
+        "edit_controls": {
+          "editable_until": "2023-03-24T23:05:08.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1639395449542184961",
+          "1639396643249475585"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wSxmp1V3AH",
+              "end": 142,
+              "expanded_url": "https://x.com/HANLIANYI520/status/1639396643249475585/photo/1",
+              "media_key": "3_1639395430999130114",
+              "start": 119,
+              "url": "https://t.co/wSxmp1V3AH"
+            },
+            {
+              "display_url": "pic.x.com/wSxmp1V3AH",
+              "end": 142,
+              "expanded_url": "https://x.com/HANLIANYI520/status/1639396643249475585/photo/1",
+              "media_key": "3_1639395435394772994",
+              "start": 119,
+              "url": "https://t.co/wSxmp1V3AH"
+            },
+            {
+              "display_url": "pic.x.com/wSxmp1V3AH",
+              "end": 142,
+              "expanded_url": "https://x.com/HANLIANYI520/status/1639396643249475585/photo/1",
+              "media_key": "3_1639395439740092417",
+              "start": 119,
+              "url": "https://t.co/wSxmp1V3AH"
+            },
+            {
+              "display_url": "pic.x.com/wSxmp1V3AH",
+              "end": 142,
+              "expanded_url": "https://x.com/HANLIANYI520/status/1639396643249475585/photo/1",
+              "media_key": "3_1639395445381423104",
+              "start": 119,
+              "url": "https://t.co/wSxmp1V3AH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1639396643249475585",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "alt_text": "骗子的收款码，可以用来挖掘信息",
+            "media_key": "3_1639395430999130114"
+          },
+          {
+            "media_key": "3_1639395435394772994"
+          },
+          {
+            "media_key": "3_1639395439740092417"
+          },
+          {
+            "media_key": "3_1639395445381423104"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "李保兴（顺直男），谎话连篇，给出的所有信息都是虚假信息，为了骗钱无所不用其极，目前已经通过各种手段（包括但不限于卖假药，卖惨骗捐，盗用别人信息等）（目前已知）成功诈骗数十个跨性别女性，总金额数千元以上，其中已经有数个跨女因被骗钱尝试自杀\n使用过的QQ号：2330373751，810522742，2950341750\n使用过的手机号（已弃用）13724385891\n这个骗子使用过的支付宝收款码（图1）"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 125361,
+          "like_count": 203,
+          "quote_count": 5,
+          "reply_count": 14,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "李保兴（顺直男），谎话连篇，给出的所有信息都是虚假信息，为了骗钱无所不用其极，目前已经通过各种手段（包括但不限于卖假药，卖惨骗捐，盗用别人信息等）（目前已知）成功诈骗数十个跨性别女性，总金额数千元以上，其中已经有数个跨女因被骗钱尝试自杀 https://t.co/wSxmp1V3AH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "description": "爱我的好姐（杂）姐（鱼）@ogsa1687497\nmtf/hrt2026.3.26/半家长党/福瑞控/arc phi 冰与火 战雷/见证退避/查成分回fo/恋痛m",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "ogsa1687497"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/profile.php?id…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/profile.php?id=61590025657067&mibextid=ZbWKwL",
+                "start": 0,
+                "url": "https://t.co/y1Iah85nsp"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "is_identity_verified": false,
+        "location": "-14cm",
+        "most_recent_tweet_id": "2092430756559904877",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2092242179679035787",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1827958813603102720/1773485983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056692984549433344/ErO8uC8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1612,
+          "following_count": 1479,
+          "like_count": 7513,
+          "listed_count": 3,
+          "media_count": 99,
+          "tweet_count": 2904
+        },
+        "url": "https://t.co/y1Iah85nsp",
+        "username": "lckmtfdesu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "ASD｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜因为消息繁多，如遇不回复消息的情况请重复向我发送信息｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 98,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 75,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "is_identity_verified": true,
+        "location": "涟漪危机干预小组",
+        "most_recent_tweet_id": "2092266899396784446",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1300828282061877249/1683794048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42253,
+          "following_count": 3971,
+          "like_count": 2012,
+          "listed_count": 4,
+          "media_count": 411,
+          "tweet_count": 3113
+        },
+        "url": "",
+        "username": "HANLIANYI331",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
