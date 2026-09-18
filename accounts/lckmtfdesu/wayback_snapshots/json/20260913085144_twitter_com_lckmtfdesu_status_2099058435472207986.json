@@ -1,0 +1,365 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2099058435472207986",
+    "created_at": "2026-09-13T08:51:44.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T09:51:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099058435472207986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2053864757329817600",
+          "start": 3,
+          "username": "today_is_foggy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099058435472207986",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098800668991717614",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @today_is_foggy: 自我介绍~\n先扔几张自己的照片啦www希望可以被大家喜欢~成分非常复杂...粥，洲，瓦是雾比较喜欢玩的游戏ww，寒暑假会猛猛出图~mc十年老登ing~\n无证 /看心情含糖 /跑步 /航空航天 /厌食 /大专丈育 /低精力 /化学/\n雾爹最…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2256,
+        "media_key": "3_2098800632450940928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSBwDieagAARwb1.jpg",
+        "width": 1774
+      },
+      {
+        "height": 2412,
+        "media_key": "3_2098800641665826817",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSBwEEzagAE3g9y.jpg",
+        "width": 1760
+      },
+      {
+        "height": 2756,
+        "media_key": "3_2098800652319399936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSBwEsfbIAA5nYQ.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1213,
+        "media_key": "3_2098800663841140736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSBwFXaa8AAvsdY.jpg",
+        "width": 1213
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2099058435472207986",
+        "created_at": "2026-09-13T08:51:44.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T09:51:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099058435472207986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2053864757329817600",
+              "start": 3,
+              "username": "today_is_foggy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099058435472207986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098800668991717614",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @today_is_foggy: 自我介绍~\n先扔几张自己的照片啦www希望可以被大家喜欢~成分非常复杂...粥，洲，瓦是雾比较喜欢玩的游戏ww，寒暑假会猛猛出图~mc十年老登ing~\n无证 /看心情含糖 /跑步 /航空航天 /厌食 /大专丈育 /低精力 /化学/\n雾爹最…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098800632450940928",
+            "3_2098800641665826817",
+            "3_2098800652319399936",
+            "3_2098800663841140736"
+          ]
+        },
+        "author_id": "2053864757329817600",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2098800668991717614",
+        "created_at": "2026-09-12T15:47:27.000Z",
+        "display_text_range": [
+          0,
+          163
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T16:47:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098800668991717614"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/znJyWWYXKl",
+              "end": 187,
+              "expanded_url": "https://x.com/today_is_foggy/status/2098800668991717614/photo/1",
+              "media_key": "3_2098800632450940928",
+              "start": 164,
+              "url": "https://t.co/znJyWWYXKl"
+            },
+            {
+              "display_url": "pic.x.com/znJyWWYXKl",
+              "end": 187,
+              "expanded_url": "https://x.com/today_is_foggy/status/2098800668991717614/photo/1",
+              "media_key": "3_2098800641665826817",
+              "start": 164,
+              "url": "https://t.co/znJyWWYXKl"
+            },
+            {
+              "display_url": "pic.x.com/znJyWWYXKl",
+              "end": 187,
+              "expanded_url": "https://x.com/today_is_foggy/status/2098800668991717614/photo/1",
+              "media_key": "3_2098800652319399936",
+              "start": 164,
+              "url": "https://t.co/znJyWWYXKl"
+            },
+            {
+              "display_url": "pic.x.com/znJyWWYXKl",
+              "end": 187,
+              "expanded_url": "https://x.com/today_is_foggy/status/2098800668991717614/photo/1",
+              "media_key": "3_2098800663841140736",
+              "start": 164,
+              "url": "https://t.co/znJyWWYXKl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098800668991717614",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098800632450940928"
+          },
+          {
+            "media_key": "3_2098800641665826817"
+          },
+          {
+            "media_key": "3_2098800652319399936"
+          },
+          {
+            "media_key": "3_2098800663841140736"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 321,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自我介绍~\n先扔几张自己的照片啦www希望可以被大家喜欢~成分非常复杂...粥，洲，瓦是雾比较喜欢玩的游戏ww，寒暑假会猛猛出图~mc十年老登ing~\n无证 /看心情含糖 /跑步 /航空航天 /厌食 /大专丈育 /低精力 /化学/\n雾爹最近失业了呢...生活费又减少了不少...若是有闲钱支援一点🥺🥺...雾会很感谢的喵... https://t.co/znJyWWYXKl"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "description": "爱我的好姐（杂）姐（鱼）@ogsa1687497\nmtf/hrt2026.3.26/半家长党/福瑞控/arc phi 冰与火 战雷/见证退避/查成分回fo/恋痛m   小号@lckmtfdesuver2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "ogsa1687497"
+              },
+              {
+                "end": 101,
+                "start": 86,
+                "username": "lckmtfdesuver2"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "is_identity_verified": false,
+        "location": "-14cm",
+        "most_recent_tweet_id": "2099058435472207986",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2092242179679035787",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1827958813603102720/1773485983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056692984549433344/ErO8uC8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1735,
+          "following_count": 1532,
+          "like_count": 7671,
+          "listed_count": 3,
+          "media_count": 108,
+          "tweet_count": 2990
+        },
+        "url": "",
+        "username": "lckmtfdesu",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-11T15:48:30.000Z",
+        "description": "友情从不区分国籍、人种和性别🏳️‍⚧️\n希望和ta人的关系，可以变得很纯粹\n这里是大雾喵ww叫咱大雾就好~欢迎聊天眯",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spacex.com",
+                "end": 23,
+                "expanded_url": "http://spacex.com",
+                "start": 0,
+                "url": "https://t.co/xiWmsdOb78"
+              }
+            ]
+          }
+        },
+        "id": "2053864757329817600",
+        "is_identity_verified": false,
+        "location": "月球 坎帕努斯环形山",
+        "most_recent_tweet_id": "2098958857552925020",
+        "name": "今天是大雾！",
+        "pinned_tweet_id": "2098800668991717614",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053864757329817600/1788919022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073740142737846272/5wS-JDPo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 139,
+          "like_count": 2124,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 1437
+        },
+        "url": "https://t.co/xiWmsdOb78",
+        "username": "today_is_foggy",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

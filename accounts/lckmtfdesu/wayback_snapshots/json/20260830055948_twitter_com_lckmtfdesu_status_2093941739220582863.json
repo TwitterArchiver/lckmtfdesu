@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "conversation_id": "2093941739220582863",
+    "created_at": "2026-08-30T05:59:48.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T06:59:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093941739220582863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1843201902550634496",
+          "start": 3,
+          "username": "LwrDHYyuxR22499"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093941739220582863",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093754272081203246",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LwrDHYyuxR22499: 第不知道多少次被\n（邪教／扭转机构／传销／代孕）\n此类机构以：\n“皮之不存，毛将焉附”\n的理由拉拢。\n把我们都杀干净了，就没人记得你们了，\n你应该懂如何“制造需求”\n大可以带着你赚钱、玩女人\n我们老板看过你的推特\n你可以把跟你有仇造谣你…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2093941739220582863",
+        "created_at": "2026-08-30T05:59:48.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T06:59:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093941739220582863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1843201902550634496",
+              "start": 3,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093941739220582863",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093754272081203246",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LwrDHYyuxR22499: 第不知道多少次被\n（邪教／扭转机构／传销／代孕）\n此类机构以：\n“皮之不存，毛将焉附”\n的理由拉拢。\n把我们都杀干净了，就没人记得你们了，\n你应该懂如何“制造需求”\n大可以带着你赚钱、玩女人\n我们老板看过你的推特\n你可以把跟你有仇造谣你…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2093754272081203246",
+        "created_at": "2026-08-29T17:34:53.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T18:34:17.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093754123120423010",
+          "2093754272081203246"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2093746416065933366",
+              "start": 141,
+              "url": "https://t.co/HZoyFmwwxX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093754272081203246",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "第不知道多少次被\n（邪教／扭转机构／传销／代孕）\n此类机构以：\n“皮之不存，毛将焉附”\n的理由拉拢。\n把我们都杀干净了，就没人记得你们了，\n你应该懂如何“制造需求”\n大可以带着你赚钱、玩女人\n我们老板看过你的推特\n你可以把跟你有仇造谣你的群体都送到我这里来。\n \n不由心生感叹啊…\n面对这些诱惑做恶人实在轻而易举…\n不过可惜了😁😁\n这群BYD遇到的是我\n我的心是他妈铁打的\n存在的意义就是为了有一天\n消灭自己存在的意义"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2306,
+          "like_count": 92,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093746416065933366",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "第不知道多少次被\n（邪教／扭转机构／传销／代孕）\n此类机构以：\n“皮之不存，毛将焉附”\n的理由拉拢。\n把我们都杀干净了，就没人记得你们了，\n你应该懂如何“制造需求”\n大可以带着你赚钱、玩女人\n我们老板看过你的推特\n你可以把跟你有仇造谣你的群体都送到我这里来。\n \n不由心生感叹啊… https://t.co/HZoyFmwwxX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "description": "爱我的好姐（杂）姐（鱼）@ogsa1687497\nmtf/hrt2026.3.26/半家长党/福瑞控/arc phi 冰与火 战雷/见证退避/查成分回fo/恋痛m",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "ogsa1687497"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/profile.php?id…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/profile.php?id=61590025657067&mibextid=ZbWKwL",
+                "start": 0,
+                "url": "https://t.co/y1Iah85nsp"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "is_identity_verified": false,
+        "location": "-14cm",
+        "most_recent_tweet_id": "2093941739220582863",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2092242179679035787",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1827958813603102720/1773485983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056692984549433344/ErO8uC8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1660,
+          "following_count": 1498,
+          "like_count": 7591,
+          "listed_count": 3,
+          "media_count": 102,
+          "tweet_count": 2941
+        },
+        "url": "https://t.co/y1Iah85nsp",
+        "username": "lckmtfdesu",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093754272081203246",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1843201902550634496/1728288725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079781229529022464/zTPOeSt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7055,
+          "following_count": 3426,
+          "like_count": 4721,
+          "listed_count": 21,
+          "media_count": 578,
+          "tweet_count": 4008
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

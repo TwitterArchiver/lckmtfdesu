@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "conversation_id": "2093662269792211333",
+    "created_at": "2026-08-30T03:39:12.000Z",
+    "display_text_range": [
+      13,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T04:39:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093906352594952242"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1929798380240465921",
+          "start": 0,
+          "username": "AacerF59616"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093906352594952242",
+    "in_reply_to_user_id": "1929798380240465921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093662269792211333",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AacerF59616 充话费送的工业垃圾罢了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 586,
+        "media_key": "3_2093662262481534976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ4uvCraQAA15uV.jpg",
+        "width": 1239
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2093662269792211333",
+        "created_at": "2026-08-30T03:39:12.000Z",
+        "display_text_range": [
+          13,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T04:39:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093906352594952242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929798380240465921",
+              "start": 0,
+              "username": "AacerF59616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093906352594952242",
+        "in_reply_to_user_id": "1929798380240465921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093662269792211333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AacerF59616 充话费送的工业垃圾罢了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093662262481534976"
+          ]
+        },
+        "author_id": "1929798380240465921",
+        "conversation_id": "2093662269792211333",
+        "created_at": "2026-08-29T11:29:18.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T12:29:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093662269792211333"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j33ePpN6zE",
+              "end": 57,
+              "expanded_url": "https://x.com/AacerF59616/status/2093662269792211333/photo/1",
+              "media_key": "3_2093662262481534976",
+              "start": 34,
+              "url": "https://t.co/j33ePpN6zE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093662269792211333",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093662262481534976"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 754,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "4+128甚至限购1件，这种买回来只能当板砖的手机有什么买的必要吗 https://t.co/j33ePpN6zE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "description": "爱我的好姐（杂）姐（鱼）@ogsa1687497\nmtf/hrt2026.3.26/半家长党/福瑞控/arc phi 冰与火 战雷/见证退避/查成分回fo/恋痛m",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "ogsa1687497"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/profile.php?id…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/profile.php?id=61590025657067&mibextid=ZbWKwL",
+                "start": 0,
+                "url": "https://t.co/y1Iah85nsp"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "is_identity_verified": false,
+        "location": "-14cm",
+        "most_recent_tweet_id": "2093906352594952242",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2092242179679035787",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1827958813603102720/1773485983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056692984549433344/ErO8uC8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1660,
+          "following_count": 1498,
+          "like_count": 7580,
+          "listed_count": 3,
+          "media_count": 102,
+          "tweet_count": 2936
+        },
+        "url": "https://t.co/y1Iah85nsp",
+        "username": "lckmtfdesu",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜指派男性 经验女性 性别酷儿｜青春期和成年期性别不一致｜GAHT：2026.7.9｜准家长党｜后室中文写手&基金会中分写手｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2i8v"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2093782197786526152",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2621,
+          "following_count": 901,
+          "like_count": 7263,
+          "listed_count": 3,
+          "media_count": 444,
+          "tweet_count": 2764
+        },
+        "url": "https://t.co/tjXQmF2i8v",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

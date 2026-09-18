@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "conversation_id": "2099935325825204459",
+    "created_at": "2026-09-15T18:56:11.000Z",
+    "display_text_range": [
+      0,
+      97
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T19:56:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099935325825204459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2053864757329817600",
+          "start": 3,
+          "username": "today_is_foggy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099935325825204459",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099932171700236439",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @today_is_foggy: 我敢睡前插着20cm甲基巴开着双通道100档的郊狼，只穿个内裤去宿舍公共厕所把插着的甲基巴洗干净，你们敢吗😡😡😡雾要让你们知道谁才是真正的母狗！！！🥵🥵🥵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2099935325825204459",
+        "created_at": "2026-09-15T18:56:11.000Z",
+        "display_text_range": [
+          0,
+          97
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T19:56:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099935325825204459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2053864757329817600",
+              "start": 3,
+              "username": "today_is_foggy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099935325825204459",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099932171700236439",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @today_is_foggy: 我敢睡前插着20cm甲基巴开着双通道100档的郊狼，只穿个内裤去宿舍公共厕所把插着的甲基巴洗干净，你们敢吗😡😡😡雾要让你们知道谁才是真正的母狗！！！🥵🥵🥵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053864757329817600",
+        "conversation_id": "2099932171700236439",
+        "created_at": "2026-09-15T18:43:39.000Z",
+        "display_text_range": [
+          0,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T19:43:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099932171700236439"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099932171700236439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我敢睡前插着20cm甲基巴开着双通道100档的郊狼，只穿个内裤去宿舍公共厕所把插着的甲基巴洗干净，你们敢吗😡😡😡雾要让你们知道谁才是真正的母狗！！！🥵🥵🥵"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "description": "爱我的好姐（杂）姐（鱼）@ogsa1687497\nmtf/hrt2026.3.26/半家长党/福瑞控/arc phi 冰与火 战雷/见证退避/查成分回fo/恋痛m   小号@lckmtfdesuver2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "ogsa1687497"
+              },
+              {
+                "end": 101,
+                "start": 86,
+                "username": "lckmtfdesuver2"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "is_identity_verified": false,
+        "location": "-14cm",
+        "most_recent_tweet_id": "2099935325825204459",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2092242179679035787",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1827958813603102720/1773485983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056692984549433344/ErO8uC8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1738,
+          "following_count": 1530,
+          "like_count": 7671,
+          "listed_count": 3,
+          "media_count": 108,
+          "tweet_count": 2991
+        },
+        "url": "",
+        "username": "lckmtfdesu",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-11T15:48:30.000Z",
+        "description": "友情从不区分国籍、人种和性别🏳️‍⚧️\n希望和ta人的关系，可以变得很纯粹\n这里是大雾喵ww叫咱大雾就好~欢迎聊天眯",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spacex.com",
+                "end": 23,
+                "expanded_url": "http://spacex.com",
+                "start": 0,
+                "url": "https://t.co/xiWmsdOb78"
+              }
+            ]
+          }
+        },
+        "id": "2053864757329817600",
+        "is_identity_verified": false,
+        "location": "月球 坎帕努斯环形山",
+        "most_recent_tweet_id": "2099932171700236439",
+        "name": "今天是大雾！",
+        "pinned_tweet_id": "2098800668991717614",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053864757329817600/1788919022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073740142737846272/5wS-JDPo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617,
+          "following_count": 141,
+          "like_count": 2195,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 1489
+        },
+        "url": "https://t.co/xiWmsdOb78",
+        "username": "today_is_foggy",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

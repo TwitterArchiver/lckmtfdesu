@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "conversation_id": "2099935922817323312",
+    "created_at": "2026-09-15T18:58:33.000Z",
+    "display_text_range": [
+      0,
+      105
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T19:58:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099935922817323312"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1920490291708243968",
+          "start": 3,
+          "username": "h191980276"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099935922817323312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099525982835335600",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @h191980276: 跨性别人员调教管控圈。简称跨圈。北派，以北医三院潘柏林为代表。南派，以上海精神卫生中心陆峥为代表。以及卫生系统外不愿管辖权被卫生部门垄断的\"司法鉴定派\"，以复旦大学周月琴为代表。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2099935922817323312",
+        "created_at": "2026-09-15T18:58:33.000Z",
+        "display_text_range": [
+          0,
+          105
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T19:58:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099935922817323312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1920490291708243968",
+              "start": 3,
+              "username": "h191980276"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099935922817323312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099525982835335600",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @h191980276: 跨性别人员调教管控圈。简称跨圈。北派，以北医三院潘柏林为代表。南派，以上海精神卫生中心陆峥为代表。以及卫生系统外不愿管辖权被卫生部门垄断的\"司法鉴定派\"，以复旦大学周月琴为代表。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2099525982835335600",
+        "created_at": "2026-09-14T15:49:36.000Z",
+        "display_text_range": [
+          0,
+          89
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T16:49:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099525982835335600"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099525982835335600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 5580,
+          "like_count": 103,
+          "quote_count": 0,
+          "reply_count": 49,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "跨性别人员调教管控圈。简称跨圈。北派，以北医三院潘柏林为代表。南派，以上海精神卫生中心陆峥为代表。以及卫生系统外不愿管辖权被卫生部门垄断的\"司法鉴定派\"，以复旦大学周月琴为代表。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "description": "爱我的好姐（杂）姐（鱼）@ogsa1687497\nmtf/hrt2026.3.26/半家长党/福瑞控/arc phi 冰与火 战雷/见证退避/查成分回fo/恋痛m   小号@lckmtfdesuver2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "ogsa1687497"
+              },
+              {
+                "end": 101,
+                "start": 86,
+                "username": "lckmtfdesuver2"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "is_identity_verified": false,
+        "location": "-14cm",
+        "most_recent_tweet_id": "2099935922817323312",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2092242179679035787",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1827958813603102720/1773485983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056692984549433344/ErO8uC8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1738,
+          "following_count": 1530,
+          "like_count": 7677,
+          "listed_count": 3,
+          "media_count": 108,
+          "tweet_count": 2992
+        },
+        "url": "",
+        "username": "lckmtfdesu",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "睾丸卵巢缺失阴蒂肥大｜ 以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099930474462519381",
+        "name": "Shiori",
+        "pinned_tweet_id": "2094516996608331846",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094387304303595520/uPbYUJ3P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 684,
+          "like_count": 5004,
+          "listed_count": 1,
+          "media_count": 131,
+          "tweet_count": 2138
+        },
+        "url": "",
+        "username": "h191980276",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "conversation_id": "2093036162529251651",
+    "created_at": "2026-08-28T07:56:57.000Z",
+    "display_text_range": [
+      33,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T08:56:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093246442454565087"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2053864757329817600",
+          "start": 0,
+          "username": "today_is_foggy"
+        },
+        {
+          "end": 32,
+          "id": "1870315714638385152",
+          "start": 16,
+          "username": "Murong_WangKezi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093246442454565087",
+    "in_reply_to_user_id": "2053864757329817600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093184714949661153",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@today_is_foggy @Murong_WangKezi 笨蛋雾😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2093036162529251651",
+        "created_at": "2026-08-28T07:56:57.000Z",
+        "display_text_range": [
+          33,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T08:56:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093246442454565087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2053864757329817600",
+              "start": 0,
+              "username": "today_is_foggy"
+            },
+            {
+              "end": 32,
+              "id": "1870315714638385152",
+              "start": 16,
+              "username": "Murong_WangKezi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093246442454565087",
+        "in_reply_to_user_id": "2053864757329817600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093184714949661153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@today_is_foggy @Murong_WangKezi 笨蛋雾😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053864757329817600",
+        "conversation_id": "2093036162529251651",
+        "created_at": "2026-08-28T03:51:40.000Z",
+        "display_text_range": [
+          17,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T04:51:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093184714949661153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1870315714638385152",
+              "start": 0,
+              "username": "Murong_WangKezi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093184714949661153",
+        "in_reply_to_user_id": "1870315714638385152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093173912066757050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Murong_WangKezi 你什么（）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "description": "爱我的好姐（杂）姐（鱼）@ogsa1687497\nmtf/hrt2026.3.26/半家长党/福瑞控/arc phi 冰与火 战雷/见证退避/查成分回fo/恋痛m",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "ogsa1687497"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/profile.php?id…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/profile.php?id=61590025657067&mibextid=ZbWKwL",
+                "start": 0,
+                "url": "https://t.co/y1Iah85nsp"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "is_identity_verified": false,
+        "location": "-14cm",
+        "most_recent_tweet_id": "2093246442454565087",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2092242179679035787",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1827958813603102720/1773485983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056692984549433344/ErO8uC8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1646,
+          "following_count": 1493,
+          "like_count": 7571,
+          "listed_count": 3,
+          "media_count": 101,
+          "tweet_count": 2931
+        },
+        "url": "https://t.co/y1Iah85nsp",
+        "username": "lckmtfdesu",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-11T15:48:30.000Z",
+        "description": "友情从不区分国籍、人种和性别🏳️‍⚧️\n希望和ta人的关系，可以变得很纯粹\n这里是大雾喵ww叫咱大雾就好~欢迎聊天眯",
+        "id": "2053864757329817600",
+        "is_identity_verified": false,
+        "location": "月球 坎帕努斯环形山",
+        "most_recent_tweet_id": "2093184714949661153",
+        "name": "今天是大雾！",
+        "pinned_tweet_id": "2084194549996589385",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053864757329817600/1780220741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073740142737846272/5wS-JDPo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 124,
+          "like_count": 1846,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 1215
+        },
+        "url": "",
+        "username": "today_is_foggy",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-21T03:50:05.000Z",
+        "description": "MtF HRT:2025.8.10（具体正式开始时间已不可考）\n业余摄影 | 偶尔发癫 | Minecraft | 好闺蜜@Murong_WangKezi |\n亲友互fo 欢迎扩列～\n清水推～\n摄影作品二次使用请写明作者。\nNGL:https://t.co/3Qm6RekLRx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 61,
+                "username": "Murong_WangKezi"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/murong",
+                "end": 139,
+                "expanded_url": "https://ngl.link/murong",
+                "start": 116,
+                "url": "https://t.co/3Qm6RekLRx"
+              }
+            ]
+          }
+        },
+        "id": "1870315714638385152",
+        "is_identity_verified": false,
+        "location": "中国，陕西省西安市",
+        "most_recent_tweet_id": "2093240813367242863",
+        "name": "Murong🏳️‍⚧️🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1870315714638385152/1746972180",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921566500495736832/L24GEgbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1290,
+          "following_count": 130,
+          "like_count": 11133,
+          "listed_count": 2,
+          "media_count": 747,
+          "tweet_count": 4831
+        },
+        "url": "",
+        "username": "Murong_WangKezi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

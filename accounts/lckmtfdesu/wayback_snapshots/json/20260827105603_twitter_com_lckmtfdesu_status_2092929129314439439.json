@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "conversation_id": "2092570273514127575",
+    "created_at": "2026-08-27T10:56:03.000Z",
+    "display_text_range": [
+      28,
+      63
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T11:56:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092929129314439439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1756909109788753920",
+          "start": 0,
+          "username": "__fanqie__"
+        },
+        {
+          "end": 27,
+          "id": "1918274202580467713",
+          "start": 12,
+          "username": "CyberKanjousen"
+        },
+        {
+          "end": 59,
+          "id": "1918274202580467713",
+          "start": 44,
+          "username": "CyberKanjousen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092929129314439439",
+    "in_reply_to_user_id": "1756909109788753920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092570273514127575",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__fanqie__ @CyberKanjousen 比她好看的没她骚比她骚的没她好看@CyberKanjousen\n（？）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2092570273514127575",
+        "created_at": "2026-08-27T10:56:03.000Z",
+        "display_text_range": [
+          28,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T11:56:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092929129314439439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1756909109788753920",
+              "start": 0,
+              "username": "__fanqie__"
+            },
+            {
+              "end": 27,
+              "id": "1918274202580467713",
+              "start": 12,
+              "username": "CyberKanjousen"
+            },
+            {
+              "end": 59,
+              "id": "1918274202580467713",
+              "start": 44,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092929129314439439",
+        "in_reply_to_user_id": "1756909109788753920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092570273514127575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__fanqie__ @CyberKanjousen 比她好看的没她骚比她骚的没她好看@CyberKanjousen\n（？）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1756909109788753920",
+        "conversation_id": "2092570273514127575",
+        "created_at": "2026-08-26T11:10:05.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T12:10:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092570273514127575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 31,
+              "id": "1918274202580467713",
+              "start": 16,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092570273514127575",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 7666,
+          "like_count": 61,
+          "quote_count": 0,
+          "reply_count": 72,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "听说推上大师多\n哪位大师能给我俩@CyberKanjousen\n画个本子，最好是环状线是攻我是受的那种"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "description": "爱我的好姐（杂）姐（鱼）@ogsa1687497\nmtf/hrt2026.3.26/半家长党/福瑞控/arc phi 冰与火 战雷/见证退避/查成分回fo/恋痛m",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "ogsa1687497"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/profile.php?id…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/profile.php?id=61590025657067&mibextid=ZbWKwL",
+                "start": 0,
+                "url": "https://t.co/y1Iah85nsp"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "is_identity_verified": false,
+        "location": "-14cm",
+        "most_recent_tweet_id": "2092929129314439439",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2092242179679035787",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1827958813603102720/1773485983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056692984549433344/ErO8uC8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1623,
+          "following_count": 1479,
+          "like_count": 7545,
+          "listed_count": 3,
+          "media_count": 100,
+          "tweet_count": 2913
+        },
+        "url": "https://t.co/y1Iah85nsp",
+        "username": "lckmtfdesu",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-12T05:12:40.000Z",
+        "description": "这里是番茄🍅梗图号/生活号@bcfqdtfqz/随机性评论\n不讨论政治/随缘分享\n侵权私信删除/接受投稿\n评论区约炮广告均为诈骗，请勿相信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 13,
+                "username": "bcfqdtfqz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/baozhefanqie_h…",
+                "end": 23,
+                "expanded_url": "http://telegram.me/baozhefanqie_home",
+                "start": 0,
+                "url": "https://t.co/ndOwWuNuE0"
+              }
+            ]
+          }
+        },
+        "id": "1756909109788753920",
+        "is_identity_verified": false,
+        "location": "番茄树上",
+        "most_recent_tweet_id": "2092912607665512734",
+        "name": "不包番茄籽的番茄",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1756909109788753920/1768587768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043538335155859456/EL2nafA__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13661,
+          "following_count": 2749,
+          "like_count": 1626,
+          "listed_count": 27,
+          "media_count": 2869,
+          "tweet_count": 11904
+        },
+        "url": "https://t.co/ndOwWuNuE0",
+        "username": "__fanqie__",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨但永不翻车 | 想当猫猫\n日语号：@NihonKanjousen\n给我钱：https://t.co/OB4bJVjpNC\n发邮箱：cyber@kanjousen.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 45,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/s",
+                "end": 88,
+                "expanded_url": "https://kanjousen.com/s",
+                "start": 65,
+                "url": "https://t.co/OB4bJVjpNC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnL0nr"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2092920318796968429",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1918274202580467713/1787143538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17380,
+          "following_count": 882,
+          "like_count": 34581,
+          "listed_count": 30,
+          "media_count": 2825,
+          "tweet_count": 12865
+        },
+        "url": "https://t.co/s9lflnL0nr",
+        "username": "CyberKanjousen",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

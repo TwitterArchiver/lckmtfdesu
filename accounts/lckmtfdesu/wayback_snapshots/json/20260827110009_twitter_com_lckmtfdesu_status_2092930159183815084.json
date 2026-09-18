@@ -1,0 +1,397 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2092516382009409536"
+      ],
+      "media_source_tweet_id": [
+        "2092516613912416757"
+      ]
+    },
+    "author_id": "1827958813603102720",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2092930159183815084",
+    "created_at": "2026-08-27T11:00:09.000Z",
+    "display_text_range": [
+      0,
+      89
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T12:00:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092930159183815084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "113048411",
+          "start": 3,
+          "username": "tzwm"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Build your creative universe with Neta Studio — AI-driven atomic creation system for worlds, games, and interactive stories",
+          "display_url": "neta.art/w/1bbf7fb7-892…",
+          "end": 65,
+          "expanded_url": "https://neta.art/w/1bbf7fb7-8920-45af-8481-27f4dfc7e692",
+          "start": 42,
+          "status": 200,
+          "title": "奶蛙博物馆 · MUSÉE DU MILK FROG | Neta Studio — AI World Builder & Game Generator",
+          "unwound_url": "https://neta.art/w/1bbf7fb7-8920-45af-8481-27f4dfc7e692",
+          "url": "https://t.co/nMSUk7LIrp"
+        },
+        {
+          "display_url": "pic.x.com/5Gy1zCphsa",
+          "end": 89,
+          "expanded_url": "https://x.com/tzwm/status/2092516613912416757/video/1",
+          "media_key": "13_2092516382009409536",
+          "start": 66,
+          "url": "https://t.co/5Gy1zCphsa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092930159183815084",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2092516382009409536"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 53
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092516613912416757",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tzwm: 同事做的「奶蛙博物馆」，欢迎参观。页面底部有彩蛋，记得开声音。 https://t.co/nMSUk7LIrp https://t.co/5Gy1zCphsa"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 26891,
+        "height": 1810,
+        "media_key": "13_2092516382009409536",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2092516382009409536/img/_mNoNxPvEruAE5KG.jpg",
+        "public_metrics": {
+          "view_count": 26949
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092516382009409536/vid/avc1/450x270/YYSfXREqvXgsgVut.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092516382009409536/vid/avc1/600x360/eZdUOgDVZbBbdmFa.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092516382009409536/vid/avc1/1200x720/B0Enp_icSwH4o_87.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2092516382009409536/pl/7uD3skQmHw_9xor8.m3u8?tag=14"
+          }
+        ],
+        "width": 3020
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2092516382009409536"
+          ],
+          "media_source_tweet_id": [
+            "2092516613912416757"
+          ]
+        },
+        "author_id": "1827958813603102720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2092930159183815084",
+        "created_at": "2026-08-27T11:00:09.000Z",
+        "display_text_range": [
+          0,
+          89
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T12:00:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092930159183815084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "113048411",
+              "start": 3,
+              "username": "tzwm"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Build your creative universe with Neta Studio — AI-driven atomic creation system for worlds, games, and interactive stories",
+              "display_url": "neta.art/w/1bbf7fb7-892…",
+              "end": 65,
+              "expanded_url": "https://neta.art/w/1bbf7fb7-8920-45af-8481-27f4dfc7e692",
+              "start": 42,
+              "status": 200,
+              "title": "奶蛙博物馆 · MUSÉE DU MILK FROG | Neta Studio — AI World Builder & Game Generator",
+              "unwound_url": "https://neta.art/w/1bbf7fb7-8920-45af-8481-27f4dfc7e692",
+              "url": "https://t.co/nMSUk7LIrp"
+            },
+            {
+              "display_url": "pic.x.com/5Gy1zCphsa",
+              "end": 89,
+              "expanded_url": "https://x.com/tzwm/status/2092516613912416757/video/1",
+              "media_key": "13_2092516382009409536",
+              "start": 66,
+              "url": "https://t.co/5Gy1zCphsa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092930159183815084",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2092516382009409536"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 53
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092516613912416757",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tzwm: 同事做的「奶蛙博物馆」，欢迎参观。页面底部有彩蛋，记得开声音。 https://t.co/nMSUk7LIrp https://t.co/5Gy1zCphsa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2092516382009409536"
+          ]
+        },
+        "author_id": "113048411",
+        "conversation_id": "2092516613912416757",
+        "created_at": "2026-08-26T07:36:52.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T08:36:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092516613912416757"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Build your creative universe with Neta Studio — AI-driven atomic creation system for worlds, games, and interactive stories",
+              "display_url": "neta.art/w/1bbf7fb7-892…",
+              "end": 55,
+              "expanded_url": "https://neta.art/w/1bbf7fb7-8920-45af-8481-27f4dfc7e692",
+              "start": 32,
+              "status": 200,
+              "title": "奶蛙博物馆 · MUSÉE DU MILK FROG | Neta Studio — AI World Builder & Game Generator",
+              "unwound_url": "https://neta.art/w/1bbf7fb7-8920-45af-8481-27f4dfc7e692",
+              "url": "https://t.co/nMSUk7LIrp"
+            },
+            {
+              "display_url": "pic.x.com/5Gy1zCphsa",
+              "end": 79,
+              "expanded_url": "https://x.com/tzwm/status/2092516613912416757/video/1",
+              "media_key": "13_2092516382009409536",
+              "start": 56,
+              "url": "https://t.co/5Gy1zCphsa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092516613912416757",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2092516382009409536"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 181,
+          "impression_count": 51738,
+          "like_count": 513,
+          "quote_count": 15,
+          "reply_count": 27,
+          "retweet_count": 53
+        },
+        "reply_settings": "everyone",
+        "text": "同事做的「奶蛙博物馆」，欢迎参观。页面底部有彩蛋，记得开声音。 https://t.co/nMSUk7LIrp https://t.co/5Gy1zCphsa"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "description": "爱我的好姐（杂）姐（鱼）@ogsa1687497\nmtf/hrt2026.3.26/半家长党/福瑞控/arc phi 冰与火 战雷/见证退避/查成分回fo/恋痛m",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "ogsa1687497"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/profile.php?id…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/profile.php?id=61590025657067&mibextid=ZbWKwL",
+                "start": 0,
+                "url": "https://t.co/y1Iah85nsp"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "is_identity_verified": false,
+        "location": "-14cm",
+        "most_recent_tweet_id": "2092930159183815084",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2092242179679035787",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1827958813603102720/1773485983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056692984549433344/ErO8uC8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1624,
+          "following_count": 1479,
+          "like_count": 7548,
+          "listed_count": 3,
+          "media_count": 100,
+          "tweet_count": 2914
+        },
+        "url": "https://t.co/y1Iah85nsp",
+        "username": "lckmtfdesu",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-02-10T14:47:07.000Z",
+        "description": "……",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/tzwm",
+                "end": 23,
+                "expanded_url": "https://github.com/tzwm",
+                "start": 0,
+                "url": "https://t.co/xHbyEqSN0j"
+              }
+            ]
+          }
+        },
+        "id": "113048411",
+        "is_identity_verified": false,
+        "location": "Latent Space",
+        "most_recent_tweet_id": "2092862598853345317",
+        "name": "tzwm",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/113048411/1350555388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2883273382/e4188a4b1b4b781c1480feff248ab205_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1540,
+          "following_count": 1938,
+          "like_count": 4402,
+          "listed_count": 32,
+          "media_count": 833,
+          "tweet_count": 15860
+        },
+        "url": "https://t.co/xHbyEqSN0j",
+        "username": "tzwm",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

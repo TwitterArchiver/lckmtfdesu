@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "conversation_id": "2099545144760623449",
+    "created_at": "2026-09-16T00:27:05.000Z",
+    "display_text_range": [
+      15,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T01:27:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100018599071248704"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1573704119516176384",
+          "start": 0,
+          "username": "SnozakiSakura"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100018599071248704",
+    "in_reply_to_user_id": "1573704119516176384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099545144760623449",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SnozakiSakura 谢谢你叫我小姑娘（？）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2099545144760623449",
+        "created_at": "2026-09-16T00:27:05.000Z",
+        "display_text_range": [
+          15,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T01:27:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100018599071248704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1573704119516176384",
+              "start": 0,
+              "username": "SnozakiSakura"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100018599071248704",
+        "in_reply_to_user_id": "1573704119516176384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099545144760623449",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SnozakiSakura 谢谢你叫我小姑娘（？）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1573704119516176384",
+        "conversation_id": "2099545144760623449",
+        "created_at": "2026-09-14T17:05:44.000Z",
+        "display_text_range": [
+          0,
+          81
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T18:05:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099545144760623449"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099545144760623449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 29487,
+          "like_count": 559,
+          "quote_count": 6,
+          "reply_count": 65,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "这两天时间线上出现了很多吵架的\n\n但我想说\n\nFtM你们别急，你们永远都不会成为女的，这辈子骨子里都散发着男人味\n\nMtF也别急，娘们唧唧的，这辈子都不是个男人😇"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "description": "爱我的好姐（杂）姐（鱼）@ogsa1687497\nmtf/hrt2026.3.26/半家长党/福瑞控/arc phi 冰与火 战雷/见证退避/查成分回fo/恋痛m   小号@lckmtfdesuver2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "ogsa1687497"
+              },
+              {
+                "end": 101,
+                "start": 86,
+                "username": "lckmtfdesuver2"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "is_identity_verified": false,
+        "location": "-14cm",
+        "most_recent_tweet_id": "2100018599071248704",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2092242179679035787",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1827958813603102720/1773485983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056692984549433344/ErO8uC8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1738,
+          "following_count": 1532,
+          "like_count": 7692,
+          "listed_count": 3,
+          "media_count": 108,
+          "tweet_count": 2996
+        },
+        "url": "",
+        "username": "lckmtfdesu",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-24T16:01:21.000Z",
+        "description": "私は地雷系女の子です～🌸 | She/Her | 分享段子和有趣的故事 ｜Living today with the hope that tomorrow will be a little better🩷💙",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "amesaku.cc",
+                "end": 23,
+                "expanded_url": "http://amesaku.cc",
+                "start": 0,
+                "url": "https://t.co/H1Gt3MUVE5"
+              }
+            ]
+          }
+        },
+        "id": "1573704119516176384",
+        "is_identity_verified": false,
+        "location": "魔女岛",
+        "most_recent_tweet_id": "2099919029859426793",
+        "name": "草莓泡芙🍀",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1573704119516176384/1664107354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097264541671542784/gDDAaJwQ_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100196,
+          "following_count": 2942,
+          "like_count": 8207,
+          "listed_count": 206,
+          "media_count": 522,
+          "tweet_count": 5202
+        },
+        "url": "https://t.co/H1Gt3MUVE5",
+        "username": "SnozakiSakura",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

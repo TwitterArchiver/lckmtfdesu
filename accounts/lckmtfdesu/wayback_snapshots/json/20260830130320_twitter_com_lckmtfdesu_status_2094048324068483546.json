@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "conversation_id": "2094048324068483546",
+    "created_at": "2026-08-30T13:03:20.000Z",
+    "display_text_range": [
+      0,
+      146
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T14:03:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094048324068483546"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2071604428805996544",
+          "start": 3,
+          "username": "Seramikimiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094048324068483546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 174
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093708620542415061",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Seramikimiki: &lt;高潮自由其实很简单：女生连高30次秘诀&gt;\n不废话，最最重要的四个秘诀就是：\n1.使劲夹紧你的阴道！！！建议大家多练习凯格尔运动，我夹到塞一根手指都超费劲时候就差不多会gc了\n2.夹紧阴道的时候要憋气！！！憋10s左右夹紧阴道就可以高潮，百试…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2133,
+        "media_key": "3_2093705251186765824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ5V1UFbcAAAKPZ.jpg",
+        "width": 1075
+      },
+      {
+        "height": 2166,
+        "media_key": "3_2093705264805605376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ5V2G0acAAYMPE.jpg",
+        "width": 1075
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2094048324068483546",
+        "created_at": "2026-08-30T13:03:20.000Z",
+        "display_text_range": [
+          0,
+          146
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T14:03:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094048324068483546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2071604428805996544",
+              "start": 3,
+              "username": "Seramikimiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094048324068483546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 174
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093708620542415061",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Seramikimiki: &lt;高潮自由其实很简单：女生连高30次秘诀&gt;\n不废话，最最重要的四个秘诀就是：\n1.使劲夹紧你的阴道！！！建议大家多练习凯格尔运动，我夹到塞一根手指都超费劲时候就差不多会gc了\n2.夹紧阴道的时候要憋气！！！憋10s左右夹紧阴道就可以高潮，百试…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093705251186765824",
+            "3_2093705264805605376"
+          ]
+        },
+        "author_id": "2071604428805996544",
+        "conversation_id": "2093708620542415061",
+        "created_at": "2026-08-29T14:33:29.000Z",
+        "display_text_range": [
+          0,
+          131
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T15:33:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093708620542415061"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mbPZV2WVPz",
+              "end": 155,
+              "expanded_url": "https://x.com/Seramikimiki/status/2093708620542415061/photo/1",
+              "media_key": "3_2093705251186765824",
+              "start": 132,
+              "url": "https://t.co/mbPZV2WVPz"
+            },
+            {
+              "display_url": "pic.x.com/mbPZV2WVPz",
+              "end": 155,
+              "expanded_url": "https://x.com/Seramikimiki/status/2093708620542415061/photo/1",
+              "media_key": "3_2093705264805605376",
+              "start": 132,
+              "url": "https://t.co/mbPZV2WVPz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093708620542415061",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093705251186765824"
+          },
+          {
+            "media_key": "3_2093705264805605376"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "<高潮自由其实很简单：女生连高30次秘诀>\n不废话，最最重要的四个秘诀就是：\n1.使劲夹紧你的阴道！！！建议大家多练习凯格尔运动，我夹到塞一根手指都超费劲时候就差不多会gc了\n2.夹紧阴道的时候要憋气！！！憋10s左右夹紧阴道就可以高潮，百试不爽嘿嘿\n3.我觉得你们一定要有c自己的冲动才可以，可以玩之前就对镜欣赏身体，那如果找不到冲动的话，可以狠狠坐位体前屈，小腿韧带拉伸产生的巨痛总是会给我x欲，好奇怪，不过屡试不爽\n4.不要叫出声，我知道在座各位淫叫起来自己都很喜欢听，但是执着于动听的声音真的让你不够专注于阴道阴蒂的刺激，而且你是没办法一边憋气一边淫叫的，所以最好不叫，除非你憋不住\n\n工具：湿巾，尿布，cachito失控3.0吮吸入体ai版，和你的手机，如果想要增加情趣也可以穿上sexy的衣服\n姿势：上半身平躺，下半身曲腿，双腿要夹紧，吮吸口对着阴蒂，入体端只用1-3cm入体哦\napp的强度大小：吮吸端50-100，入体端10-15，一定要同时开吮吸和入体\n我最喜欢的模式是双下巴和大笨猪\n\n为什么不要把长长的入体端都塞进去呢？\n因为女生的阴道大部分只有前面的3cm是有丰富神经的\ng点大部分就在2-3cm处，比如sera的就很浅1.5cm处...\nsera我之前不懂呀一整个塞进去\n以为越长越好越大越好\n结果把自己搞痛了都还gc不了呜呜\n\n为什么用这个姿势呢？\nsera之前试过很多姿势，蹲着趴着双腿分开等等\n就是因为其他入体端或者吮吸端会掉落无法解放双手\n无法解放双手身体就无法放松去感受阴道的摩擦\n双手也没有办法自由刷黄片和设置app的强度\n你一定要集中注意力去感受入体端的每一次冲击\n感受它冲刺你的软肉所带来的刺激的积累\n真的，高潮就是10s的事情\nsera经常就是3-10s成功高潮啊\n\n不要一上来就开100吮吸\n要循序渐进，从60开始\n懒人懒得自己设置的话\n可以直接选双下巴这个模式\n这个模式我愿称之为寸止模式好吗...\n真的老邪恶了每次都在快高前停\n嘿嘿，因此也很好玩\n\n没有过x生活的姐妹也可以用这个方法吗？\n没有过x生活的姐妹可以先只用吮吸端\n强度从20开始，不要50以上会很疼\n或者也可以不用这个玩具\n迷路入体版的端口会比较适合新手宝宝\n也可以轻松做到10+次高潮\n\n今天sera真的好快乐\n因为完成了30次高潮的伟大成就\n高潮自由的快乐真是太太太开心了！！\n我跟前男友做爱从来没有获得过高潮\n虽然他很大，13cm，也很猛能凿40min\n但是我演的好累叫的好累，气死了\n朋友去泰国找的女性技师也只帮她gc过4次\n从这个意义上讲，我能30次\n真是高潮女王来着的吧哈哈哈哈哈\n\n我对性没有什么羞耻\n也很讨厌东大女性谈x色变的习惯\n加入的web3，ai，美股交易群里\n男人都大肆谈论哪里的鸡便宜好操\n包养一个女大学生有多么便宜\n甚至发视频以当作骄傲的资本\n他们对于sex也毫不羞耻\n所以我发这些多多少少也有点对应的意思\n男人的本性是不会变的\n女孩子如果找不到不嫖的\n那就别为了屌而找男人吧\n自己也可以获得高潮自由\n\n有人问我对男人尺寸，时长有要求吗\n我说我没有要求\n我只对口活、手指有要求\n还有就是最次必须有腹肌可以被我龟责\n\n其实屌只需要2cm就能让女人高潮\n你再大再持久，没有技术，都没用\n更没有必要因为长度自责\n男人只有三个东西有用处\n手指、舌头还有他的屌\n如果有一个东西不好的话那就可能被出轨\n最惨的是这三个东西不好，再加上穷\n那就真是地狱难度\n对象不出轨体育生真全靠良心\n\n不过没关系\n可以看完我的DIY大法之后\n分享给你的女友让她自我满足\n总比她憋无可憋出去找野男人强吧\n顺便减少你吃药的压力\n\n有效果欢迎姐妹们反馈呀嘻嘻\n如果买了玩具不知道怎么用\n也可以欢迎问我\n因为sera是古希腊掌管hc的神\n（妈的，cachito应该给我打钱，我是野生代言人"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1453,
+          "impression_count": 297813,
+          "like_count": 2725,
+          "quote_count": 13,
+          "reply_count": 371,
+          "retweet_count": 174
+        },
+        "reply_settings": "everyone",
+        "text": "&lt;高潮自由其实很简单：女生连高30次秘诀&gt;\n不废话，最最重要的四个秘诀就是：\n1.使劲夹紧你的阴道！！！建议大家多练习凯格尔运动，我夹到塞一根手指都超费劲时候就差不多会gc了\n2.夹紧阴道的时候要憋气！！！憋10s左右夹紧阴道就可以高潮，百试不爽嘿嘿 https://t.co/mbPZV2WVPz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "description": "爱我的好姐（杂）姐（鱼）@ogsa1687497\nmtf/hrt2026.3.26/半家长党/福瑞控/arc phi 冰与火 战雷/见证退避/查成分回fo/恋痛m",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "ogsa1687497"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/profile.php?id…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/profile.php?id=61590025657067&mibextid=ZbWKwL",
+                "start": 0,
+                "url": "https://t.co/y1Iah85nsp"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "is_identity_verified": false,
+        "location": "-14cm",
+        "most_recent_tweet_id": "2094048324068483546",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2092242179679035787",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1827958813603102720/1773485983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056692984549433344/ErO8uC8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1656,
+          "following_count": 1494,
+          "like_count": 7615,
+          "listed_count": 3,
+          "media_count": 102,
+          "tweet_count": 2947
+        },
+        "url": "https://t.co/y1Iah85nsp",
+        "username": "lckmtfdesu",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-29T14:40:27.000Z",
+        "description": "Building in AI & Web3\n优绩主义反叛者｜港股IPO Lawyer\nBuilt a 20w+ IELTS business at 20\n｜分享從 0→1 的一切",
+        "id": "2071604428805996544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094042254843494655",
+        "name": "Sera",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071604428805996544/1783062582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071609225273610241/K6jjRPYZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 169,
+          "like_count": 856,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 160
+        },
+        "url": "",
+        "username": "Seramikimiki",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

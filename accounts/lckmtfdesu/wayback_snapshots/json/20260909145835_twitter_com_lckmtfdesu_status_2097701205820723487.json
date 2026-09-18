@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "conversation_id": "2097667904032669763",
+    "created_at": "2026-09-09T14:58:35.000Z",
+    "display_text_range": [
+      13,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T15:58:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097701205820723487"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1600024316552179713",
+          "start": 0,
+          "username": "kiki_qiqing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097701205820723487",
+    "in_reply_to_user_id": "1600024316552179713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097686968385859675",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kiki_qiqing 34跟你闹呢（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2097667904032669763",
+        "created_at": "2026-09-09T14:58:35.000Z",
+        "display_text_range": [
+          13,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T15:58:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097701205820723487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1600024316552179713",
+              "start": 0,
+              "username": "kiki_qiqing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097701205820723487",
+        "in_reply_to_user_id": "1600024316552179713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097686968385859675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiki_qiqing 34跟你闹呢（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600024316552179713",
+        "conversation_id": "2097667904032669763",
+        "created_at": "2026-09-09T14:02:01.000Z",
+        "display_text_range": [
+          12,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T15:02:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097686968385859675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1827958813603102720",
+              "start": 0,
+              "username": "lckmtfdesu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097686968385859675",
+        "in_reply_to_user_id": "1827958813603102720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097667904032669763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lckmtfdesu 肩宽好小啊"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "description": "爱我的好姐（杂）姐（鱼）@ogsa1687497\nmtf/hrt2026.3.26/半家长党/福瑞控/arc phi 冰与火 战雷/见证退避/查成分回fo/恋痛m   小号@lckmtfdesuver2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "ogsa1687497"
+              },
+              {
+                "end": 101,
+                "start": 86,
+                "username": "lckmtfdesuver2"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "is_identity_verified": false,
+        "location": "-14cm",
+        "most_recent_tweet_id": "2097701205820723487",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2092242179679035787",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1827958813603102720/1773485983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056692984549433344/ErO8uC8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1679,
+          "following_count": 1502,
+          "like_count": 7652,
+          "listed_count": 3,
+          "media_count": 104,
+          "tweet_count": 2972
+        },
+        "url": "",
+        "username": "lckmtfdesu",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-06T07:08:19.000Z",
+        "description": "出厂日期2007.9.24 | mtx/f | 小证含糖 | HRT 2025.12.05 | 非二元 | 同类可以找我互fo，但最好说一声 | 喜欢同类 | 169cm/60kg | 有点地雷",
+        "id": "1600024316552179713",
+        "is_identity_verified": false,
+        "location": "Silverstone Track",
+        "most_recent_tweet_id": "2097687015433384085",
+        "name": "祈晴kiki🍥",
+        "pinned_tweet_id": "2071875138975580225",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1600024316552179713/1784887409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080617205654503424/h9hH830E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1806,
+          "following_count": 363,
+          "like_count": 6587,
+          "listed_count": 7,
+          "media_count": 239,
+          "tweet_count": 2182
+        },
+        "url": "",
+        "username": "kiki_qiqing",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
