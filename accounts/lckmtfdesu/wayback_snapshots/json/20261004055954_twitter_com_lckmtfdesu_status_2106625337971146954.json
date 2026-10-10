@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "conversation_id": "2106528741040292202",
+    "created_at": "2026-10-04T05:59:54.000Z",
+    "display_text_range": [
+      14,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T06:59:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106625337971146954"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1900590967289466880",
+          "start": 0,
+          "username": "hathawaybk56"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106625337971146954",
+    "in_reply_to_user_id": "1900590967289466880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106528741040292202",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hathawaybk56 如果是不分对象的礼貌那就是缺点\n换个词，这就是好欺负……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2106528741040292202",
+        "created_at": "2026-10-04T05:59:54.000Z",
+        "display_text_range": [
+          14,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T06:59:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106625337971146954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1900590967289466880",
+              "start": 0,
+              "username": "hathawaybk56"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106625337971146954",
+        "in_reply_to_user_id": "1900590967289466880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106528741040292202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hathawaybk56 如果是不分对象的礼貌那就是缺点\n换个词，这就是好欺负……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900590967289466880",
+        "conversation_id": "2106528741040292202",
+        "created_at": "2026-10-03T23:36:03.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T00:36:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106528741040292202"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106528741040292202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 623,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你們覺得太禮貌是優點還是缺點？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "description": "爱我的好姐（杂）姐（鱼）@ogsa1687497\nmtf/hrt2026.3.26/半家长党/福瑞控/arc phi 冰与火 战雷/见证退避/查成分回fo/恋痛m   小号@lckmtfdesuver2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "ogsa1687497"
+              },
+              {
+                "end": 101,
+                "start": 86,
+                "username": "lckmtfdesuver2"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "is_identity_verified": false,
+        "location": "-14cm",
+        "most_recent_tweet_id": "2106625337971146954",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2092242179679035787",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1827958813603102720/1773485983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056692984549433344/ErO8uC8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1803,
+          "following_count": 1560,
+          "like_count": 8082,
+          "listed_count": 2,
+          "media_count": 113,
+          "tweet_count": 3127
+        },
+        "url": "",
+        "username": "lckmtfdesu",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-14T16:53:04.000Z",
+        "description": "Noa/高中生\n怕麻煩\n我是三無：無意義無主題無正解\n                      我的博客↓\n\n喜歡讀書、文學、ACG、精神分析\n想要朋友……",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "noarenjian.blogspot.com",
+                "end": 23,
+                "expanded_url": "https://noarenjian.blogspot.com",
+                "start": 0,
+                "url": "https://t.co/OfEOGBnvpJ"
+              }
+            ]
+          }
+        },
+        "id": "1900590967289466880",
+        "is_identity_verified": false,
+        "location": "天台",
+        "most_recent_tweet_id": "2106620169036746836",
+        "name": "Noa人间",
+        "pinned_tweet_id": "2097629577552228772",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1900590967289466880/1789174184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090005365933113344/fWEAmDeZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 207,
+          "like_count": 6852,
+          "listed_count": 0,
+          "media_count": 277,
+          "tweet_count": 2425
+        },
+        "url": "https://t.co/OfEOGBnvpJ",
+        "username": "hathawaybk56",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

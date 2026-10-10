@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "conversation_id": "2106126072022790644",
+    "created_at": "2026-10-03T04:25:59.000Z",
+    "display_text_range": [
+      8,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T05:25:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106239315827479003"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2045513838850641921",
+          "start": 0,
+          "username": "intqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106239315827479003",
+    "in_reply_to_user_id": "2045513838850641921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106126072022790644",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@intqwq 还挺实诚 居然给了可执行的建议（绷）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1521,
+        "media_key": "3_2106096059915345920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTpbNToaoAAPAcb.jpg",
+        "width": 1290
+      },
+      {
+        "height": 1650,
+        "media_key": "3_2106096070552059904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTpbN7QaAAADEUF.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2106126072022790644",
+        "created_at": "2026-10-03T04:25:59.000Z",
+        "display_text_range": [
+          8,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T05:25:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106239315827479003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2045513838850641921",
+              "start": 0,
+              "username": "intqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106239315827479003",
+        "in_reply_to_user_id": "2045513838850641921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106126072022790644",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@intqwq 还挺实诚 居然给了可执行的建议（绷）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106096059915345920",
+            "3_2106096070552059904"
+          ]
+        },
+        "author_id": "2045513838850641921",
+        "conversation_id": "2106126072022790644",
+        "created_at": "2026-10-02T20:56:00.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T21:56:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106126072022790644"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oWiDxjKapg",
+              "end": 42,
+              "expanded_url": "https://x.com/intqwq/status/2106126072022790644/photo/1",
+              "media_key": "3_2106096059915345920",
+              "start": 19,
+              "url": "https://t.co/oWiDxjKapg"
+            },
+            {
+              "display_url": "pic.x.com/oWiDxjKapg",
+              "end": 42,
+              "expanded_url": "https://x.com/intqwq/status/2106126072022790644/photo/1",
+              "media_key": "3_2106096070552059904",
+              "start": 19,
+              "url": "https://t.co/oWiDxjKapg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106126072022790644",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106096059915345920"
+          },
+          {
+            "media_key": "3_2106096070552059904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4972,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这波除了转学 我想不到任何挽救的方法 https://t.co/oWiDxjKapg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "description": "爱我的好姐（杂）姐（鱼）@ogsa1687497\nmtf/hrt2026.3.26/半家长党/福瑞控/arc phi 冰与火 战雷/见证退避/查成分回fo/恋痛m   小号@lckmtfdesuver2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "ogsa1687497"
+              },
+              {
+                "end": 101,
+                "start": 86,
+                "username": "lckmtfdesuver2"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "is_identity_verified": false,
+        "location": "-14cm",
+        "most_recent_tweet_id": "2106239327181390155",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2092242179679035787",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1827958813603102720/1773485983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056692984549433344/ErO8uC8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1796,
+          "following_count": 1558,
+          "like_count": 8030,
+          "listed_count": 2,
+          "media_count": 113,
+          "tweet_count": 3107
+        },
+        "url": "",
+        "username": "lckmtfdesu",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "description": "恭喜你发现了宝藏（并非）｜开发者｜交易员｜发发日常和梗图｜推文仅供娱乐，真假自辩｜互fo请DM｜Entia non sunt multiplicanda praeter necessitatem",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "intqwq.com",
+                "end": 23,
+                "expanded_url": "https://intqwq.com",
+                "start": 0,
+                "url": "https://t.co/xVU9kQHo8o"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2106234537105649828",
+        "name": "数原律",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2045513838850641921/1786868048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095807561278857216/tbEp3e78_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3482,
+          "following_count": 786,
+          "like_count": 5150,
+          "listed_count": 5,
+          "media_count": 1147,
+          "tweet_count": 2451
+        },
+        "url": "https://t.co/xVU9kQHo8o",
+        "username": "intqwq",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

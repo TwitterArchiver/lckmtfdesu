@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "conversation_id": "2105908211190792286",
+    "created_at": "2026-10-03T10:54:17.000Z",
+    "display_text_range": [
+      10,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T11:54:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106337032972972540"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1811384610749874176",
+          "start": 0,
+          "username": "wgddking"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106337032972972540",
+    "in_reply_to_user_id": "1811384610749874176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105908211190792286",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wgddking 根本没有这样的谱面"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14818,
+        "height": 1280,
+        "media_key": "13_2105908179091800064",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2105908179091800064/img/grFS1TiBOBylnTpH.jpg",
+        "public_metrics": {
+          "view_count": 569112
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105908179091800064/vid/avc1/320x568/iLhL_bGg-NhNIex2.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105908179091800064/vid/avc1/480x852/1Gef6XUjLeBHA0Rt.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105908179091800064/vid/avc1/720x1280/ASK4J7cAfTxhQrTR.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2105908179091800064/pl/oKX4V7UIFoNCiMMr.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2105908211190792286",
+        "created_at": "2026-10-03T10:54:17.000Z",
+        "display_text_range": [
+          10,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T11:54:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106337032972972540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1811384610749874176",
+              "start": 0,
+              "username": "wgddking"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106337032972972540",
+        "in_reply_to_user_id": "1811384610749874176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105908211190792286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wgddking 根本没有这样的谱面"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2105908179091800064"
+          ]
+        },
+        "author_id": "1811384610749874176",
+        "conversation_id": "2105908211190792286",
+        "created_at": "2026-10-02T06:30:18.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T07:30:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105908211190792286"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xjhlIixeIO",
+              "end": 38,
+              "expanded_url": "https://x.com/wgddking/status/2105908211190792286/video/1",
+              "media_key": "13_2105908179091800064",
+              "start": 15,
+              "url": "https://t.co/xjhlIixeIO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105908211190792286",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2105908179091800064"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7187,
+          "impression_count": 1391630,
+          "like_count": 20537,
+          "quote_count": 209,
+          "reply_count": 395,
+          "retweet_count": 1237
+        },
+        "reply_settings": "everyone",
+        "text": "不开玩笑\n这回我是真想玩玩了 https://t.co/xjhlIixeIO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "description": "爱我的好姐（杂）姐（鱼）@ogsa1687497\nmtf/hrt2026.3.26/半家长党/福瑞控/arc phi 冰与火 战雷/见证退避/查成分回fo/恋痛m   小号@lckmtfdesuver2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "ogsa1687497"
+              },
+              {
+                "end": 101,
+                "start": 86,
+                "username": "lckmtfdesuver2"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "is_identity_verified": false,
+        "location": "-14cm",
+        "most_recent_tweet_id": "2106337032972972540",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2092242179679035787",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1827958813603102720/1773485983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056692984549433344/ErO8uC8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1794,
+          "following_count": 1558,
+          "like_count": 8062,
+          "listed_count": 2,
+          "media_count": 113,
+          "tweet_count": 3119
+        },
+        "url": "",
+        "username": "lckmtfdesu",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-11T12:58:52.000Z",
+        "description": "一个乐观主义者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "114514.com",
+                "end": 23,
+                "expanded_url": "http://114514.com",
+                "start": 0,
+                "url": "https://t.co/CHVCxAFPQr"
+              }
+            ]
+          }
+        },
+        "id": "1811384610749874176",
+        "is_identity_verified": false,
+        "location": "極東",
+        "most_recent_tweet_id": "2106133145947160805",
+        "name": "wgdd",
+        "pinned_tweet_id": "2105371938600419792",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1811384610749874176/1780900493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046320430001377280/xPc4v9yE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1399,
+          "following_count": 87,
+          "like_count": 3674,
+          "listed_count": 2,
+          "media_count": 908,
+          "tweet_count": 3943
+        },
+        "url": "https://t.co/CHVCxAFPQr",
+        "username": "wgddking",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "conversation_id": "2106019743690039473",
+    "created_at": "2026-10-02T13:53:29.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T14:53:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106019743690039473"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1791585754755350528",
+          "start": 3,
+          "username": "RainLemon0715"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106019743690039473",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105912773410795966",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RainLemon0715: 闭上眼睛，做一个很长很长的梦。\n你醒来的时候，窗帘缝里透进一点柔软的晨光。\n你迷迷糊糊地翻了个身，发现身边的人还在睡。\n是自己最爱的人。\n她的头发有一点乱，被子也被她踢开了一角。\n你盯着天花板发了几秒钟呆，然后突然想起来——\n这里不是学校。…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 755,
+        "media_key": "3_2105912761327001600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTm0f7LboAAz5-s.jpg",
+        "width": 1162
+      },
+      {
+        "height": 600,
+        "media_key": "3_2105912767370989568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTm0gRsbkAArENR.jpg",
+        "width": 1162
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2106019743690039473",
+        "created_at": "2026-10-02T13:53:29.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T14:53:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106019743690039473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1791585754755350528",
+              "start": 3,
+              "username": "RainLemon0715"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106019743690039473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105912773410795966",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RainLemon0715: 闭上眼睛，做一个很长很长的梦。\n你醒来的时候，窗帘缝里透进一点柔软的晨光。\n你迷迷糊糊地翻了个身，发现身边的人还在睡。\n是自己最爱的人。\n她的头发有一点乱，被子也被她踢开了一角。\n你盯着天花板发了几秒钟呆，然后突然想起来——\n这里不是学校。…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105912761327001600",
+            "3_2105912767370989568"
+          ]
+        },
+        "author_id": "1791585754755350528",
+        "conversation_id": "2105912773410795966",
+        "created_at": "2026-10-02T06:48:25.000Z",
+        "display_text_range": [
+          0,
+          126
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T07:47:53.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105912638572310776",
+          "2105912773410795966"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/37IkAcqbHz",
+              "end": 150,
+              "expanded_url": "https://x.com/RainLemon0715/status/2105912773410795966/photo/1",
+              "media_key": "3_2105912761327001600",
+              "start": 127,
+              "url": "https://t.co/37IkAcqbHz"
+            },
+            {
+              "display_url": "pic.x.com/37IkAcqbHz",
+              "end": 150,
+              "expanded_url": "https://x.com/RainLemon0715/status/2105912773410795966/photo/1",
+              "media_key": "3_2105912767370989568",
+              "start": 127,
+              "url": "https://t.co/37IkAcqbHz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105912773410795966",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105912761327001600"
+          },
+          {
+            "media_key": "3_2105912767370989568"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "闭上眼睛，做一个很长很长的梦。\n你醒来的时候，窗帘缝里透进一点柔软的晨光。\n你迷迷糊糊地翻了个身，发现身边的人还在睡。\n是自己最爱的人。\n她的头发有一点乱，被子也被她踢开了一角。\n你盯着天花板发了几秒钟呆，然后突然想起来——\n这里不是学校。\n不是宿舍。\n没有人催你起床，没有军训，没有体检，没有那些让你难受的称呼。\n这里是你们两个人的小家。\n你低头看看自己。\n穿着喜欢的睡衣。\n身体已经是自己一直期待的模样。\n没有什么东西需要藏起来，也没有什么需要向别人解释。\n你伸了个懒腰。\n鲨鲨不知道什么时候被夹在两个枕头中间，露出一个小脑袋。\n你忍不住笑了一下。\n“早安，鲨鲨。”\n旁边的爱人翻了个身。\n“……檬檬？”\n“嗯？”\n“几点了……”\n“还早。”\n她闭着眼睛伸手过来抱住你。\n“那就再睡五分钟。”\n你被她抱得动不了，只好小声嘀咕：\n“明明每天都是五分钟……”\n“嗯。”\n“然后一睡两个小时。”\n“嗯。”\n“坏蛋。”\n她笑了一声。\n你也笑了。\n窗外的阳光越来越亮。\n你突然觉得胸口特别安静。\n不是那种“终于熬过去了”的激动。\n而是一种很普通、很平淡的幸福。\n原来女孩子的生活，也可以这么普通。\n可以赖床。\n可以和喜欢的人抢被子。\n可以为了晚饭吃什么争论半天。\n可以在周末一起去超市。\n可以穿漂亮的小裙子出门。\n可以在回家的路上牵着爱人的手。\n可以拥有一个真正属于自己的家。\n你看着她，小声说：\n“亲爱的。”\n“嗯？”\n“我们真的离开那里了。”\n她睁开眼睛看你。\n没有问“哪里”。\n她知道。\n然后她握紧你的手。\n“嗯。”\n“以后就过我们自己的日子。”\n你鼻子突然有点酸。\n但这一次不是难过。\n你把脑袋埋进她怀里。\n窗外的风吹过窗帘。\n阳光落在地板上。\n鲨鲨从枕头里滚下来，“啪”地掉到了床上。\n你们两个同时笑出了声。\n然后——\n你突然醒了。\n房间还是原来的房间。\n可是你没有难过。\n因为你记得那个梦。\n梦里的自己已经先替现在的自己，走到了很远很远的地方。\n她在那里等你。\n等你慢慢走过去。\n🌙🩷\n“别急。”\n她说。\n“我们会见面的。”"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1012,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "闭上眼睛，做一个很长很长的梦。\n你醒来的时候，窗帘缝里透进一点柔软的晨光。\n你迷迷糊糊地翻了个身，发现身边的人还在睡。\n是自己最爱的人。\n她的头发有一点乱，被子也被她踢开了一角。\n你盯着天花板发了几秒钟呆，然后突然想起来——\n这里不是学校。\n不是宿舍。 https://t.co/37IkAcqbHz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "description": "爱我的好姐（杂）姐（鱼）@ogsa1687497\nmtf/hrt2026.3.26/半家长党/福瑞控/arc phi 冰与火 战雷/见证退避/查成分回fo/恋痛m   小号@lckmtfdesuver2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "ogsa1687497"
+              },
+              {
+                "end": 101,
+                "start": 86,
+                "username": "lckmtfdesuver2"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "is_identity_verified": false,
+        "location": "-14cm",
+        "most_recent_tweet_id": "2106019743690039473",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2092242179679035787",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1827958813603102720/1773485983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056692984549433344/ErO8uC8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1792,
+          "following_count": 1558,
+          "like_count": 8015,
+          "listed_count": 2,
+          "media_count": 113,
+          "tweet_count": 3099
+        },
+        "url": "",
+        "username": "lckmtfdesu",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07🍥🏳️‍⚧️｜持证含糖，hrt21.1.8｜究极家暴党｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜想当个女孩子｜SRS资金筹备ing｜无政治立场｜努力rle中｜新名字:妤蓁｜最好的老婆@whalexxs，我的此生挚爱~|“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”（现在是兼职糖果商人哦）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 104,
+                "username": "whalexxs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+iN5huf7JvPkxY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+iN5huf7JvPkxYWE9",
+                "start": 0,
+                "url": "https://t.co/GweBgmAiDG"
+              }
+            ]
+          }
+        },
+        "id": "1791585754755350528",
+        "is_identity_verified": false,
+        "location": "明天",
+        "most_recent_tweet_id": "2105983803013423147",
+        "name": "🍥雨檬&妤蓁🏳️‍⚧️🍬（🍥🍬shop）",
+        "pinned_tweet_id": "2091212242054533556",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1791585754755350528/1743065018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101177955896680448/iv3Yo7O6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4870,
+          "following_count": 337,
+          "like_count": 8394,
+          "listed_count": 4,
+          "media_count": 332,
+          "tweet_count": 2528
+        },
+        "url": "https://t.co/GweBgmAiDG",
+        "username": "RainLemon0715",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

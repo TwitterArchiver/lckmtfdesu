@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "conversation_id": "2102709282987028835",
+    "created_at": "2026-09-23T21:24:12.000Z",
+    "display_text_range": [
+      10,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T22:24:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102871679580152280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2102410569353465856",
+          "start": 0,
+          "username": "A0FT3ZRH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102871679580152280",
+    "in_reply_to_user_id": "2102410569353465856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102773581314715999",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A0FT3ZRH 唉揉揉\n我其实已经闹了半年了\n吞了三次药\n差点还给我同学了\n我爹怕了才答应的。。唉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2102709282987028835",
+        "created_at": "2026-09-23T21:24:12.000Z",
+        "display_text_range": [
+          10,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T22:24:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102871679580152280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2102410569353465856",
+              "start": 0,
+              "username": "A0FT3ZRH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102871679580152280",
+        "in_reply_to_user_id": "2102410569353465856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102773581314715999",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A0FT3ZRH 唉揉揉\n我其实已经闹了半年了\n吞了三次药\n差点还给我同学了\n我爹怕了才答应的。。唉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2102410569353465856",
+        "conversation_id": "2102709282987028835",
+        "created_at": "2026-09-23T14:54:24.000Z",
+        "display_text_range": [
+          12,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T15:54:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102773581314715999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1827958813603102720",
+              "start": 0,
+              "username": "lckmtfdesu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102773581314715999",
+        "in_reply_to_user_id": "1827958813603102720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102709282987028835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lckmtfdesu 我说这个事情被家长打了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "description": "爱我的好姐（杂）姐（鱼）@ogsa1687497\nmtf/hrt2026.3.26/半家长党/福瑞控/arc phi 冰与火 战雷/见证退避/查成分回fo/恋痛m   小号@lckmtfdesuver2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "ogsa1687497"
+              },
+              {
+                "end": 101,
+                "start": 86,
+                "username": "lckmtfdesuver2"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "is_identity_verified": false,
+        "location": "-14cm",
+        "most_recent_tweet_id": "2102871679580152280",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2092242179679035787",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1827958813603102720/1773485983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056692984549433344/ErO8uC8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1752,
+          "following_count": 1536,
+          "like_count": 7795,
+          "listed_count": 3,
+          "media_count": 111,
+          "tweet_count": 3015
+        },
+        "url": "",
+        "username": "lckmtfdesu",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-22T14:53:37.000Z",
+        "description": "mtf/无证含糖 冷冰冰 生产日期：09 想要扩列喵 喜欢交友 主玩使命召唤Q：3235390189",
+        "id": "2102410569353465856",
+        "is_identity_verified": false,
+        "location": "摩尔曼斯克",
+        "most_recent_tweet_id": "2102776354668159098",
+        "name": "Ice🏳️‍⚧️",
+        "pinned_tweet_id": "2102427361186619865",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2102410569353465856/1790091801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102423827766534144/x6mBanQ0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 8,
+          "like_count": 96,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 23
+        },
+        "url": "",
+        "username": "A0FT3ZRH",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

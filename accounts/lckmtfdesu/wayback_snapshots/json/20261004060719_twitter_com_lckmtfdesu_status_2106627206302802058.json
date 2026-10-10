@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "conversation_id": "2106542975371129189",
+    "created_at": "2026-10-04T06:07:19.000Z",
+    "display_text_range": [
+      28,
+      136
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T07:07:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106627206302802058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1516058815652777989",
+          "start": 0,
+          "username": "PaulKochakin"
+        },
+        {
+          "end": 27,
+          "id": "1699985068721082368",
+          "start": 14,
+          "username": "RX_Xron28390"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106627206302802058",
+    "in_reply_to_user_id": "1516058815652777989",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106601820109897805",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PaulKochakin @RX_Xron28390 一般情况下gd久了 会有附加的精神疾病 像焦虑抑郁强迫全都整上了\n这种情况下精神科会给你开一堆脏药，性别障碍会让你去精神科那里，跨性别友好……严格意义上讲国内这种医院几乎没几家吧，反正上海我可以说没有又友跨又有资质的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 156,
+        "media_key": "3_2106601815513223168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTwnMKDb0AAOhmE.jpg",
+        "width": 128
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2106542975371129189",
+        "created_at": "2026-10-04T06:07:19.000Z",
+        "display_text_range": [
+          28,
+          136
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T07:07:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106627206302802058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1516058815652777989",
+              "start": 0,
+              "username": "PaulKochakin"
+            },
+            {
+              "end": 27,
+              "id": "1699985068721082368",
+              "start": 14,
+              "username": "RX_Xron28390"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106627206302802058",
+        "in_reply_to_user_id": "1516058815652777989",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106601820109897805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PaulKochakin @RX_Xron28390 一般情况下gd久了 会有附加的精神疾病 像焦虑抑郁强迫全都整上了\n这种情况下精神科会给你开一堆脏药，性别障碍会让你去精神科那里，跨性别友好……严格意义上讲国内这种医院几乎没几家吧，反正上海我可以说没有又友跨又有资质的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106601815513223168"
+          ]
+        },
+        "author_id": "1516058815652777989",
+        "conversation_id": "2106542975371129189",
+        "created_at": "2026-10-04T04:26:27.000Z",
+        "display_text_range": [
+          14,
+          100
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T05:26:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106601820109897805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1699985068721082368",
+              "start": 0,
+              "username": "RX_Xron28390"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LMFniRw9i8",
+              "end": 124,
+              "expanded_url": "https://x.com/PaulKochakin/status/2106601820109897805/photo/1",
+              "media_key": "3_2106601815513223168",
+              "start": 101,
+              "url": "https://t.co/LMFniRw9i8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106601820109897805",
+        "in_reply_to_user_id": "1699985068721082368",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106601815513223168"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106542975371129189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RX_Xron28390 其实很多还是跟风来的，没有明辨是非的能力\n不过如果真的有这种念头，最应该去寻求类似于精神科/性别障碍/跨性别友好的医院寻求医学鉴定，至少别后悔\n很可惜，现在这两点都做不到捏 https://t.co/LMFniRw9i8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "description": "爱我的好姐（杂）姐（鱼）@ogsa1687497\nmtf/hrt2026.3.26/半家长党/福瑞控/arc phi 冰与火 战雷/见证退避/查成分回fo/恋痛m   小号@lckmtfdesuver2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "ogsa1687497"
+              },
+              {
+                "end": 101,
+                "start": 86,
+                "username": "lckmtfdesuver2"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "is_identity_verified": false,
+        "location": "-14cm",
+        "most_recent_tweet_id": "2106627206302802058",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2092242179679035787",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1827958813603102720/1773485983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056692984549433344/ErO8uC8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1803,
+          "following_count": 1560,
+          "like_count": 8084,
+          "listed_count": 2,
+          "media_count": 113,
+          "tweet_count": 3129
+        },
+        "url": "",
+        "username": "lckmtfdesu",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-18T14:19:37.000Z",
+        "description": "你好啊，很高兴认识你，交个朋友什么的｜光荣在于平淡，艰巨在于漫长｜C(化学)B(生物)R(放射性物质)N(核)N(麻醉物)E(爆炸物) |NATO Rd40 40mm |SCBA/PAPR/APR |摄影/NVG微光管 |LGBBQ+/WTF |整点薯条先 |Gas Mask爱好者，Military enthusias",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "militarykit.com",
+                "end": 23,
+                "expanded_url": "https://www.militarykit.com/",
+                "start": 0,
+                "url": "https://t.co/NGAYH5taxB"
+              }
+            ]
+          }
+        },
+        "id": "1516058815652777989",
+        "is_identity_verified": false,
+        "location": "「向日葵花開滿的地方」",
+        "most_recent_tweet_id": "2106618153363206374",
+        "name": "超级神奇白书书 #​9-12A",
+        "pinned_tweet_id": "2079571158417182751",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1516058815652777989/1733772648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861784087079587840/IS606ZqE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 999,
+          "following_count": 1551,
+          "like_count": 56946,
+          "listed_count": 5,
+          "media_count": 2335,
+          "tweet_count": 14357
+        },
+        "url": "https://t.co/NGAYH5taxB",
+        "username": "PaulKochakin",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-08T03:16:52.000Z",
+        "description": "17岁在美宾洲男高/德拉无疑是美味的😋/战雷elb🇷🇺/apex/kards/崩/舟/洲/BF/卡丘\n精罗，但是罗斯也是罗，绿罗也是罗，萝卜也是罗（\n蓝标会回fo的，或者私信。鉴证打咩",
+        "id": "1699985068721082368",
+        "is_identity_verified": false,
+        "location": "凡爾登，378號高地陣地，1916",
+        "most_recent_tweet_id": "2106600899187544274",
+        "name": "𝑇𝑦𝑟 𝑉𝑜𝑛 𝑊𝑒𝑙𝑡",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1699985068721082368/1772490472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061669969558147072/IWw1uzlk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2055,
+          "following_count": 574,
+          "like_count": 15900,
+          "listed_count": 5,
+          "media_count": 1860,
+          "tweet_count": 11607
+        },
+        "url": "",
+        "username": "RX_Xron28390",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "conversation_id": "2106542975371129189",
+    "created_at": "2026-10-04T06:07:57.000Z",
+    "display_text_range": [
+      27,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T07:07:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106627364298150260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1891384835383664640",
+          "start": 0,
+          "username": "zcdamowang2"
+        },
+        {
+          "end": 26,
+          "id": "1699985068721082368",
+          "start": 13,
+          "username": "RX_Xron28390"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106627364298150260",
+    "in_reply_to_user_id": "1891384835383664640",
+    "lang": "ht",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106558774974742709",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zcdamowang2 @RX_Xron28390 male-to-female"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2106542975371129189",
+        "created_at": "2026-10-04T06:07:57.000Z",
+        "display_text_range": [
+          27,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T07:07:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106627364298150260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1891384835383664640",
+              "start": 0,
+              "username": "zcdamowang2"
+            },
+            {
+              "end": 26,
+              "id": "1699985068721082368",
+              "start": 13,
+              "username": "RX_Xron28390"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106627364298150260",
+        "in_reply_to_user_id": "1891384835383664640",
+        "lang": "ht",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106558774974742709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zcdamowang2 @RX_Xron28390 male-to-female"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891384835383664640",
+        "conversation_id": "2106542975371129189",
+        "created_at": "2026-10-04T01:35:24.000Z",
+        "display_text_range": [
+          14,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T02:35:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106558774974742709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1699985068721082368",
+              "start": 0,
+              "username": "RX_Xron28390"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106558774974742709",
+        "in_reply_to_user_id": "1699985068721082368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 277,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106542975371129189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RX_Xron28390 mtf是啥😂"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "description": "爱我的好姐（杂）姐（鱼）@ogsa1687497\nmtf/hrt2026.3.26/半家长党/福瑞控/arc phi 冰与火 战雷/见证退避/查成分回fo/恋痛m   小号@lckmtfdesuver2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "ogsa1687497"
+              },
+              {
+                "end": 101,
+                "start": 86,
+                "username": "lckmtfdesuver2"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "is_identity_verified": false,
+        "location": "-14cm",
+        "most_recent_tweet_id": "2106627364298150260",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2092242179679035787",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1827958813603102720/1773485983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056692984549433344/ErO8uC8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1803,
+          "following_count": 1560,
+          "like_count": 8084,
+          "listed_count": 2,
+          "media_count": 113,
+          "tweet_count": 3130
+        },
+        "url": "",
+        "username": "lckmtfdesu",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-17T07:11:09.000Z",
+        "description": "本职数学教师🧑‍🏫    \n\n入编两年积蓄全部梭哈币圈🫡梦想脱离傻逼编制\n\nINFJ———喜欢动漫健身🏋️\n\n上班持续摸鱼中🦑\n\n不完美的执行大于完美的计划，加油再加油。",
+        "id": "1891384835383664640",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106608337517469869",
+        "name": "0x李余",
+        "pinned_tweet_id": "2100234014325870685",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1891384835383664640/1788943808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097605196696465408/HiX3BsG6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 41,
+          "like_count": 261,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 381
+        },
+        "url": "",
+        "username": "zcdamowang2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-08T03:16:52.000Z",
+        "description": "17岁在美宾洲男高/德拉无疑是美味的😋/战雷elb🇷🇺/apex/kards/崩/舟/洲/BF/卡丘\n精罗，但是罗斯也是罗，绿罗也是罗，萝卜也是罗（\n蓝标会回fo的，或者私信。鉴证打咩",
+        "id": "1699985068721082368",
+        "is_identity_verified": false,
+        "location": "凡爾登，378號高地陣地，1916",
+        "most_recent_tweet_id": "2106600899187544274",
+        "name": "𝑇𝑦𝑟 𝑉𝑜𝑛 𝑊𝑒𝑙𝑡",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1699985068721082368/1772490472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061669969558147072/IWw1uzlk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2055,
+          "following_count": 574,
+          "like_count": 15900,
+          "listed_count": 5,
+          "media_count": 1860,
+          "tweet_count": 11607
+        },
+        "url": "",
+        "username": "RX_Xron28390",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

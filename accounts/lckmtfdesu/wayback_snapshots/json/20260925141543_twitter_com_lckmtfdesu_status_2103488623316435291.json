@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1827958813603102720",
+    "conversation_id": "2103447407715627469",
+    "created_at": "2026-09-25T14:15:43.000Z",
+    "display_text_range": [
+      17,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T15:15:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103488623316435291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1843201902550634496",
+          "start": 0,
+          "username": "LwrDHYyuxR22499"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103488623316435291",
+    "in_reply_to_user_id": "1843201902550634496",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103447407715627469",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LwrDHYyuxR22499 ？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3254,
+        "media_key": "3_2103447114026242048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTDyAXNa0AACHXm.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2103447407715627469",
+        "created_at": "2026-09-25T14:15:43.000Z",
+        "display_text_range": [
+          17,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T15:15:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103488623316435291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103488623316435291",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103447407715627469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 ？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103447114026242048"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2103447407715627469",
+        "created_at": "2026-09-25T11:31:56.000Z",
+        "display_text_range": [
+          0,
+          103
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T12:31:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103447407715627469"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JYc2CAThk4",
+              "end": 127,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2103447407715627469/photo/1",
+              "media_key": "3_2103447114026242048",
+              "start": 104,
+              "url": "https://t.co/JYc2CAThk4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103447407715627469",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103447114026242048"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "一个冷知识：\n不要对任何人的职业抱有认知滤镜。警察有很多坏警察，退伍兵也有很多军痞子。\n \n相对的许多人就是借着救助者滤镜，从而对受害者进行性剥削，甚至利用药物控制。\n我已经见过不下三个用思诺思迷奸的案例。\n还有一位对女性做心理治疗的时候，称“心情不好可以来我房间，我帮你揉揉下面心情就好了”\n \n在一个封闭环境下往往所谓救助的权利架构体系，跟邪教出奇的相似"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 2474,
+          "like_count": 93,
+          "quote_count": 2,
+          "reply_count": 13,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "一个冷知识：\n不要对任何人的职业抱有认知滤镜。警察有很多坏警察，退伍兵也有很多军痞子。\n \n相对的许多人就是借着救助者滤镜，从而对受害者进行性剥削，甚至利用药物控制。\n我已经见过不下三个用思诺思迷奸的案例。 https://t.co/JYc2CAThk4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "description": "爱我的好姐（杂）姐（鱼）@ogsa1687497\nmtf/hrt2026.3.26/半家长党/福瑞控/arc phi 冰与火 战雷/见证退避/查成分回fo/恋痛m   小号@lckmtfdesuver2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "ogsa1687497"
+              },
+              {
+                "end": 101,
+                "start": 86,
+                "username": "lckmtfdesuver2"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "is_identity_verified": false,
+        "location": "-14cm",
+        "most_recent_tweet_id": "2103488623316435291",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2092242179679035787",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1827958813603102720/1773485983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056692984549433344/ErO8uC8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1756,
+          "following_count": 1535,
+          "like_count": 7826,
+          "listed_count": 3,
+          "media_count": 111,
+          "tweet_count": 3029
+        },
+        "url": "",
+        "username": "lckmtfdesu",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103447407715627469",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1843201902550634496/1728288725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079781229529022464/zTPOeSt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7451,
+          "following_count": 3428,
+          "like_count": 4866,
+          "listed_count": 20,
+          "media_count": 592,
+          "tweet_count": 4086
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

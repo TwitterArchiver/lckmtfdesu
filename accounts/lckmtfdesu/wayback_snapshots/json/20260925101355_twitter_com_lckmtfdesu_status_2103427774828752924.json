@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103128051332829184"
+      ],
+      "media_source_tweet_id": [
+        "2103128059176259878"
+      ]
+    },
+    "author_id": "1827958813603102720",
+    "conversation_id": "2103427774828752924",
+    "created_at": "2026-09-25T10:13:55.000Z",
+    "display_text_range": [
+      0,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T11:13:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103427774828752924"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2042902564048355328",
+          "start": 3,
+          "username": "TTTypezhi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Oqg4WVNqlV",
+          "end": 51,
+          "expanded_url": "https://x.com/TTTypezhi/status/2103128059176259878/photo/1",
+          "media_key": "3_2103128051332829184",
+          "start": 28,
+          "url": "https://t.co/Oqg4WVNqlV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103427774828752924",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2103128051332829184"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103128059176259878",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TTTypezhi: 不知道妳受到了什么打击😰 https://t.co/Oqg4WVNqlV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2712,
+        "media_key": "3_2103128051332829184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS_P0eDaUAAmRZw.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103128051332829184"
+          ],
+          "media_source_tweet_id": [
+            "2103128059176259878"
+          ]
+        },
+        "author_id": "1827958813603102720",
+        "conversation_id": "2103427774828752924",
+        "created_at": "2026-09-25T10:13:55.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T11:13:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103427774828752924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2042902564048355328",
+              "start": 3,
+              "username": "TTTypezhi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Oqg4WVNqlV",
+              "end": 51,
+              "expanded_url": "https://x.com/TTTypezhi/status/2103128059176259878/photo/1",
+              "media_key": "3_2103128051332829184",
+              "start": 28,
+              "url": "https://t.co/Oqg4WVNqlV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103427774828752924",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103128051332829184"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103128059176259878",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TTTypezhi: 不知道妳受到了什么打击😰 https://t.co/Oqg4WVNqlV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103128051332829184"
+          ]
+        },
+        "author_id": "2042902564048355328",
+        "conversation_id": "2103128059176259878",
+        "created_at": "2026-09-24T14:22:58.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T15:10:25.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103124902601789508",
+          "2103128059176259878"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Oqg4WVNqlV",
+              "end": 36,
+              "expanded_url": "https://x.com/TTTypezhi/status/2103128059176259878/photo/1",
+              "media_key": "3_2103128051332829184",
+              "start": 13,
+              "url": "https://t.co/Oqg4WVNqlV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103128059176259878",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103128051332829184"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 8275,
+          "like_count": 118,
+          "quote_count": 2,
+          "reply_count": 48,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "不知道妳受到了什么打击😰 https://t.co/Oqg4WVNqlV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "description": "爱我的好姐（杂）姐（鱼）@ogsa1687497\nmtf/hrt2026.3.26/半家长党/福瑞控/arc phi 冰与火 战雷/见证退避/查成分回fo/恋痛m   小号@lckmtfdesuver2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "ogsa1687497"
+              },
+              {
+                "end": 101,
+                "start": 86,
+                "username": "lckmtfdesuver2"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "is_identity_verified": false,
+        "location": "-14cm",
+        "most_recent_tweet_id": "2103427774828752924",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2092242179679035787",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1827958813603102720/1773485983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056692984549433344/ErO8uC8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1756,
+          "following_count": 1535,
+          "like_count": 7812,
+          "listed_count": 3,
+          "media_count": 111,
+          "tweet_count": 3021
+        },
+        "url": "",
+        "username": "lckmtfdesu",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-11T09:48:33.000Z",
+        "description": "全世界最好的小女孩/She.Her/17岁的小笨蛋🥺/🎂2009.3.7/🍥:2025.1.9/RLE时间太长不记得了😢/有大证/不割手od/家长不支持/💰打工攒钱SRS中.../💀死了五个号/❌线下/努力生活中喵...",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zinet.top",
+                "end": 23,
+                "expanded_url": "https://zinet.top",
+                "start": 0,
+                "url": "https://t.co/tc7gn1vBTW"
+              }
+            ]
+          }
+        },
+        "id": "2042902564048355328",
+        "is_identity_verified": false,
+        "location": "你家",
+        "most_recent_tweet_id": "2103389119296774445",
+        "name": "知式（四代目）🍥🏳️‍⚧️",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042902713881731072/m36bwUKf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1648,
+          "following_count": 645,
+          "like_count": 35,
+          "listed_count": 3,
+          "media_count": 57,
+          "tweet_count": 250
+        },
+        "url": "https://t.co/tc7gn1vBTW",
+        "username": "TTTypezhi",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
